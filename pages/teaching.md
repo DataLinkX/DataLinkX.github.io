@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 permalink: /teaching
 ---
-## Teaching
+The following is courses I taught, and lecture notes may be useful for you.
 
 ### Courses at CUHK
 
