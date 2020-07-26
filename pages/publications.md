@@ -7,7 +7,7 @@ permalink: /publication
 
 ### Publications 
 
-**Published**(\* denotes corresponding author, \# denotes joint first author)
+**Published** (\* denotes corresponding author, \# denotes joint first author)
 - **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
 - **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. Journal of Statistical Computation and Simulation.
 - **H.Jiang**, H.-b. Li and X.Fan (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. The Astrophysical Journal.
@@ -18,7 +18,7 @@ permalink: /publication
 - **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. Acta Mathematica Scientia.
 - Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. Acta Mathematica Scientia.
 
-**Manuscripts**(\* denotes corresponding author, \# denotes joint first author) 
+**Manuscripts** (\* denotes corresponding author, \# denotes joint first author) 
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
 - An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
