@@ -5,7 +5,6 @@ subtitle: Research in Jiang Lab
 permalink: /research
 ---
 
-#### Research
 I work on developing statistical methods (with theoretical support) for analysing data coming from different areas, mianly from astronomy and biology (DNA, protein, scRNA-seq, DNA methylation etc).  
  
 #### Fundings
