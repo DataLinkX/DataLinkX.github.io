@@ -4,11 +4,11 @@ title: News & Events
 permalink: /news
 ---
 
-### News and Events
+## News and Events
 
-#### 2020
+### 2020
 
-##### July
+#### July
 - The New Homepage starts
 
 
