@@ -1,4 +1,4 @@
-# Hangjin Jiang Lab Webpage
+# Hangjin Jiang Homepage
 
 ### Table of contents
 
