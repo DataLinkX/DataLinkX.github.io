@@ -5,8 +5,7 @@ subtitle: Publications in Jiang Lab
 permalink: /publication
 ---
 
-
-# Publications
+**Publications**
 
 - **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
 - **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. Journal of Statistical Computation and Simulation.
