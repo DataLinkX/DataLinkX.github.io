@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Publications
-subtitle: Publications in Jiang Lab
-permalink: /publication
+title: Research
+subtitle: Research in Jiang Lab
+permalink: /research
 ---
 
-### Publications 
+I work on developing statistical methods (with theoretical support) for analysing data coming from different areas, mianly from astronomy and biology (DNA, protein, scRNA-seq, DNA methylation etc).  My research is supported by The Fundamental Research Funds for the Central Universities, The National Natural Science Foundation of China, and Start Funding for ZJU100 Young Professor.
 
-
-#### Published  
+#### Publications  
 - **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
 - **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. Journal of Statistical Computation and Simulation.
 - **H.Jiang**, H.-b. Li and X.Fan (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. The Astrophysical Journal.
