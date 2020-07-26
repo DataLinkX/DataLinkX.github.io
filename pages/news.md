@@ -4,12 +4,10 @@ title: News & Events
 permalink: /news
 ---
 
-Here, we present latest News happened in our lab.
+#### News and Events
 
-### 2020
-
-#### July
-- The New Homepage starts
+#### 2020
+- July 26, The New Homepage starts
 
 
 
