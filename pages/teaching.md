@@ -6,7 +6,7 @@ permalink: /teaching
 
 ### Courses at CUHK
 
-#### 2017-2018
+#### 2017 - 2018
 
 - STAT6040 (Studies on Selected Topics II, with Prof. Fan)
 - STAT5014 (MSc: Data Mining with Prof. PL Leung)
@@ -17,7 +17,7 @@ permalink: /teaching
 - STAT1011 (Introduction to Statistics, with Prof. Cheung)
 - STAT6040 (Studies on Selected Topics II, with Prof. Fan)
 
-#### 2015-2016
+#### 2015 - 2016
 
 - STAT3004 (BSc: Basic Methods in Biomedical Statistics with Prof. Fan)
 - STAT5104 (MSc: Data Mining with Prof. PL Leung)
