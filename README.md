@@ -1,4 +1,4 @@
-# Xiaole Shirley Liu Lab Webpage
+# Hangjin Jiang Lab Webpage
 
 ### Table of contents
 
