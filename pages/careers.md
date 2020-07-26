@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Careers
+title: Students
 permalink: /careers
 ---
 
