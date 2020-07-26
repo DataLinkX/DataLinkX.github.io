@@ -21,9 +21,9 @@ description: at ZJU
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Software: "software"
+#  Software: "software"
   News & Events: "news"
-  People: "people"
+#  People: "people"
   Publications: "publication"
   Teaching: "teaching"
   Careers: "careers"
