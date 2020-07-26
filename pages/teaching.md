@@ -4,20 +4,21 @@ title: Teaching
 permalink: /teaching
 ---
 
-### 1. X Shirley Liu's [Blog](https://www.longwoodgenomics.org/)
+# Courses at CUHK
 
-### 2. Introduction to Computational Biology and Bioinformatics
+## 2017-2018
 
-- [STAT115/215 BIO/BST282 2020](https://canvas.harvard.edu/courses/66883) <br>
-	If you can't access Canvas, use the following links: 
-	- [Module1](/resources/html/STAT115_2020_Module1.html) 
-	- [Module2](/resources/html/STAT115_2020_Module2.html)
-	- [Module3](/resources/html/STAT115_2020_Module3.html)
-	- [Homework](https://github.com/stat115/)
-- [STAT115/215 BIO/BST282 2019](https://canvas.harvard.edu/courses/49497)
-- [STAT115/215 BIO/BST282 2018](https://canvas.harvard.edu/courses/39391)
+- STAT6040 (Studies on Selected Topics II, with Prof. Fan)
+- STAT5014 (MSc: Data Mining with Prof. PL Leung)
 
-### 3. Big data statistics in genomic and genetic research
+## 2016 - 2017
 
-- [STAT316 2020](https://canvas.harvard.edu/courses/67591)
-- [STAT316 2019](https://canvas.harvard.edu/courses/50485)
+- STAT3004 and STAT6106 (MSc: Applied Bayesian Method with Prof. Fan)
+- STAT1011 (Introduction to Statistics, with Prof. Cheung)
+- STAT6040 (Studies on Selected Topics II, with Prof. Fan)
+
+## 2015-2016
+
+- STAT3004 (BSc: Basic Methods in Biomedical Statistics with Prof. Fan)
+- STAT5104 (MSc: Data Mining with Prof. PL Leung)
+- STAT1012 (BSc: Statistics for Life Science)
