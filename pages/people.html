@@ -1,0 +1,140 @@
+---
+layout: default
+title: People
+subtitle: People in Liu Lab
+permalink: /people
+---
+
+<h1>People</h1>
+<h3>Current lab members</h3>
+
+    <h4>Principle Investigator</h4>
+        <ul>
+            <li><a href="/people/shirley_liu">X Shirley Liu, PhD</a>&nbsp;(Principle Investigator)</li>
+        </ul>
+
+    <h4>Staff</h4>
+        <ul>
+            {% for people in site.people %}
+            {% if people.status == "Staff" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
+    <h4>Experimental Postdocs</h4>
+        <ul>
+            {% for people in site.people %}
+            {% if people.status == "Experimental Postdoc" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
+    <h4>Computational Postdocs</h4>
+        <ul>
+            {% for people in site.people %}
+            {% if people.status == "Computational Postdoc" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
+    <h4>Students</h4>
+        <ul>
+            {% for people in site.people %}
+            {% if people.status == "Student" %}
+            <li><a href="{{people.permalink}}">{{people.pname}}</a>&nbsp;({{people.position}})</li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+
+<h4>Visiting scholars</h3>
+<ul>
+    <li>Jingxin Fu, PhD Candidate, Tongji University, Shanghai, China.</li>
+    <li>Changxin Wan, MS Candidate, Tongji University, Shanghai, China.</li>
+    <li>Wubing Zhang, PhD Candidate, Tongji University, Shanghai, China.</li>
+    <li>Jingyu Fan, PhD, Tongji University, Shanghai, China.</li>
+    <li>Yang Cao, PhD, Sichuan University, Chengdu, China.</li>
+    <li>Jun Chu, PhD, Anhui University of Chinese Medicine, Hefei, China.</li>
+</ul>
+
+<h3>Alumni</h3>
+<h4>Postdoc Fellows and Current Status</h4>
+<ul>
+    <li>Chenfei Wang, Ph.D. (2018-2020) Professor, Department of Bioinformatics, Tongji University, Shanghai, China</li>
+    <li><a href="https://www.linkedin.com/in/qin-tang-13416034/">Qin Tang, PhD.</a>（2017-2019） Postdoctoral Research Associate, Salk Institute, Dr. Ron Evans lab, La Jolla, CA</li>
+    <li><a href="https://ccr.cancer.gov/cancer-data-science-laboratory/peng-jiang">Peng Jiang, PhD.</a> (2013-2019) NIH Stadtman Investigator, National Cancer Institute, Bethesda, MD</li>
+    <li><a href="https://www.linkedin.com/in/jingyu-amy-peng-aa3b915b">Jingyu Amy Peng, PhD.</a> (2016-2019), Scientist at Bluebird Bio, Cambridge, MA</li>
+    <li><a href="https://huxihao.github.io/">Xihao (Sherlock) Hu, PhD.</a> (2016-2019), Chief Scientist at GV20 Therapeutics LLC, Boston, MA</li>
+    <li><a href="https://weililab.org/%22">Wei Li, Ph.D.</a> (2012-2018), Assistant Professor at Children’s National Medical Center, Washington, DC</li>
+    <li><a href="http://profiles.utsouthwestern.edu/profile/175573/bo-li.html">Bo Li, Ph.D.</a> (2014-2017), Assistant Professor at UT Southwestern, Dallas, TX</li>
+    <li><a href="http://bioxbh.com/sites/">Tengfei Xiao, Ph.D.</a> (2013-2017), Chief Technology Officer at XBH Biotechnology, Shanghai, China</li>
+    <li><a href="https://www.gusmaolab.org/blog">Eduardo G. Gusmao, Ph.D.</a> (2016-2017), Research Fellow, University of Cologne, Dr. Argyris Papantonis Lab, Cologne, Germany</li>
+    <li><a href="http://faculty.neu.edu.cn/feiteng/index.html">Teng Fei, Ph.D.</a> (2011-2017), Principal Investigator, College of Life and Health Sciences, Northeastern University, Shengyang, China</li>
+    <li><a href="http://faculty.virginia.edu/zang/">Chongzhi Zang, Ph.D.</a> (2010-2016), Assistant Professor, Center for Public Health Genomics, University of Virginia School of Medicine, Charlottesville, VA</li>
+    <li><a href="https://johanneskoester.bitbucket.io/">Johannes Koster, Ph.D.</a> (2015-2016) Group Leader, Institute of Human Genetics, University of Duisburg-Essen, Germany</li>
+    <li><a href="https://www.linkedin.com/in/eric-severson-md-phd">Eric Severson, MD.</a> (2014-2016), Medical Director at Foundation Medicine</li>
+    <li><a href="http://mcvicker.salk.edu/">Graham McVicker, Ph.D.</a> (2013-2015) Assistant Professor, Salk Institute, La Jolla, CA</li>
+    <li><a href="http://faculty.mdanderson.org/Han_Xu/Default.asp?SNID=0">Han Xu, Ph.D.</a> (2010-2015) Assistant Professor, UT MD Anderson Cancer Center, Houston, TX</li>
+    <li><a href="https://www4.mdanderson.org/peoplefinder/person.cfm?id=3E5EDBDECB1B">Yiwen Chen, Ph.D.</a> (2009-2014) Assistant Professor, UT MD Anderson Cancer Center, Houston, TX</li>
+    <li><a href="http://medbio.utoronto.ca/faculty/he.html">H. Hansen He, Ph.D.</a> (2008-2013) Associate Professor, at the University of Toronto, Canada</li>
+    <li><a href="http://lab.biomisc.org/">Tao Liu, Ph.D.</a> (2007-2012) Assistant Professor of Oncology, Roswell Park Comprehensive Cancer Center, Buffalo, NY</li>
+    <li><a href="https://www.linkedin.com/in/jeremywubio">Zhenhua Jeremy Wu, Ph.D.</a> (2008-2012) Bioinformatics Scientist, H3 Biomedicine, Cambridge, MA</li>
+    <li><a href="http://english.ibp.cas.cn/ibp_pi/HK/201804/t20180418_191789.html">Shunmin He, Ph.D.</a> (2010-2011) Principal Investigator, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China</li>
+    <li><a href="https://www.linkedin.com/in/hyunjin-gene-shin-6456253">Hyunjin Gene Shin, Ph.D.</a> (2007-2011) Scientist, Millennium Pharmaceuticals: The Takeda Oncology Company, Cambridge, MA</li>
+    <li><a href="http://blogs.worldbank.org/team/utz-pape">Utz Pape, Ph.D.</a> (2009-2010) Statistician, Department of Public Health, Imperial College, London, England</li>
+    <li><a href="http://ibreeding.org/index.html">Xiangfeng Wang, Ph.D.</a> (2008-2010) Professor at the Department of Crop Genomics and Bioinformatics at Chinese Agricultural University, Beijing, China</li>
+    <li><a href="https://zhanglab.tongji.edu.cn/">Yong Zhang, Ph.D.</a> (2006-2009) Professor, Department of Bioinformatics, Tongji University, Shanghai, China</li>
+    <li><a href="http://song.igb.illinois.edu/">Jun Song, Ph.D.</a> (2005-2007) Professor, Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Champaign, IL</li>
+    <li><a href="https://openwetware.org/wiki/Li_Lab">Wei Li, Ph.D.</a> (2004-2007) Professor, Department of Molecular and Cellular Biology, Dan L. Duncan Cancer Center, Baylor School of Medicine, Houston, TX</li>
+
+</ul>
+<h4>PhD Students and current status</h4>
+<ul>
+    <li><a href="https://www.linkedin.com/in/chen-hao-chen-1993095a">Chen-hao Chen, PhD.</a> (2012-2020) Senior Computational Statistician, WuXi NextCODE, Cambridge, MA</li>
+    <li><a href="http://www.bumc.bu.edu/compbiomed/people/faculty/w-evan-johnson/">Evan Johnson, PhD</a> (2004-2007) Associate Professor, Department of Medicine, Boston University, Boston, MA</li>
+    <li><a href="http://www.coastalradiationoncology.com/radiation-oncology/radiation-oncologists/kaveh-maghsoudi-m-d-phd">Kaveh Maghsoudi, MD / PhD</a> (2005-2008) Radiologist at Coastal Radiation Oncology, Ventura, CA</li>
+</ul>
+
+<!--<ul>-->
+<! Jijun Yu, Xin Huang, Xiaoman Wang, Zhangyi Ouyang>
+    <!--<li>Add each current visiting scholars here, one for each line</li>-->
+    <!--<li>Jin Wang (2018-2019) PhD Candidate, Tongji University, Shanghai, China</li>-->
+    <!--<li>Rongbin Zheng (2018-2019), PhD Candidate, Tongji University, Shanghai, China.</li>-->
+    <!--<li>Jian Zhang (2016-2018), PhD Candidate, Chinese Institute of Basic Biological Sciences, Shanghai, China</li>-->
+    <!--<li>BinBin Wang (2017-2018), PhD Candidate, Tongji University, Shanghai, China.</li>-->
+    <!--<li>Ziyi Li (2017-2018), PhD Candidate, Tongji University, Shanghai, China.</li>-->
+    <!--<li>Yingbo Cui (2016-2017), PhD candidate, National University of Defense Technology, Changsha, China</li>-->
+    <!--<li>Taiwen Li (2014-2017), Assistant Professor, State Key Laboratory, Sichuan University, Sichuan, China</li>-->
+    <!--<li>Jingyu Fan (2015-2017), PhD Candidate, Tongji University, Tongji, China</li>-->
+    <!--<li>Xiaofang Xing (2016-2017), Associate Professor, M.D. Peking University Cancer Hospital, Peking, China</li>-->
+    <!--<li>Feizhen Wu (2015-2017) Assistant Professor, Fudan University, Institutes of Biomedical Sciences, Shanghai, China</li>-->
+    <!--<li>Xue Zou (2016-2017) PhD Candidate, Duke University, Durham, NC</li>-->
+    <!--<li>Qi Liao (2015-2016) Assistant Professor, Ningbo University, Zhejiang, China</li>-->
+    <!--<li>Ruoxu Dou(2015-2016) Surgeon, Sun Yat-sen University, Guangzhou, China</li>-->
+    <!--<li>Qiu Wu (2014-2015) PhD Candidate, Tongji University, Tonji, China</li>-->
+    <!--<li>Jiaxin Wu (2014-2015) PhD Candidate, Tsinghua University, Beijing, China</li>-->
+    <!--<li>Shihua Zhang (2014-2015), Associate Professor, Academy of Mathematics and Systems Science, Chinese Academy of Science, Beijing, China</li>-->
+    <!--<li>Shenglin Mei (2013-2014) PhD Candidate, Tongji University, Tongji, China</li>-->
+    <!--<li>Haiyun Wang (2012-2014), Associate Professor, Bioinformatics, Tongji University, Shanghai, China</li>-->
+    <!--<li>Xiaoqi Zheng (2012-2014), Associate Professor Department of Mathematics, Shanghai Normal University, Shanghai, China</li>-->
+    <!--<li>Qian Alvin Qin (2014) PhD Candidate, Tongji University, Tongji, China</li>-->
+    <!--<li>Yin Liu (2012-2014) PhD, Shanghai Pulmonary Hospital, Shanghai, China</li>-->
+    <!--<li>Chenfei Wang (2013-2014) PhD Candidate, Tongji University Tongji, China</li>-->
+    <!--<li>Qinghua Jiang, PhD (2012) Associate Professor, Bioinformatics, Harbin Institute of Technology, Harbin, China</li>-->
+    <!--<li>Hanfei Sun (2012) Graduate Student, Carnegie Mellon University, Pittsburgh, PA</li>-->
+    <!--<li>Su Wang (2012-2013) Postdoc, Harvard Medical School, Cambridge, MA</li>-->
+    <!--<li>Sheng’en Hu (2012-2013) PhD Candidate, Tongji University Tongji, China</li>-->
+    <!--<li>Zhou Du (2011) Postdoc, Harvard Medical School and Boston Children’s Hospital, Boston, MA</li>-->
+    <!--<li>Bo Qin (2011-2012) MS Tongji University; Huarong Investment, Tongji, China</li>-->
+    <!--<li>Jian Ma (2010-2011) PhD Candidate, Tongji University, Tongji, China</li>-->
+    <!--<li>Qingyi Cao (2008-2009) Assistant Professor, Zhejiang University, Hangzhou, China</li>-->
+    <!--<li>Zhihua Liu (2007-2008) Associate Professor, Institute of Medicinal Plant Development, Chinese Academy of Medical Sciences, Peking Union Medical College, China</li>-->
+<!--</ul>-->
+
+<h4>Other students and current status</h4>
+<ul>
+    <li><a href="http://www.childrenshospital.org/research/researchers/m/arjun-manrai">Raj Manrai, undergraduate researcher</a> (2007-2009) Assistant Professor, Harvard Medical School, Boston, MA</li>
+    <li><a href="https://openwetware.org/wiki/User:Ying_Lei">Lei Ying, undergraduate researcher</a> (2007-2008) PhD student, Stanford University, CA</li>
+</ul>
