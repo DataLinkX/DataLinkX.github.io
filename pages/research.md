@@ -5,7 +5,13 @@ subtitle: Research in Jiang Lab
 permalink: /research
 ---
 
-<p>I work on developing statistical methods (with theoretical support) for analysing data coming from different areas, mianly from astronomy and biology (DNA, protein, scRNA-seq, DNA methylation etc).  My research is supported by The Fundamental Research Funds for the Central Universities, The National Natural Science Foundation of China, and Start Funding for ZJU100 Young Professor.</p>
+#### Research
+I work on developing statistical methods (with theoretical support) for analysing data coming from different areas, mianly from astronomy and biology (DNA, protein, scRNA-seq, DNA methylation etc).  
+ 
+#### Fundings
+ - The Fundamental Research Funds for the Central Universities
+ - The National Natural Science Foundation of China 
+ - Start Funding for ZJU100 Young Professor.
 
 #### Publications  
 - **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
