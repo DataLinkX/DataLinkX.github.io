@@ -24,10 +24,10 @@ navbar-links:
 #  Software: "software"
   News & Events: "news"
 #  People: "people"
-  Publications: "publication"
   Teaching: "teaching"
   Students: "careers"
-  Contact: "contact"
+  Publications: "publication"
+#  Contact: "contact"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
