@@ -4,7 +4,7 @@ title: News & Events
 permalink: /news
 ---
 
-## News and Events
+Here, we present latest News happened in our lab.
 
 ### 2020
 
