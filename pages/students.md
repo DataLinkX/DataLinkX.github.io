@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Students
-permalink: /careers
+permalink: /students
 ---
 
 We are looking for students who has a strong insterest in interdiscipline research. <br>
