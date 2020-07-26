@@ -13,7 +13,7 @@ We are looking for students who has a strong insterest in interdiscipline resear
 
 ### Graduates
  
-  If you want to be my Master/PhD, please visit the homepage of our center
+  If you want to be my Master/PhD, please visit the [homepage of our center](http://cds.zju.edu.cn/industry-news.aspx?k1=6&k2=24)
 
   **Skills required**
   - Self-motiviated 
