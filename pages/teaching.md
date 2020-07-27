@@ -5,7 +5,7 @@ permalink: /teaching
 ---
 ### Teaching
 
-**Courses at CUHK**
+#### Courses at CUHK
 - 2017 - 2018
     - STAT6040 (Studies on Selected Topics II, with Prof. Fan)
     - STAT5014 (MSc: Data Mining with Prof. PL Leung)
