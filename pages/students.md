@@ -4,7 +4,9 @@ title: Students
 permalink: /students
 ---
 
-#### We are looking for students who has a strong insterest in interdiscipline research.
+### Students
+
+We are looking for students who have a strong insterest in interdiscipline research and want to make a impact on scientific community.
 
 ### Undergraduates
 * If you are a senior undergraduate who wants to do research with me, please feel free to email me. I accept 3<sup>rd</sup> year undergraduates as my reasearch assistant.
