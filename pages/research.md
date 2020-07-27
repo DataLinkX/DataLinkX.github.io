@@ -10,7 +10,7 @@ permalink: /research
 - Biostatistics and Computational Biology
 - Statistical Learning, Machine Learning, Deep learning
  
-**Fundings**
+### Fundings
 - The Fundamental Research Funds for the Central Universities
 - The National Natural Science Foundation of China (No.11901517)
 - Start Funding for ZJU100 Young Professor.
