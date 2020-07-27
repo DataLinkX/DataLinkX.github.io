@@ -16,8 +16,9 @@ We are looking for students who have a strong insterest in interdiscipline resea
 
 ### Graduates
   - If you want to be my Master/PhD, please visit the [Center for Data Science](http://cds.zju.edu.cn/industry-news.aspx?k1=6&k2=24) for details.
-  - **Skills required**
-      - Self-motivated 
-      - Strong self-learning ability
-      - English (writing & reading), Mathematical proficiency, Coding (C++, R, or Python)
+  - Quota (each year): One PhD and several Maters (quota given by School of Mathematics).
+#### Skills required
+  - Self-motivated 
+  - Strong self-learning ability
+  - English (writing & reading), Mathematical proficiency, Coding (C++, R, or Python)
 
