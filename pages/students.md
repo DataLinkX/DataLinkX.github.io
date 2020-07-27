@@ -22,5 +22,5 @@ We are looking for students who have a strong insterest in interdiscipline resea
       - Strong self-learning ability
       - English (writing & reading), Mathematical proficiency, Coding (C++, R, or Python)
      
-  <img src="/resources/staresearch.png" alt="drawing" style="width:500px;"/>
+  <img src="/resources/staresearch.png" alt="drawing" style="width:500px;text-align: center;"/>
 
