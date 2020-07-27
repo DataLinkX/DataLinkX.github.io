@@ -4,9 +4,12 @@ title: Research
 subtitle: Research in Jiang Lab
 permalink: /research
 ---
-
-I work on developing statistical methods (with theoretical support) for analysing data coming from different areas, mianly from astronomy and biology (DNA, protein, scRNA-seq, DNA methylation etc).  
-#### Fundings
+### Research Interests
+- Bayesian Data analysis
+- Statistical Methodology
+- Biostatistics and Computational Biology
+- Statistical Learning, Machine Learning, Deep learning
+ **Fundings**
  - The Fundamental Research Funds for the Central Universities
  - The National Natural Science Foundation of China (No.11901517)
  - Start Funding for ZJU100 Young Professor.
