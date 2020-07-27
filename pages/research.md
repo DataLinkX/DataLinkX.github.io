@@ -11,9 +11,10 @@ permalink: /research
 - Statistical Learning, Machine Learning, Deep learning
  
 ### Fundings
-- The Fundamental Research Funds for the Central Universities
-- The National Natural Science Foundation of China (No.11901517)
-- Start Funding for ZJU100 Young Professor.
+- Start Funding for ZJU100 Young Professor, 2019.1 -
+- The Fundamental Research Funds for the Central Universities, 2019.1 - 2019.12
+- The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
+
 
 ### Publications  
 - **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
