@@ -26,6 +26,7 @@ permalink: /news
 - Bayesian revisit of the  Zeeman measurements,  Department of Physics,  CUHK, Oct. 11,  2018
 - Exploring the Free Energy Landscape of Proteins, XiaMen University, XiaMen, China, May., 2018
 - Two-sample Distribution Test and Variable Screening, Hunan Normal University, Changsha, China, Dec. 2017
+
 #### Conference 
 - The number of stable states for complex proteins. ICSA, China, Nankai University, 2019.
 - New Method for Revealing Free Energy Landscape of Proteins, The 4th Institute of Mathematical Statistics Asia Pacific Rim Meeting, Hong Kong, 2016
