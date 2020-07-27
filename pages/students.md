@@ -15,7 +15,7 @@ We are looking for students who have a strong insterest in interdiscipline resea
 
 ### Graduates
   - If you want to be my Master/PhD, please visit the [Center for Data Science](http://cds.zju.edu.cn/industry-news.aspx?k1=6&k2=24) for details.
-  - What is a PhD ([Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf))
+  - What is a PhD ? (see [Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf))
   - Quota (each year): One PhD and several Masters (quota determined by School of Mathematics).
 #### Skills required
       - Self-motivated 
