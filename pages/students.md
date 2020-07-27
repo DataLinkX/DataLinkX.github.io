@@ -9,7 +9,7 @@ We are looking for students who has a strong insterest in interdiscipline resear
 #### Undergraduates
 * If you are a senior undergraduate who wants to do research with me, please feel free to email me. I accept 3<sup>rd</sup>-year undergraduates as my reasearch assistant.
 * If you are willing to work your thesis with me, please contact with me as earlier as possible.
-- 2020, I supervised 4 students' thesis and 2 of them are scored above 90.
+    - 2020, I supervised 4 students' thesis and 2 of them are scored above 90.
 
 
 #### Graduates
