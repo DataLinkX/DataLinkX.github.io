@@ -8,7 +8,7 @@ permalink: /research
 I work on developing statistical methods (with theoretical support) for analysing data coming from different areas, mianly from astronomy and biology (DNA, protein, scRNA-seq, DNA methylation etc).  
 #### Fundings
  - The Fundamental Research Funds for the Central Universities
- - The National Natural Science Foundation of China 
+ - The National Natural Science Foundation of China (No.11901517)
  - Start Funding for ZJU100 Young Professor.
 
 #### Publications  
