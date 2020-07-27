@@ -21,6 +21,6 @@ We are looking for students who have a strong insterest in interdiscipline resea
       - Self-motivated 
       - Strong self-learning ability
       - English (writing & reading), Mathematical proficiency, Coding (C++, R, or Python)
-      
- ![Statistical Research](/resources/staresearch.png =100x80)
+     
+  <img src="/resources/staresearch.png" alt="drawing" style="width:200px;"/>
 
