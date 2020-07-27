@@ -7,7 +7,7 @@ permalink: /news
 #### News and Events
 
 #### 2020
-- July 26, The New Homepage starts
+- July 26, The New Homepage is online.
 - Jan 03, [Prof. Xihong Lin](https://content.sph.harvard.edu/xlin/) from Havard University visited our group. 
 
 #### 2019
