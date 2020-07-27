@@ -5,8 +5,8 @@ subtitle: Research in Jiang Lab
 permalink: /research
 ---
 ### Research Interests
-- Bayesian Data analysis
-- Statistical Methodology
+- Bayesian Data analysis (Inference and Modeling)
+- Statistical Methodology (Theoretical Development)
 - Biostatistics and Computational Biology
 - Statistical Learning, Machine Learning, Deep learning
 - **Fundings**
