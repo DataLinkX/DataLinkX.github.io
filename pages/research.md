@@ -5,16 +5,15 @@ subtitle: Research in Jiang Lab
 permalink: /research
 ---
 ### Research Interests
-- Bayesian Data analysis (Inference and Modeling)
+- Bayesian Data Analysis (Inference and Modeling)
 - Statistical Methodology (Theoretical Development)
 - Biostatistics and Computational Biology
-- Statistical Learning, Machine Learning, Deep learning
+- Statistical Learning, Machine Learning and Deep learning
  
 ### Fundings
-- Start Funding for ZJU100 Young Professor, 2019.1 -
+- Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
 - The Fundamental Research Funds for the Central Universities, 2019.1 - 2019.12
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
-
 
 ### Publications  
 - **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
