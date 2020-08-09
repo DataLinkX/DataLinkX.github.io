@@ -23,10 +23,10 @@ navbar-links:
   Home: "/"
 #  Software: "software"
 #  People: "people"
-  News & Events: "news"
   Teaching: "teaching"
   Students: "students"
   Research: "research"
+  News & Events: "news"
   
 #  About Me: "aboutme"
 #  Resources:
