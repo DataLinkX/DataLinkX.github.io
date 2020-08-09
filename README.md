@@ -1,4 +1,4 @@
-# Hangjin Jiang Homepage
+# Hangjin Jiang lab at Zhejiang University
 
 ### Table of contents
 
