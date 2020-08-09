@@ -27,7 +27,7 @@ navbar-links:
   Students: "students"
   Research: "research"
   News & Events: "news"
-#  Contact: "contact"
+  Contact: "contact"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -68,15 +68,17 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Hangjin Jiang
+  name: Xiaole Shirley Liu Lab
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
- social-network-links:
+social-network-links:
+  rss: false
  email: "jianghj@zju.edu.cn"
- github: jianglabs
+#  facebook: deanattali
+  github: jianglabs
 #  twitter: xshirleyliu
 #  reddit: yourname
 #  linkedin: daattali
@@ -92,7 +94,7 @@ author:
 #  yelp: yourname
 
 # Select which share links to show in posts
- share-links-active:
+share-links-active:
   twitter: true
   facebook: true
   linkedin: true
