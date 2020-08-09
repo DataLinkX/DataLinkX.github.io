@@ -22,11 +22,11 @@ description: Homepage
 navbar-links:
   Home: "/"
 #  Software: "software"
-  News & Events: "news"
 #  People: "people"
   Teaching: "teaching"
   Students: "students"
   Research: "research"
+  News & Events: "news"
 #  Contact: "contact"
 #  About Me: "aboutme"
 #  Resources:
@@ -75,6 +75,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
  social-network-links:
+ 
  email: "jianghj@zju.edu.cn"
  github: jianglabs
 #  twitter: xshirleyliu
@@ -93,6 +94,7 @@ author:
 
 # Select which share links to show in posts
  share-links-active:
+ 
   twitter: true
   facebook: true
   linkedin: true
