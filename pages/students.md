@@ -19,7 +19,7 @@ We are looking for students who have a strong insterest in interdiscipline resea
   - Additional opportunities
       - visiting oversea universities
       - competitive allowance
-  - *Skills required*
+  - **Requirements**
       - Self-motivated 
       - Strong self-learning ability
       - English (writing & reading), Mathematical proficiency, Coding (C++, R, or Python)
