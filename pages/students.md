@@ -4,7 +4,7 @@ title: Students
 permalink: /students
 ---
 
-### Future Students
+### Students
 We are looking for students who have a strong insterest in interdiscipline research and want to make a impact on scientific community. If you have any concern, please feel free to email me (jianghj@zju.edu.cn).
 ### Undergraduates
 * If you are a senior undergraduate who wants to do research with me, please feel free to email me. I accept 3<sup>rd</sup> year undergraduates as my reasearch assistant.
