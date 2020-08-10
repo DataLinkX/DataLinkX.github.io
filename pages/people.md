@@ -15,4 +15,4 @@ Hangjin Jiang, Assistant Professor
 - Shiya Gu, from ZJU－UoE Institute (浙江大学爱丁堡大学联合学院)
 
 ### Graduates
-- He, Li graduated from Jilin University.
+- He Li, graduated from Jilin University.
