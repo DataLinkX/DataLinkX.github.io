@@ -13,9 +13,9 @@ We are looking for students who have a strong insterest in interdiscipline resea
 
 ### Graduates
   - Quota (each year): One PhD (What is a PhD ? see [Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)) and several Masters.
-  - My Master/PhD students belong to [School of Mathematical Sciences](http://www.math.zju.edu.cn/), related requirement should be filled to be my student.
-      - Informaiton about [Center for Data Science](http://cds.zju.edu.cn/) at Zhejiang University
-      - Information about admission of [School of Mathematical Sciences](http://www.math.zju.edu.cn/38087/list.htm).
+  - My Master/PhD students currently belong to [School of Mathematical Sciences](http://www.math.zju.edu.cn/)
+      - Informaiton about [Center for Data Science](http://cds.zju.edu.cn/)
+      - Admission information at [School of Mathematical Sciences](http://www.math.zju.edu.cn/38087/list.htm).
   - Additional opportunities
       - visiting oversea universities
       - competitive allowance
