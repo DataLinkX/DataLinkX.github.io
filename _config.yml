@@ -22,7 +22,7 @@ description: Hangjin Jiang Lab at ZJU
 navbar-links:
   Home: "/"
 #  Software: "software"
-#  People: "people"
+  People: "people"
   Research: "research"
   Teaching: "teaching"
   Students: "students"
