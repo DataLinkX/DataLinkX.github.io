@@ -7,7 +7,7 @@ permalink: /people
 
 # People
 
-## Current lab members
+### Current lab members
 
 ### Principle Investigator
 Hangjin Jiang, Assistant Professor
