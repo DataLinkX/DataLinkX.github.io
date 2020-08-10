@@ -12,12 +12,13 @@ We are looking for students who have a strong insterest in interdiscipline resea
     - In 2020, I supervised 4 students' thesis and 2 of them were scored above 90.
 
 ### Graduates
-  - Quota (each year): One PhD and several Masters (quota determined by School of Mathematics).
+  - Quota (each year): One PhD (What is a PhD ?, see [Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)) and several Masters (quota determined by School of Mathematics).
   - My Master/PhD students belong to [School of Mathematical Sciences](http://www.math.zju.edu.cn/), related requirement should be filled to be my student.
       - Informaiton about [Center for Data Science](http://cds.zju.edu.cn/) at Zhejiang University
-      - Information about addimision of [School of Mathematical Sciences](http://www.math.zju.edu.cn/38087/list.htm).
-  - What is a PhD ? (see [Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf))
- 
+      - Information about admission of [School of Mathematical Sciences](http://www.math.zju.edu.cn/38087/list.htm).
+  - Additional opportunities
+      - visiting oversea universities
+      - competitive allowance
   
 #### Skills required
   - Self-motivated 
