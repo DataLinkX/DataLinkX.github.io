@@ -5,7 +5,7 @@ subtitle: Resources in Jiang Lab
 permalink: /resources/
 ---
 
-### Resources
+## Resources
 
 ### Journals
 - Bioinformatics: Nature, Cell, Science, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), Nature biotech, [Nature Communication](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article)
