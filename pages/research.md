@@ -4,7 +4,7 @@ title: Research
 subtitle: Research in Jiang Lab
 permalink: /research
 ---
-### Research Interests
+### Research Interests ([Related Resources](/resources))
 - Bayesian Data Analysis (Inference and Modeling)
 - Statistical Methodology (Theoretical Development)
 - Biostatistics and Computational Biology
