@@ -40,3 +40,12 @@ permalink: /research
 - Equitablity of Dependence Measure, **H.Jiang**, K.Liu and Y.Ding (2013)
 
 Note: \* denotes corresponding author, \# denotes joint first author
+
+### Resources
+- Journals
+    - Bioinformatics: Nature, Cell, Science, Genome Biology, Nature Method, Nature biotech, Nature Communication, NAR
+    - Statistics: JASA, Annals of Statistics, Biometrica, JRSSB, Statistica Sinica
+    - Marchine Learning: NIPS, JMLR, Foundations and Trends
+- Electronic Books
+    - Electronic library
+    - Springer Link
