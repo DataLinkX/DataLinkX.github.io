@@ -14,7 +14,7 @@ permalink: /resources/
 2. New problems (with classical/new method)
 3. New connections between different methods/problems
 4. New theory for methodologies
-5. Apply old methods to new settings (not so creative but with solid theoretical development)
+5. Extending old methods to new settings (not so creative but with solid theoretical development)
 
 ### Related Top Journals
 - Bioinformatics: Nature, Cell, Science, Nature biotech, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), [Nature Communication](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article), [Bioinformatics](https://academic.oup.com/bioinformatics), [Briefings](https://academic.oup.com/bib)
