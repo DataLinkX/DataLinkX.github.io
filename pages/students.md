@@ -5,7 +5,7 @@ permalink: /students
 ---
 
 ### Collaborators
-Collaborations are welcome! We are glad to work together with researchers from different areas who are also interested in exploring mechanism behind data. If you confront with problem in data analysis, please do not hesitate to email me [jianghj@zju.edu.cn](mailto:jianghj@zju.edu.cn).
+Collaborations are welcome! We are glad to work together with researchers from different areas who are also interested in exploring mechanism behind data. If you confront with problem in data analysis, please do not hesitate to email me ([jianghj@zju.edu.cn](mailto:jianghj@zju.edu.cn)).
 
 ### Students
 We are looking for students who have a strong insterest in interdiscipline research and want to make a impact on scientific community. If you have any concern, please feel free to email me [jianghj@zju.edu.cn](mailto:jianghj@zju.edu.cn).
