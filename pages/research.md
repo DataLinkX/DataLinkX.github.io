@@ -47,6 +47,7 @@ Note: \* denotes corresponding author, \# denotes joint first author
     - Statistical Methodology: [JASA](https://amstat.tandfonline.com/action/showAxaArticles?journalCode=uasa20&), [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), [Biometrika](https://academic.oup.com/biomet), [JRSSB](https://rss.onlinelibrary.wiley.com/journal/14679868), [Statistica Sinica](http://www3.stat.sinica.edu.tw/statistica/)
     - Marchine Learning: [NIPS](https://papers.nips.cc/), [JMLR](http://jmlr.org/), [Foundations and Trends](https://www.nowpublishers.com/mal)
     - Biostatistics: [Biostatistics](https://academic.oup.com/biostatistics/issue), [AoAS](https://projecteuclid.org/current/euclid.aoas), [PNAS](https://www.pnas.org/content/by/section/Statistics), [Biometrics](https://onlinelibrary.wiley.com/journal/15410420), [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258)
+    - Preprints: [BioRxiv](https://www.biorxiv.org/), [ML arxiv](https://arxiv.org/list/stat.ML/recent),[ST arxiv](https://arxiv.org/list/math.ST/current), [SM arxiv](https://arxiv.org/list/stat.ME/recent) 
 - Electronic Books
     - [Electronic library](http://en.bookfi.net/)
     - [Springer Link](http://link.springer.com/?)
