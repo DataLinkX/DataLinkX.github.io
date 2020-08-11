@@ -3,6 +3,10 @@ layout: default
 title: Students
 permalink: /students
 ---
+## Join Us
+
+### collaborators
+Collaborations are welcome! We are glad to work together with researchers from different areas who also are interested in exploring mechanism behind data.
 
 ### Students
 We are looking for students who have a strong insterest in interdiscipline research and want to make a impact on scientific community. If you have any concern, please feel free to email me (jianghj@zju.edu.cn).
