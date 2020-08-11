@@ -5,17 +5,26 @@ subtitle: Resources in Jiang Lab
 permalink: /resources/
 ---
 
-# Software
-### Single Cell 
-- [**MAESTRO**](http://github.com/liulab-dfci/MAESTRO) &nbsp;
-Model-based Analyses of Transcriptome and Regulome (MAESTRO) is a comprehensive open-source computational workflow for integrative analysis of single-cell RNA-seq (scRNA-seq) and ATAC-seq (scATAC-seq) data from multiple platforms.
-- [**TISCH**](http://tisch.comp-genomics.org/home/)  &nbsp; 
-Tumor Immune Single-cell Hub (TISCH) provides detailed cell-type annotation for all curated tumor scRNA-seq datasets, enabling users to explore tumor immunity across many tumor scRNA-seq cohorts.
+### Resources
 
-### Transcriptome Analysis
-- [**GFold**](https://bitbucket.org/feeldead/gfold) &nbsp;
-Generalized fold change for ranking differentially expressed genes from RNA-seq data.
-- [**SAGE-seq gene EXPRESSion analysis pipelines (sageExpress)**](/resources/software/sageExpress.zip) &nbsp;
-Gene expression analysis pipelines for SAGE-Seq including tag mapping, novel normalization method using empirical Bayes and differential gene analysis.
+### Journals
+- Bioinformatics: Nature, Cell, Science, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), Nature biotech, [Nature Communication](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article)
+- Statistical Methodology: [JASA](https://amstat.tandfonline.com/action/showAxaArticles?journalCode=uasa20&), [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), [Biometrika](https://academic.oup.com/biomet), [JRSSB](https://rss.onlinelibrary.wiley.com/journal/14679868), [Statistica Sinica](http://www3.stat.sinica.edu.tw/statistica/)
+- Marchine Learning: [NIPS](https://papers.nips.cc/), [JMLR](http://jmlr.org/), [Foundations and Trends](https://www.nowpublishers.com/mal)
+- Biostatistics: [Biostatistics](https://academic.oup.com/biostatistics/issue), [AoAS](https://projecteuclid.org/current/euclid.aoas), [PNAS](https://www.pnas.org/content/by/section/Statistics), [Biometrics](https://onlinelibrary.wiley.com/journal/15410420), [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258)
+- Preprints: [BioRxiv](https://www.biorxiv.org/), arXiv: [Machine Learning](https://arxiv.org/list/stat.ML/recent),[Statistical Theory](https://arxiv.org/list/math.ST/current) and [Satistical Methodology](https://arxiv.org/list/stat.ME/recent) 
 
+### Electronic Books
+- [Electronic library](http://en.bookfi.net/)
+- [Springer Link](http://link.springer.com/?)
 
+### Data Sets
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+- [GDC Cancer Data](https://portal.gdc.cancer.gov/)
+- [TCGA data](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) with [simple introduction](https://www.jianshu.com/p/d662069a4a3d)
+
+### Researchers
+- Bioinformatics: [Wong Lab at Stanford](http://web.stanford.edu/group/wonglab/publications.html), [Liu lab at Harvard](https://liulab-dfci.github.io/), [Lin lab at Harvard](https://content.sph.harvard.edu/xlin/), [Hongkai at Johns Hopkins](http://www.biostat.jhsph.edu/~hji/index.htm)
+- Statisticians: [Bradly Efron](http://statweb.stanford.edu/~ckirby/brad/papers/), [Tibshirani](http://statweb.stanford.edu/~tibs/research.html), [Larry Wasserman](http://www.stat.cmu.edu/~larry/), [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/), [David Dunson](https://arxiv.org/search/stat?searchtype=author&query=Dunson%2C%20D%20B)
+### Other Useful Linkes
+- [How to read papers](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
