@@ -5,12 +5,10 @@ subtitle: Research in Jiang Lab
 permalink: /research
 ---
 ### Research Interests
+- Biostatistics and Computational Biology ([Resources](/resources))
 - Bayesian Data Analysis (Inference and Modeling)
 - Statistical Methodology (Theoretical Development)
-- Biostatistics and Computational Biology
 - Statistical Learning, Machine Learning and Deep learning
-
-[Related Resources](/resources)
  
 ### Fundings
 - Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
