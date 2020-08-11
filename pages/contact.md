@@ -6,6 +6,8 @@ permalink: /contact
 ### Contact
 **Email**: jianghj@zju.edu.cn
 
-**Office**: Room 143, The Administrative Building, ZJG Campus
+**Office**: Room 143, The Administrative Building, ZJG Campus, Zhejiang University
 
-**Chinese**: 浙江大学紫金港校区行政楼1403室
+**中文地址**: 浙江大学紫金港校区行政楼1403室
+
+**Mailing Address**: 浙江大学紫金港校区行政楼1403室
