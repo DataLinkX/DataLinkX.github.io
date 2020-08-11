@@ -43,9 +43,10 @@ Note: \* denotes corresponding author, \# denotes joint first author
 
 ### Resources
 - Journals
-    - Bioinformatics: Nature, Cell, Science, Genome Biology, Nature Method, Nature biotech, Nature Communication, NAR
-    - Statistics: JASA, Annals of Statistics, Biometrica, JRSSB, Statistica Sinica
-    - Marchine Learning: NIPS, JMLR, Foundations and Trends
+    - Bioinformatics: Nature, Cell, Science, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), Nature biotech, [Nature Communication](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article)
+    - Statistical Methodology: [JASA](https://amstat.tandfonline.com/action/showAxaArticles?journalCode=uasa20&), [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), [Biometrika](https://academic.oup.com/biomet), [JRSSB](https://rss.onlinelibrary.wiley.com/journal/14679868), [Statistica Sinica](http://www3.stat.sinica.edu.tw/statistica/)
+    - Marchine Learning: [NIPS](https://papers.nips.cc/), [JMLR](http://jmlr.org/), [Foundations and Trends](https://www.nowpublishers.com/mal)
+    - Biostatistics: [Biostatistics](https://academic.oup.com/biostatistics/issue), [AoAS](https://projecteuclid.org/current/euclid.aoas), [PNAS](https://www.pnas.org/content/by/section/Statistics), [Biometrics](https://onlinelibrary.wiley.com/journal/15410420), [Statistics in Medicine](https://onlinelibrary.wiley.com/journal/10970258)
 - Electronic Books
-    - Electronic library
-    - Springer Link
+    - [Electronic library](http://en.bookfi.net/)
+    - [Springer Link](http://link.springer.com/?)
