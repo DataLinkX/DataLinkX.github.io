@@ -3,7 +3,7 @@ layout: default
 title: Contact in Jiang Lab
 permalink: /contact
 ---
-### Contact
+### Contact Us
 **Email**: jianghj@zju.edu.cn
 
 **Office**: Room 143, The Administrative Building, ZJG Campus, Zhejiang University
