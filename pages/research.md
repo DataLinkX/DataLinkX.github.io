@@ -55,4 +55,6 @@ Note: \* denotes corresponding author, \# denotes joint first author
     - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
     - [GDC Cancer Data](https://portal.gdc.cancer.gov/)
     - [TCGA data](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) with [simple introduction](https://www.jianshu.com/p/d662069a4a3d)
-    - 
+- Some Researchers
+    - Bioinformatics: [Wong Lab at Stanford](http://web.stanford.edu/group/wonglab/publications.html), [Liu lab at Harvard](https://liulab-dfci.github.io/), [Lin lab at Harvard](https://content.sph.harvard.edu/xlin/), [Hongkai at Johns Hopkins](http://www.biostat.jhsph.edu/~hji/index.htm)
+    - Statisticians: [Bradly Efron](http://statweb.stanford.edu/~ckirby/brad/papers/), [Tibshirani](http://statweb.stanford.edu/~tibs/research.html), [Larry Wasserman](http://www.stat.cmu.edu/~larry/), [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/), [David Dunson](https://arxiv.org/search/stat?searchtype=author&query=Dunson%2C%20D%20B)
