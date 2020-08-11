@@ -6,9 +6,9 @@ permalink: /research
 ---
 ### Research Interests
 - Biostatistics and Computational Biology ([Resources](/resources))
-- Bayesian Data Analysis (Inference and Modeling)
 - Statistical Methodology (Theoretical Development)
 - Statistical Learning, Machine Learning and Deep learning
+- Bayesian Data Analysis (Inference and Modeling, MCMC and Methodology)
  
 ### Fundings
 - Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
