@@ -9,6 +9,13 @@ permalink: /resources/
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
 
+### Good Research
+1. New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable)
+2. New problems (with classical/new method)
+3. New connections between different methods/problems
+4. New theory for methodologies
+5. Apply old methods to new settings (not so creative but with solid theoretical development)
+
 ### Related Top Journals
 - Bioinformatics: Nature, Cell, Science, Nature biotech, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), [Nature Communication](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article), [Bioinformatics](https://academic.oup.com/bioinformatics), [Briefings](https://academic.oup.com/bib)
 - Statistical Methodology: [JASA](https://amstat.tandfonline.com/action/showAxaArticles?journalCode=uasa20&), [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), [Biometrika](https://academic.oup.com/biomet), [JRSSB](https://rss.onlinelibrary.wiley.com/journal/14679868), [Statistica Sinica](http://www3.stat.sinica.edu.tw/statistica/)
