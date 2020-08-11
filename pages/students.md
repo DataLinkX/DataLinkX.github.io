@@ -5,7 +5,7 @@ permalink: /students
 ---
 ## Join Us
 
-### collaborators
+### Collaborators
 Collaborations are welcome! We are glad to work together with researchers from different areas who also are interested in exploring mechanism behind data.
 
 ### Students
