@@ -4,7 +4,7 @@ title: Contact in Jiang Lab
 permalink: /contact
 ---
 ### Contact
-**Email**:jianghj@zju.edu.cn
+**Email**: jianghj@zju.edu.cn
 
 **Office**: Room 143, The Administrative Building, ZJG Campus
 
