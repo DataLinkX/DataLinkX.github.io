@@ -6,6 +6,7 @@ permalink: /resources/
 ---
 
 ### Resources
+- [How to read papers](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
 ### Related Top Journals
 - Bioinformatics: Nature, Cell, Science, Nature biotech, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), [Nature Communication](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article)
@@ -28,5 +29,4 @@ permalink: /resources/
 - [GDC Cancer Data](https://portal.gdc.cancer.gov/)
 - [TCGA data](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) with [simple introduction](https://www.jianshu.com/p/d662069a4a3d)
 
-### Others
-- [How to read papers](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
