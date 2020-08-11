@@ -5,7 +5,7 @@ subtitle: Research in Jiang Lab
 permalink: /research
 ---
 ### Research Interests
-- Biostatistics and Computational Biology ([Resources](/resources))
+- Biostatistics and Computational Biology
 - Statistical Methodology (Theoretical Development)
 - Statistical Learning, Machine Learning and Deep Learning
 - Bayesian Data Analysis (Inference and Modeling, MCMC and Methodology)
@@ -39,4 +39,4 @@ permalink: /research
 - Parameter Estimation in Noisy Dynamical System, **H.Jiang**, and  D.H., He
 - Equitablity of Dependence Measure, **H.Jiang**, K.Liu and Y.Ding (2013)
 
-Note: \* denotes corresponding author, \# denotes joint first author
+([Note](/resources)): \* denotes corresponding author, \# denotes joint first author
