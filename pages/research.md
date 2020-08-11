@@ -39,4 +39,4 @@ permalink: /research
 - Parameter Estimation in Noisy Dynamical System, **H.Jiang**, and  D.H., He
 - Equitablity of Dependence Measure, **H.Jiang**, K.Liu and Y.Ding (2013)
 
-([Note](/resources)): \* denotes corresponding author, \# denotes joint first author
+[Note](/resources): \* denotes corresponding author, \# denotes joint first author
