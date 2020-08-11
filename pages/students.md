@@ -3,7 +3,6 @@ layout: default
 title: Students
 permalink: /students
 ---
-## Join Us
 
 ### Collaborators
 Collaborations are welcome! We are glad to work together with researchers from different areas who also are interested in exploring mechanism behind data.
