@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact in Jiang Lab
+title: Contact Us
 permalink: /contact
 ---
 ### Contact Us
