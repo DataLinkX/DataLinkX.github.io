@@ -6,7 +6,7 @@ permalink: /resources/
 ---
 
 ### Resources
-- [How to read papers](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
+- [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
 
 ### Related Top Journals
 - Bioinformatics: Nature, Cell, Science, Nature biotech, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), [Nature Communication](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article)
