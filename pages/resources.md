@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Software
-subtitle: Softwares in Jiang Lab
-permalink: /software/
+title: Resources
+subtitle: Resources in Jiang Lab
+permalink: /resources/
 ---
 
 # Software
