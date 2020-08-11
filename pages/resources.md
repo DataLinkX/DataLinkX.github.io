@@ -26,5 +26,5 @@ permalink: /resources/
 ### Researchers
 - Bioinformatics: [Wong Lab at Stanford](http://web.stanford.edu/group/wonglab/publications.html), [Liu lab at Harvard](https://liulab-dfci.github.io/), [Lin lab at Harvard](https://content.sph.harvard.edu/xlin/), [Hongkai at Johns Hopkins](http://www.biostat.jhsph.edu/~hji/index.htm)
 - Statisticians: [Bradly Efron](http://statweb.stanford.edu/~ckirby/brad/papers/), [Tibshirani](http://statweb.stanford.edu/~tibs/research.html), [Larry Wasserman](http://www.stat.cmu.edu/~larry/), [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/), [David Dunson](https://arxiv.org/search/stat?searchtype=author&query=Dunson%2C%20D%20B)
-### Other Useful Linkes
+### Others
 - [How to read papers](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
