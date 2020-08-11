@@ -9,6 +9,7 @@ permalink: /research
 - Statistical Methodology (Theoretical Development)
 - Biostatistics and Computational Biology
 - Statistical Learning, Machine Learning and Deep learning
+
 [Related Resources](/resources)
  
 ### Fundings
