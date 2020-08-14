@@ -7,6 +7,7 @@ permalink: /news
 ### News and Events
 
 #### 2020
+- Aug 20, Prof. Heping Zhang from Yale University will give us a talk via Zoom meeting (Time: 10:00am; Meeting ID:95538174933).
 - July 26, The New Homepage is online.
 - Jan 03, [Prof. Xihong Lin](https://content.sph.harvard.edu/xlin/) from Havard University visited our group. 
 
