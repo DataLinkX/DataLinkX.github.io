@@ -16,15 +16,15 @@ permalink: /research
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Publications  
-- **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
-- **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. Journal of Statistical Computation and Simulation.
-- **H.Jiang**, H.-b. Li and X.Fan (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. The Astrophysical Journal.
-- **H.Jiang**\*, W.Su and X.Zhao (2018). Robust Estimation for Panel Count Data with Informative Observation Times and Censoring Times. Lifetime Data Analysis.
-- **H.Jiang** and Q.Wu (2018). Robust dependence measure for detecting associations in large data set. Acta Mathematica Scientia.
-- H.Li, **H.Jiang** (in charge of statistical analysis), X.Fan, et al. (2017). The Link between Magnetic-field Orientations and Star Formation Rates. Nature Astronomy (Cover Paper).
-- W.Su and **H.Jiang**\* (2017). Semiparametric Analysis of Longitudinal Data with Informative Observation Times and Censoring Times. Journal of Applied Statistics.
-- **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. Acta Mathematica Scientia.
-- Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. Acta Mathematica Scientia.
+9. **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
+8. **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. Journal of Statistical Computation and Simulation.
+7. **H.Jiang**, H.-b. Li and X.Fan (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. The Astrophysical Journal.
+6. **H.Jiang**\*, W.Su and X.Zhao (2018). Robust Estimation for Panel Count Data with Informative Observation Times and Censoring Times. Lifetime Data Analysis.
+5. **H.Jiang** and Q.Wu (2018). Robust dependence measure for detecting associations in large data set. Acta Mathematica Scientia.
+4. H.Li, **H.Jiang** (in charge of statistical analysis), X.Fan, et al. (2017). The Link between Magnetic-field Orientations and Star Formation Rates. Nature Astronomy (Cover Paper).
+3. W.Su and **H.Jiang**\* (2017). Semiparametric Analysis of Longitudinal Data with Informative Observation Times and Censoring Times. Journal of Applied Statistics.
+2. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. Acta Mathematica Scientia.
+1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. Acta Mathematica Scientia.
 
 ### Manuscripts 
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
