@@ -16,7 +16,6 @@ permalink: /research
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Publications  
-1. Y.Y. Wen, J.W. Yin and **H.Jiang\*** (2020). Estimating the Number of Clusters via Proportional Chinese Restaurant Process. The 3<sup>rd</sup> International Conference on Machine Learning and Machine Intelligence.
 1. **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
 1. **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. Journal of Statistical Computation and Simulation.
 1. **H.Jiang**, H.-b. Li and X.Fan (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. The Astrophysical Journal.
