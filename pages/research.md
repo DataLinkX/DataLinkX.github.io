@@ -16,6 +16,8 @@ permalink: /research
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Publications  
+1. Y. Wen, **H.Jiang** and J. Yin (2020). Estimating the Number of Clusters via Proportional Chinese Restaurant Process. International Conference Proceedings Series by ACM. MLMI 2020.
+1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* (Joint corresponding author) and X.Fan\* (2020). Detect differentially methylated regions using non-homogeneous hidden Markov model for bisulfite sequencing data. Methods.
 1. **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
 1. **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. Journal of Statistical Computation and Simulation.
 1. **H.Jiang**, H.-b. Li and X.Fan (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. The Astrophysical Journal.
@@ -30,7 +32,6 @@ permalink: /research
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
 - An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
-- Detect differentially methylated regions using non-homogeneous hidden Markov model for bisulfite sequencing data, Y. Chen, C. Kwok, **H.Jiang**\* (Joint corresponding author) and X.Fan\*.
 - A deep learning framework explores similar patterns in DNA 6mA sites across different species, Z. Li\#, **H.Jiang**\#,..., C. Pian.
 - Predictive Assessment of Statistical Models, **H.Jiang**
 - Pattern Detection in Contaminated Datasets, **H.Jiang**
