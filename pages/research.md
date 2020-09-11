@@ -17,7 +17,7 @@ permalink: /research
 
 ### Publications  
 1. Y. Wen, **H.Jiang** and J. Yin (2020). Estimating the Number of Clusters via Proportional Chinese Restaurant Process. International Conference Proceedings Series by ACM. MLMI 2020.
-1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* (Joint corresponding author) and X.Fan\* (2020). Detect differentially methylated regions using non-homogeneous hidden Markov model for bisulfite sequencing data. Methods.
+1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). Detect differentially methylated regions using non-homogeneous hidden Markov model for bisulfite sequencing data. Methods.
 1. **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. Statistica Sinica.
 1. **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. Journal of Statistical Computation and Simulation.
 1. **H.Jiang**, H.-b. Li and X.Fan (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. The Astrophysical Journal.
@@ -40,4 +40,4 @@ permalink: /research
 - Parameter Estimation in Noisy Dynamical System, **H.Jiang**, and  D.H., He
 - Equitablity of Dependence Measure, **H.Jiang**, K.Liu and Y.Ding (2013)
 
-[Note: \* denotes corresponding author and \# denotes joint first author.](/resources)
+[Note: \* denotes corresponding author(s) and \# denotes joint first authors.](/resources)
