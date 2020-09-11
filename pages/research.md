@@ -16,7 +16,7 @@ permalink: /research
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Publications  
-1. __Y. Wen__, **H.Jiang** and J. Yin (2020). Estimating the Number of Clusters via Proportional Chinese Restaurant Process. *International Conference Proceedings Series by ACM. MLMI 2020*.
+1. <u>Y. Wen</u>, **H.Jiang** and J. Yin (2020). Estimating the Number of Clusters via Proportional Chinese Restaurant Process. *International Conference Proceedings Series by ACM. MLMI 2020*.
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data. *Methods*.
 1. **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan (2020). Consistent Screening Procedures in High-dimensional Binary Classification. *Statistica Sinica*.
 1. **H.Jiang** and X.Fan (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. *Journal of Statistical Computation and Simulation*.
