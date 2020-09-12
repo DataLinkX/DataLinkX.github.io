@@ -23,7 +23,7 @@ permalink: /research
 1. **H.Jiang**, H.-b. Li\* and X.Fan\* (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. *The Astrophysical Journal*.
 1. **H.Jiang**\*, W.Su and X.Zhao (2018). Robust Estimation for Panel Count Data with Informative Observation Times and Censoring Times. *Lifetime Data Analysis*.
 1. **H.Jiang** and Q.Wu\* (2018). Robust dependence measure for detecting associations in large data set. *Acta Mathematica Scientia*.
-1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). The Link between Magnetic-field Orientations and Star Formation Rates. *Nature Astronomy (Cover Paper)*.
+1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). The Link between Magnetic-field Orientations and Star Formation Rates. *Nature Astronomy (**Cover Paper**)*.
 1. W.Su and **H.Jiang**\* (2017). Semiparametric Analysis of Longitudinal Data with Informative Observation Times and Censoring Times. *Journal of Applied Statistics*.
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. *Acta Mathematica Scientia*.
