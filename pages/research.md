@@ -5,9 +5,9 @@ subtitle: Research in Jiang Lab
 permalink: /research
 ---
 ### Research Interests
-- Biostatistics and Medical Statistics
 - Statistical Methodology (Theoretical Development)
 - Statistical Learning, Machine Learning and Deep Learning
+- Medical Data Analysis and Computational Biology (biostatistics)
 - Bayesian Data Analysis (Inference and Modeling, MCMC and Methodology)
  
 ### Fundings
