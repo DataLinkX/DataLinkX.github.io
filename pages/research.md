@@ -7,7 +7,7 @@ permalink: /research
 ### Research Interests
 - Statistical Methodology (Theoretical Development)
 - Statistical Learning, Machine Learning and Deep Learning
-- Medical Data Analysis and Computational Biology (biostatistics)
+- Biostatistics (Medical Data Analysis and Computational Biology)
 - Bayesian Data Analysis (Inference and Modeling, MCMC and Methodology)
  
 ### Fundings
