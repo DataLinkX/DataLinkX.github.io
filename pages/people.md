@@ -20,7 +20,6 @@ Hangjin Jiang, Assistant Professor
 - [Ming Chen](https://person.zju.edu.cn/mchen/569642.html), Zhejiang University
 - [Qing Zhou](https://person.zju.edu.cn/0017015/802017.html), Zhejiang University
 - [Yizhou Wang](https://person.zju.edu.cn/wangyz), Zhejiang University
-- [Xiaodan Fan](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=31), The Chinese Unversity of Hong Kong
 - [Huabai Li](http://www.phy.cuhk.edu.hk/new/people/teaching/hbli.html), The Chinese Unversity of Hong Kong
 - [Jie Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1), Xiamen University
 - [Cong Pian](http://www.pianlab.cn/), Nanjing Agricultural University
