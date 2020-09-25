@@ -9,8 +9,8 @@ permalink: /people
 Hangjin Jiang, Assistant Professor
 
 ### Undergraduates
-- Yiru Gong, from ZJU－UoE Institute (浙江大学爱丁堡大学联合学院)
-- Shiya Gu, from ZJU－UoE Institute (浙江大学爱丁堡大学联合学院)
+- Yiru Gong, ZJU－UoE Institute 
+- Shiya Gu, ZJU－UoE Institute
 - Jianning Yang (major in Applied Mathematics)
 
 ### Graduates
