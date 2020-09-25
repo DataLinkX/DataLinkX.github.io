@@ -16,15 +16,6 @@ Hangjin Jiang, Assistant Professor
 - Shiya Gu (ZJU－UoE Institute, 2019 - Present)
 - Jianning Yang (major in Applied Mathematics, 2020 - Present)
 
-### Collaborators 
-- [Ming Chen](https://person.zju.edu.cn/mchen/569642.html), Zhejiang University
-- [Qing Zhou](https://person.zju.edu.cn/0017015/802017.html), Zhejiang University
-- [Yizhou Wang](https://person.zju.edu.cn/wangyz), Zhejiang University
-- [Huabai Li](http://www.phy.cuhk.edu.hk/new/people/teaching/hbli.html), The Chinese Unversity of Hong Kong
-- [Jie Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1), Xiamen University
-- [Cong Pian](http://www.pianlab.cn/), Nanjing Agricultural University
-- Hangxiao Zhang, Fujian Agriculture and Forestry University
-
 ### Past Members
 - Undergraduates
     - Qize Gong (major in Statistics, 2019 - 2020)
