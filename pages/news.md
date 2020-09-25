@@ -21,7 +21,7 @@ permalink: /news
 
 ### Talks
 #### Invited Talks
-- From MD Simulation to Exploring Free Energy Landscape of Proteins, China University of Geosciences, Wuhan, 2020.
+- From MD Simulation to Exploring Free Energy Landscape of Proteins (online talk), China University of Geosciences (Wuhan), 2020.
 - From DNA Methylation to Diabetes Complications, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 2019
 - The local structure of Proteins, Wuhan University of Technology, Dec. 07, 2018
 - Bayesian revisit of the  Zeeman measurements,  Department of Physics,  CUHK, Oct. 11,  2018
