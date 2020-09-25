@@ -5,8 +5,6 @@ subtitle: People in Jiang Lab
 permalink: /people
 ---
 
-## Current lab members
-
 ### Principle Investigator
 Hangjin Jiang, Assistant Professor
 
@@ -18,7 +16,7 @@ Hangjin Jiang, Assistant Professor
 ### Graduates
 - He Li (major in Data Science), graduated from Jilin University.
 
-## Alumni
+### Alumni
 
 ### Undergraduates
 - Zeqi Gong (major in Statistics)
