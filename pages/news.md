@@ -21,17 +21,17 @@ permalink: /news
 
 ### Talks
 #### Invited Talks
-- From MD Simulation to Exploring Free Energy Landscape of Proteins, China University of Geosciences，Wuhan, 2020.
+- From MD Simulation to Exploring Free Energy Landscape of Proteins, China University of Geosciences, Wuhan, 2020.
 - From DNA Methylation to Diabetes Complications, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 2019
 - The local structure of Proteins, Wuhan University of Technology, Dec. 07, 2018
 - Bayesian revisit of the  Zeeman measurements,  Department of Physics,  CUHK, Oct. 11,  2018
 - Two-sample Distribution Test and Variable Screening, Hunan Normal University, Changsha, China, Dec. 2017
 
 #### Conference 
-- Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. ICSA, China. Xian, 2021 (forthcoming).
-- The number of stable states for complex proteins. ICSA, China, Nankai University, 2019.
+- Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. ICSA China. Xian, 2021 (forthcoming).
+- The number of stable states for complex proteins. ICSA China, Nankai University, 2019.
 - From DNA Methylation to Diabetes Complications, ZJU-Stanford Joint Conference on Computational Medecine, 2019
-- The Relationship between Total Field Strength and Volume Density of Interstellar Clouds, First TagKASI International Conference: Cosmic Dust and Magnetism, Korea, Nov. 1st, 2018
+- The Relationship between Total Field Strength and Volume Density of Interstellar Clouds, First TagKASI International Conference: Cosmic Dust and Magnetism, Korea, Nov.1st, 2018
 - Exploring the Free Energy Landscape of Proteins, The 1<sup>st</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Xiamen, China, May. 2018.
 - New Method for Revealing Free Energy Landscape of Proteins, The 4th Institute of Mathematical Statistics Asia Pacific Rim Meeting, Hong Kong, 2016
 
