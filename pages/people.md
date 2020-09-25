@@ -18,7 +18,7 @@ Hangjin Jiang, Assistant Professor
 
 ### Past Members
 - Undergraduates
-    - Zeqi Gong (major in Statistics, 2019-2020)
+    - Qize Gong (major in Statistics, 2019-2020)
     - Yibo Chen (major in Statistics, 2019-2020)
     - Yanrui Sun (major in Applied Mathematics, 2019-2020)
     - Xiangrui Kong (major in Applied Mathematics, 2019-2020)
