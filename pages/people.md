@@ -14,14 +14,14 @@ Hangjin Jiang, Assistant Professor
 - Jianning Yang (major in Applied Mathematics)
 
 ### Graduates
-- He Li (2020-2022, major in Data Science), graduated from Jilin University.
+- He Li (major in Data Science, 2020 - Present)
 
 ### Past Members
 - Undergraduates
-    - Qize Gong (major in Statistics, 2019-2020)
-    - Yibo Chen (major in Statistics, 2019-2020)
-    - Yanrui Sun (major in Applied Mathematics, 2019-2020)
-    - Xiangrui Kong (major in Applied Mathematics, 2019-2020)
+    - Qize Gong (major in Statistics, 2019 - 2020)
+    - Yibo Chen (major in Statistics, 2019 - 2020)
+    - Yanrui Sun (major in Applied Mathematics, 2019 - 2020)
+    - Xiangrui Kong (major in Applied Mathematics, 2019 - 2020)
 
 
 
