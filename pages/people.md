@@ -8,13 +8,15 @@ permalink: /people
 ### Principle Investigator
 Hangjin Jiang, Assistant Professor
 
+### Collaborators 
+- [Cong Pian](http://www.pianlab.cn/), Associate Professor at Nanjing Agriculture 
+### Graduates
+- He Li (major in Data Science, 2020 - Present)
+
 ### Undergraduates
 - Yiru Gong (ZJU－UoE Institute, 2019 - Present)
 - Shiya Gu (ZJU－UoE Institute, 2019 - Present)
 - Jianning Yang (major in Applied Mathematics, 2020 - Present)
-
-### Graduates
-- He Li (major in Data Science, 2020 - Present)
 
 ### Past Members
 - Undergraduates
