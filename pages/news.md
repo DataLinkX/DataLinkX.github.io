@@ -32,7 +32,7 @@ permalink: /news
 - The number of stable states for complex proteins. ICSA, China, Nankai University, 2019.
 - From DNA Methylation to Diabetes Complications, ZJU-Stanford Joint Conference on Computational Medecine, 2019
 - The Relationship between Total Field Strength and Volume Density of Interstellar Clouds, First TagKASI International Conference: Cosmic Dust and Magnetism, Korea, Nov. 1st, 2018
-- Exploring the Free Energy Landscape of Proteins, The 1st Workshop on Quantitative Biology: Model Inference, XiaMen University, Xiamen, China, May. 2018.
+- Exploring the Free Energy Landscape of Proteins, The 1<sup>st</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Xiamen, China, May. 2018.
 - New Method for Revealing Free Energy Landscape of Proteins, The 4th Institute of Mathematical Statistics Asia Pacific Rim Meeting, Hong Kong, 2016
 
 
