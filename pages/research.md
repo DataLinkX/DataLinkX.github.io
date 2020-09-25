@@ -15,6 +15,16 @@ permalink: /research
 - The Fundamental Research Funds for the Central Universities, 2019.1 - 2019.12
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
+### Collaborators 
+- [Ming Chen](https://person.zju.edu.cn/mchen/569642.html), Zhejiang University
+- [Qing Zhou](https://person.zju.edu.cn/0017015/802017.html), Zhejiang University
+- [Yizhou Wang](https://person.zju.edu.cn/wangyz), Zhejiang University
+- [Huabai Li](http://www.phy.cuhk.edu.hk/new/people/teaching/hbli.html), The Chinese Unversity of Hong Kong
+- [Xingqiu Zhao](https://www.polyu.edu.hk/ama/staff/zhaoxq/index.html), The Hong Kong Polytechnic University
+- [Jie Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1), Xiamen University
+- [Cong Pian](http://www.pianlab.cn/), Nanjing Agricultural University
+- Hangxiao Zhang, Fujian Agriculture and Forestry University
+
 ### Publications  
 1. <u>Y. Wen</u>, **H.Jiang** and J. Yin (2020). Estimating the Number of Clusters via Proportional Chinese Restaurant Process. *International Conference Proceedings Series by ACM. MLMI 2020*.
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data. *Methods*.
