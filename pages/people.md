@@ -16,9 +16,7 @@ Hangjin Jiang, Assistant Professor
 ### Graduates
 - He Li (major in Data Science), graduated from Jilin University.
 
-### Alumni
-
-### Undergraduates
+### Past Members
 - Zeqi Gong (major in Statistics)
 - Yibo Chen (major in Statistics)
 - Yanrui Sun (major in Applied Mathematics)
