@@ -9,9 +9,9 @@ permalink: /people
 Hangjin Jiang, Assistant Professor
 
 ### Undergraduates
-- Yiru Gong, ZJU－UoE Institute 
-- Shiya Gu, ZJU－UoE Institute
-- Jianning Yang (major in Applied Mathematics)
+- Yiru Gong (ZJU－UoE Institute, 2019 - Present)
+- Shiya Gu (ZJU－UoE Institute, 2019 - Present)
+- Jianning Yang (major in Applied Mathematics, 2020 - Present)
 
 ### Graduates
 - He Li (major in Data Science, 2020 - Present)
