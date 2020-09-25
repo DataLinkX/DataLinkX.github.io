@@ -3,7 +3,7 @@ layout: default
 title: Contact Us
 permalink: /contact
 ---
-### Contact Us
+### Contact Information
 **Email**: jianghj@zju.edu.cn
 
 **Office**: Room 1403, The Administrative Building, ZJG Campus, Zhejiang University
