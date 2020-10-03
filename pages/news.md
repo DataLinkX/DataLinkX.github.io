@@ -1,7 +1,7 @@
 ---
 layout: default
 title: News
-permalink: /new
+permalink: /news
 ---
 
 ### News
