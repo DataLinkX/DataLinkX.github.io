@@ -25,5 +25,5 @@ We are looking for students who have a strong insterest in interdiscipline resea
   - **Requirements**
       - Self-motivated 
       - Strong self-learning ability
-      - English (writing & reading), Mathematical proficiency, Coding (C++, R, or Python)
+      - English (writing & reading), Mathematical proficiency, Coding (C++, R, or Python) 
 
