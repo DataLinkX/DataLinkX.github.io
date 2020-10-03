@@ -7,7 +7,7 @@ permalink: /news
 ### News and Events
 
 #### 2020
-- Oct 04, The name of our reserach group is defined as **Biostatics**, which means we are mainly working on **Bio**logical problems taking **Stati**tics and **C**omputer **S**cience as tools. 
+- Oct 04, The name of our reserach group is defined as **Biostatics**, which means we mainly focus on **Bio**logical problems by developing new **Stati**stical methods for them with the aid of **C**omputer **S**cience.
 - Sep 18, Prof. Ming Yuan from Columbia University will give us a talk via Tencent meeting (Time: 9:00am; Meeting ID:780 158 660).
 - Aug 20, Prof. Heping Zhang from Yale University will give us a talk via Zoom meeting (Time: 10:00am; Meeting ID:95538174933).
 - July 26, The New Homepage is online.
