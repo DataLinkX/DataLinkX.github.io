@@ -1,13 +1,13 @@
 ---
 layout: default
-title: News & Events
-permalink: /news
+title: Events
+permalink: /events
 ---
 
-### News and Events
+### Events
 
 #### 2020
-- Oct 04, The name of our reserach group is defined as **Biostatics** (**Bio**logy + **Stati**stics + **C**omputer **S**cience).
+- Oct 04, The name of our research group is defined as **Biostatics** (**Bio**logy + **Stati**stics + **C**omputer **S**cience).
 - Sep 18, Prof. Ming Yuan from Columbia University will give us a talk via Tencent meeting (Time: 9:00am; Meeting ID:780 158 660).
 - Aug 20, Prof. Heping Zhang from Yale University will give us a talk via Zoom meeting (Time: 10:00am; Meeting ID:95538174933).
 - July 26, The New Homepage is online.
@@ -20,7 +20,6 @@ permalink: /news
 - April 3, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences visited our group.
 - March 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
 
-### Talks
 #### Invited Talks
 - From MD Simulation to Exploring Free Energy Landscape of Proteins (online talk), China University of Geosciences (Wuhan), 2020.
 - From DNA Methylation to Diabetes Complications, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 2019
