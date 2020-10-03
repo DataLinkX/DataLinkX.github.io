@@ -4,7 +4,10 @@ title: Research
 subtitle: Research in Jiang Lab
 permalink: /research
 ---
-### Research Interests
+### About the Group
+We mainly focus on Biological problems by developing new Statistical methods for them with the aid of Computer Science.
+
+#### Research Interests
 - Statistical Methodology (Theoretical Development)
 - Statistical Learning, Machine Learning and Deep Learning
 - Biostatistics (Medical Data Analysis and Computational Biology)
