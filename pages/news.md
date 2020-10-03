@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Events
-permalink: /events
+title: News
+permalink: /news
 ---
 
-### Events
+### News
 
 #### 2020
 - Oct 04, The name of our research group is defined as **Biostatics** (**Bio**logy + **Stati**stics + **C**omputer **S**cience).
