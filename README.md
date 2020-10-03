@@ -1,10 +1,10 @@
-# Hangjin Jiang lab at Zhejiang University
+# Biostatics Group at Zhejiang University
 
 ### Table of contents
 
 - [Files](#files)
 - [Home](#Home)
-- [News & Events](#news_and_events)
+- [News](#news)
 - [Teaching](#teaching)
 - [Students](#students)
 - [Research](#research)
