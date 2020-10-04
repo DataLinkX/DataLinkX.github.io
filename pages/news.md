@@ -7,7 +7,7 @@ permalink: /news
 ### News
 
 #### 2020
-- Oct 04, The name of our research group is defined as **Biostatics** (**Bio**logy + **Stati**stics + **C**omputer **S**cience).
+- Oct 04, Our research group is named as **Biostatics** (**Bio**logy + **Stati**stics + **C**omputer **S**cience).
 - Sep 18, Prof. Ming Yuan from Columbia University will give us a talk via Tencent meeting (Time: 9:00am; Meeting ID:780 158 660).
 - Aug 20, Prof. Heping Zhang from Yale University will give us a talk via Zoom meeting (Time: 10:00am; Meeting ID:95538174933).
 - July 26, The New Homepage is online.
