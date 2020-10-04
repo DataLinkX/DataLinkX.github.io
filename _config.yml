@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Biostatics Group
+title: Bistatics Group
 
 # Short description of your site
 description: ZJU
@@ -78,7 +78,7 @@ social-network-links:
 #  rss: false
 # email: "jianghj@zju.edu.cn"
 #  facebook: deanattali
-  github: biostatics
+  github: bistatics
 #  twitter: xshirleyliu
 #  reddit: yourname
 #  linkedin: daattali
