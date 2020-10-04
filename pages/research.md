@@ -7,7 +7,7 @@ permalink: /research
 
 ### Biostatics
 
-We are a interdiscipline reasearch group working on **Bio**logy, **Stati**stics and **C**omputer **S**cience, hence named as **Biostatics**.
+We are a interdiscipline research group named as **Biostatics** working on **Bio**logy, **Stati**stics and **C**omputer **S**cience.
 
 ### Research Interests
 - Statistical Methodology (Theoretical Development)
