@@ -5,6 +5,8 @@ subtitle: Research in Biostatics
 permalink: /research
 ---
 
+**Biostatics** means **Bio**logy + **Stati**stics + **C**omputer **S**cience.
+
 ### Research Interests
 - Statistical Methodology (Theoretical Development)
 - Statistical Learning, Machine Learning and Deep Learning
