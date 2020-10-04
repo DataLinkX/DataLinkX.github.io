@@ -5,9 +5,11 @@ subtitle: Research in Biostatics
 permalink: /research
 ---
 
-**Biostatics** (**Bio**logy + **Stati**stics + **C**omputer **S**cience)
+### Biostatics
 
-#### Research Interests
+**Bio**logy + **Stati**stics + **C**omputer **S**cience
+
+### Research Interests
 - Statistical Methodology (Theoretical Development)
 - Statistical Learning, Machine Learning and Deep Learning
 - Biostatistics (Medical Data Analysis and Computational Biology)
