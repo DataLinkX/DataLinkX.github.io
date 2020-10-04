@@ -5,8 +5,6 @@ subtitle: Research in Biostatics
 permalink: /research
 ---
 
-### Biostatics
-
 We are a interdiscipline research group named **Biostatics** working on **Bio**logy, **Stati**stics and **C**omputer **S**cience.
 
 ### Research Interests
