@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-subtitle: Research in Biostatics
+subtitle: Research in Jiang Lab
 permalink: /research
 ---
 
