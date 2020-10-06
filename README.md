@@ -1,4 +1,4 @@
-# Biostatics Group at Zhejiang University
+# Hangjin Jiang's Lab at Zhejiang University
 
 ### Table of contents
 
