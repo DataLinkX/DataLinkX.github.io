@@ -9,8 +9,8 @@ permalink: /people
 Hangjin Jiang, Assistant Professor
 
 ### Graduates
-- He Li (Master major in Data Science, 2020 - Present)
-- Jingcheng He (PhD major in Statistics, 2021 - Present)
+- He Li (Master in Data Science, 2020 - Present)
+- Jingcheng He (PhD in Statistics, 2021 - Present)
 
 ### Undergraduates
 - Yiru Gong (ZJU－UoE Institute, 2019 - Present)
