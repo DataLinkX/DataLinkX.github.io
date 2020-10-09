@@ -14,7 +14,7 @@ Hangjin Jiang, Assistant Professor
 
 ### Undergraduates
 - Yiru Gong (ZJU－UoE Institute, 2019 - Present)
-- Shiya Gu (ZJU－UoE Institute, 2019 - Present)
+- Yashi Gu (ZJU－UoE Institute, 2019 - Present)
 - Jianning Yang (major in Applied Mathematics, 2020 - Present)
 
 ### Past Members
