@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Join Us
-permalink: /students
+permalink: /joinus
 ---
 
 ### Collaborators
