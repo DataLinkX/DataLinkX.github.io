@@ -16,6 +16,8 @@ Hangjin Jiang, Assistant Professor
 - Yiru Gong (ZJU－UoE Institute, 2019 - Present)
 - Yashi Gu (ZJU－UoE Institute, 2019 - Present)
 - Jianning Yang (major in Applied Mathematics, 2020 - Present)
+- Xinyue Zeng (major in Statistics, 2020 - Present)
+- Yan Zhang (major in Statitistics, 2020 - Present)
 
 ### Past Members
 - Undergraduates
