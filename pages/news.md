@@ -14,11 +14,11 @@ permalink: /news
 - Jan. 03, [Prof. Xihong Lin](https://content.sph.harvard.edu/xlin/) from Havard University visited our group. 
 
 #### 2019
-- Nov 30, [Prof. Yuanyuan Lin](http://www.sta.cuhk.edu.hk/YLin/default.aspx) from The Chinese University of Hong Kong visited our group.
-- Nov 11, [Prof. Tiejun Tong](http://www.math.hkbu.edu.hk/~tongt/) from Hong Kong Baptist University visited our group.
-- Oct 18, [Prof. Yong Wang](http://wanglab.amss.ac.cn/) from Academy of Mathematics and Systems Science, Chinese Academy of Sciences visited our group.
-- April 3, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences visited our group.
-- March 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
+- Nov. 30, [Prof. Yuanyuan Lin](http://www.sta.cuhk.edu.hk/YLin/default.aspx) from The Chinese University of Hong Kong visited our group.
+- Nov. 11, [Prof. Tiejun Tong](http://www.math.hkbu.edu.hk/~tongt/) from Hong Kong Baptist University visited our group.
+- Oct. 18, [Prof. Yong Wang](http://wanglab.amss.ac.cn/) from Academy of Mathematics and Systems Science, Chinese Academy of Sciences visited our group.
+- Apr. 3, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences visited our group.
+- Mar. 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
 
 #### Invited Talks
 - From MD Simulation to Exploring Free Energy Landscape of Proteins (online talk), China University of Geosciences (Wuhan), 2020.
@@ -29,6 +29,8 @@ permalink: /news
 
 #### Conference 
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. ICSA China. Xian, 2021 (forthcoming).
+- Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. The 3<sup>rd</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Nov.6-8 2020.
+- Two-sample Distribution Comparison and Its Applications. Forum for Young Scholars in Statistics. Renming University. Oct. 23-24, 2020.
 - The number of stable states for complex proteins. ICSA China, Nankai University, 2019.
 - From DNA Methylation to Diabetes Complications, ZJU-Stanford Joint Conference on Computational Medecine, 2019
 - The Relationship between Total Field Strength and Volume Density of Interstellar Clouds, First TagKASI International Conference: Cosmic Dust and Magnetism, Korea, Nov.1st, 2018
