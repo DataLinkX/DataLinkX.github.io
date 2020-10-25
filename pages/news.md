@@ -7,7 +7,7 @@ permalink: /news
 ### News
 
 #### 2020
-- Nov. 17, [Prof. Huazhen Lin](https://stat.swufe.edu.cn/info/1046/1401.htm) from Southwestern University Of Finance And Economics will give us a talk Tencent meeting (Time: 15:00; Meeting ID:796 612 063).
+- Nov. 17, [Prof. Huazhen Lin](https://stat.swufe.edu.cn/info/1046/1401.htm) from Southwestern University of Finance and Economics will give us a talk via Tencent meeting (Time: 15:00; Meeting ID:796 612 063).
 - Sep. 18, Prof. Ming Yuan from Columbia University will give us a talk via Tencent meeting (Time: 9:00am; Meeting ID:780 158 660).
 - Aug. 20, Prof. Heping Zhang from Yale University will give us a talk via Zoom meeting (Time: 10:00am; Meeting ID:95538174933).
 - July 26, The New Homepage is online.
