@@ -20,14 +20,14 @@ permalink: /news
 - Apr. 3, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences visited our group.
 - Mar. 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
 
-#### Invited Talks
+#### Invited Talks in Unviersity
 - From MD Simulation to Exploring Free Energy Landscape of Proteins (online talk), China University of Geosciences (Wuhan), 2020.
 - From DNA Methylation to Diabetes Complications, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 2019
 - The local structure of Proteins, Wuhan University of Technology, Dec. 07, 2018
 - Bayesian revisit of the  Zeeman measurements,  Department of Physics,  CUHK, Oct. 11,  2018
 - Two-sample Distribution Test and Variable Screening, Hunan Normal University, Changsha, China, Dec. 2017
 
-#### Conference 
+#### Invited Talks on Conference
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. ICSA China. Xian, 2021 (forthcoming).
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. The 3<sup>rd</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Nov.6-8 2020.
 - Two-sample Distribution Comparison and Its Applications. Forum for Young Scholars in Statistics. Renming University. Oct. 23-24, 2020.
