@@ -30,14 +30,14 @@ permalink: /research
 1. <u>Y. Wen</u>, **H.Jiang** and J. Yin (2020). Estimating the Number of Clusters via Proportional Chinese Restaurant Process. *International Conference Proceedings Series by ACM. MLMI 2020*.
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data. *Methods*. [DOI:10.1016/j.ymeth.2020.09.009](https://doi.org/10.1016/j.ymeth.2020.09.009).
 1. **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan\* (2020). Consistent Screening Procedures in High-dimensional Binary Classification. *Statistica Sinica*. [DOI: 10.5705/ss.202020.0088](https://doi.org/10.5705/ss.202020.0088)
-1. **H.Jiang** and X.Fan\* (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. *Journal of Statistical Computation and Simulation*. [DOI:10.1080/00949655.2020.1724291](https://doi.org/10.1080/00949655.2020.1724291)
-1. **H.Jiang**, H.-b. Li\* and X.Fan\* (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. *The Astrophysical Journal*.[DOI:10.3847/1538-4357/ab672b](https://doi.org/10.3847/1538-4357/ab672b)
-1. **H.Jiang**\*, W.Su and X.Zhao (2018). Robust Estimation for Panel Count Data with Informative Observation Times and Censoring Times. *Lifetime Data Analysis*.[DOI:10.1007/s10985-018-09457-7](https://doi.org/10.1007/s10985-018-09457-7)
+1. **H.Jiang** and X.Fan\* (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. *Journal of Statistical Computation and Simulation*.  [DOI:10.1080/00949655.2020.1724291](https://doi.org/10.1080/00949655.2020.1724291)
+1. **H.Jiang**, H.-b. Li\* and X.Fan\* (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. *The Astrophysical Journal*. [DOI:10.3847/1538-4357/ab672b](https://doi.org/10.3847/1538-4357/ab672b)
+1. **H.Jiang**\*, W.Su and X.Zhao (2018). Robust Estimation for Panel Count Data with Informative Observation Times and Censoring Times. *Lifetime Data Analysis*. [DOI:10.1007/s10985-018-09457-7](https://doi.org/10.1007/s10985-018-09457-7)
 1. **H.Jiang** and Q.Wu\* (2018). Robust dependence measure for detecting associations in large data set. *Acta Mathematica Scientia*. [DOI:10.1016/S0252-9602(17)30117-0](https://doi.org/10.1016/S0252-9602(17)30117-0)
 1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). The Link between Magnetic-field Orientations and Star Formation Rates. *Nature Astronomy (**Cover Paper**)*. [DOI:10.1038/s41550-017-0158](https://doi.org/10.1038/s41550-017-0158)
 1. W.Su and **H.Jiang**\* (2017). Semiparametric Analysis of Longitudinal Data with Informative Observation Times and Censoring Times. *Journal of Applied Statistics*. [DOI:10.1080/02664763.2017.1403574](https://doi.org/10.1080/02664763.2017.1403574)
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
-1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. *Acta Mathematica Scientia*. [DOI:10.1016/S0252-9602(14)60031-X](https://doi.org/10.1016/S0252-9602(14)60031-X)
+1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. *Acta Mathematica Scientia*.  [DOI:10.1016/S0252-9602(14)60031-X](https://doi.org/10.1016/S0252-9602(14)60031-X)
 
 ### Manuscripts 
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
