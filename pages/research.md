@@ -28,7 +28,7 @@ permalink: /research
 
 ### Publications  
 1. <u>Y. Wen</u>, **H.Jiang** and J. Yin (2020). Estimating the Number of Clusters via Proportional Chinese Restaurant Process. *International Conference Proceedings Series by ACM. MLMI 2020*.
-1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data. *Methods*. [DOI:10.1016/j.ymeth.2020.09.009](https://doi.org/10.1016/j.ymeth.2020.09.009).
+1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data. *Methods*. [DOI:10.1016/j.ymeth.2020.09.009](https://doi.org/10.1016/j.ymeth.2020.09.009)
 1. **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan\* (2020). Consistent Screening Procedures in High-dimensional Binary Classification. *Statistica Sinica*. [DOI: 10.5705/ss.202020.0088](https://doi.org/10.5705/ss.202020.0088)
 1. **H.Jiang** and X.Fan\* (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. *Journal of Statistical Computation and Simulation*.  [DOI:10.1080/00949655.2020.1724291](https://doi.org/10.1080/00949655.2020.1724291)
 1. **H.Jiang**, H.-b. Li\* and X.Fan\* (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. *The Astrophysical Journal*. [DOI:10.3847/1538-4357/ab672b](https://doi.org/10.3847/1538-4357/ab672b)
