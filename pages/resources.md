@@ -11,8 +11,8 @@ permalink: /resources/
 
 ### Requirements on Good Research
 
-- For interdiscipline research/data analysis, we should convince the domain researchers that the proposed method (statistical or machine learning) is useful. 
-- For research on statistical methodology, we should provide theoretical support for the methodology under some reasonable conditions.
+- Interdiscipline research/Data analysis: convince the domain researchers that the proposed method (statistical or machine learning) is useful. 
+- Statistical Methodology: provide theoretical support for the methodology under some reasonable conditions
 
 ### Possible Research Topics
 1. New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable)
