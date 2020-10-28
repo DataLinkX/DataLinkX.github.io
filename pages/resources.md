@@ -5,6 +5,8 @@ subtitle: Resources in Jiang Lab
 permalink: /resources/
 ---
 
+**The most difficulty part for interdiscipline research is to convince the domain researchers that the proposed method is useful.**
+
 ### Resources
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
