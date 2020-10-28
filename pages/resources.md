@@ -5,7 +5,7 @@ subtitle: Resources in Jiang Lab
 permalink: /resources/
 ---
 
-**The key for interdiscipline research is to convince the domain researchers that the proposed statistical method is useful, and that for research on statistical methodology is to present theoretical support for the methodology under some technical conditions.**
+**The key for interdiscipline research is to convince the domain researchers that the proposed method (statistical or machine learning) is useful, and that for research on statistical methodology is to provide theoretical support for the methodology under some technical conditions.**
 
 ### Resources
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
