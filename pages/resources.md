@@ -20,7 +20,7 @@ permalink: /resources/
 3. New connections between different methods/problems
 4. New theory for methodologies to understand the good performance of the method
 5. Building statistical models that capture better biological features to provide better understanding on bological phenomenon.
-6. Extending old methods to new settings (generally is not recommended)
+6. Extending old methods to new settings (not recommend in general)
 
 ### Related Top Journals
 - Bioinformatics: Nature, Cell, Science, Nature biotech, Communications Biology, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), [Nature Communications](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article), [Bioinformatics](https://academic.oup.com/bioinformatics), [Briefings](https://academic.oup.com/bib)
