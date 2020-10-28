@@ -9,7 +9,7 @@ permalink: /resources/
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
 
-### Application and Methodology Development
+### Requirements on Good Research
 
 - The key for interdiscipline research is to convince the domain researchers that the proposed method (statistical or machine learning) is useful. 
 - The key for research on statistical methodology is to provide theoretical support for the methodology under some technical conditions.
