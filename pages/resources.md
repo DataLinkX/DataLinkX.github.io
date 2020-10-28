@@ -11,7 +11,8 @@ permalink: /resources/
 
 ### Application and Methodology Development
 
-**The key for interdiscipline research is to convince the domain researchers that the proposed method (statistical or machine learning) is useful, and that for research on statistical methodology is to provide theoretical support for the methodology under some technical conditions.**
+1. The key for interdiscipline research is to convince the domain researchers that the proposed method (statistical or machine learning) is useful. 
+2. The key for research on statistical methodology is to provide theoretical support for the methodology under some technical conditions.
 
 ### Good Research
 1. New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable)
