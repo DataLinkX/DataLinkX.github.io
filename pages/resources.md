@@ -19,7 +19,7 @@ permalink: /resources/
 2. New problems (with classical/new method)
 3. New connections between different methods/problems
 4. New theory for methodologies to understand the good performance of the method
-5. Building statistical models that capture better biological features to provide better understanding on bological phenomenon.
+5. Building statistical models that capture more biological features to provide better understanding on bological phenomenon.
 6. Extending old methods to new settings (not recommend in general)
 
 ### Related Top Journals
