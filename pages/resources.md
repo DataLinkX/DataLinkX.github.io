@@ -5,17 +5,19 @@ subtitle: Resources in Jiang Lab
 permalink: /resources/
 ---
 
-**The key for interdiscipline research is to convince the domain researchers that the proposed method (statistical or machine learning) is useful, and that for research on statistical methodology is to provide theoretical support for the methodology under some technical conditions.**
-
 ### Resources
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
+
+### Application and Methodology Development
+
+**The key for interdiscipline research is to convince the domain researchers that the proposed method (statistical or machine learning) is useful, and that for research on statistical methodology is to provide theoretical support for the methodology under some technical conditions.**
 
 ### Good Research
 1. New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable)
 2. New problems (with classical/new method)
 3. New connections between different methods/problems
-4. New theory for methodologies
+4. New theory for methodologies to understand the good performance of the method
 5. Extending old methods to new settings (not so creative but with solid theoretical development)
 
 ### Related Top Journals
