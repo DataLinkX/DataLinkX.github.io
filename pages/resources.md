@@ -14,7 +14,7 @@ permalink: /resources/
 1. The key for interdiscipline research is to convince the domain researchers that the proposed method (statistical or machine learning) is useful. 
 2. The key for research on statistical methodology is to provide theoretical support for the methodology under some technical conditions.
 
-### Good Research
+### Possible Research Topics
 1. New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable)
 2. New problems (with classical/new method)
 3. New connections between different methods/problems
