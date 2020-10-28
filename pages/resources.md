@@ -5,7 +5,8 @@ subtitle: Resources in Jiang Lab
 permalink: /resources/
 ---
 
-**The most difficulty part for interdiscipline research is to convince the domain researchers that the proposed method is useful.**
+**The most difficulty part for interdiscipline research is to convince the domain researchers that the proposed statistical method is useful, and the most difficulty part for research on statistical methodology is to present theoretical support for the methodology under some technical conditions.
+**
 
 ### Resources
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
