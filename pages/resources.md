@@ -12,15 +12,12 @@ permalink: /resources/
 ### Requirements on Good Research
 
 - Research formula: Data + (New) Statistical Model + (New) Statistical Inference Method (with theoretical support) + (New) Findings from Data
-- Interdiscipline research/Data analysis emphasizing on **findings from data**: convince the domain researchers that the proposed method (statistical model or computational method) is widely applicable to have new findings.
-    - **Possible Research Topics**
-        - This direction is totally problem driven.
+- Interdiscipline research/Data analysis emphasizing on **findings from data**: convince the domain researchers that the proposed method (statistical model or computational method) is widely applicable to have new findings. This direction is totally problem driven.
 - Statistical methodology emphasizing on **statistical inference**: convince statistical researchers that the statistical inference for the model is accurate in terms of some statistical properties such as consistency.
-    - **Possible Research Topics**
-        - New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable); 
-        - New connections between different methods/problems; 
-        - New theory for methodologies to understand the good performance of the method; 
-        - Extending old methods to new settings (not recommend in general);
+    - New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable); 
+    - New connections between different methods/problems; 
+    - New theory for methodologies to understand the good performance of the method; 
+    - Extending old methods to new settings (not recommend in general);
 
 ### Related Top Journals
 - Bioinformatics: Nature, Cell, Science, Nature biotech, Communications Biology, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), [Nature Communications](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article), [Bioinformatics](https://academic.oup.com/bioinformatics), [Briefings](https://academic.oup.com/bib)
