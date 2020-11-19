@@ -12,8 +12,8 @@ permalink: /resources/
 ### Requirements on Good Research
 
 - Research formula: Data + Statistical Model + Statistical Inference Method (with theoretical support) + Conclusion from Data
-- Interdiscipline research/Data analysis emphasizing on conclusion from data: convince the domain researchers that the proposed method is useful
-- Statistical methodology emphasizing on statistical inference : provide theoretical support for the methodology under some reasonable conditions
+- Interdiscipline research/Data analysis emphasizing on conclusion from data: convince the domain researchers that the proposed method (statistical model or computational method) is widely applicable to have new findings.
+- Statistical methodology emphasizing on statistical inference: convince statistical researchers that the statistical inference for the model is accurate in terms of some statistical properties such as consistency.
 
 ### Possible Research Topics
 1. New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable)
