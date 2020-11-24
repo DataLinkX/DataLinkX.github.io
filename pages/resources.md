@@ -4,7 +4,7 @@ title: Resources
 subtitle: Resources in Jiang Lab
 permalink: /resources/
 ---
-< center> Think Bigger but Verified with Cautious< /center>
+<center> Think Bigger but Verified with Cautious</center>
 
 ### Resources
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
