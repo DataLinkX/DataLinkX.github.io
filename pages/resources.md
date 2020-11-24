@@ -4,14 +4,13 @@ title: Resources
 subtitle: Resources in Jiang Lab
 permalink: /resources/
 ---
-<center> Think Bigger but Verified with Cautious</center>
 
 ### Resources
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
 
 ### Requirements on Good Research
-
+- **Think bigger but verified with cautious**
 - Research formula: (New) Data + (New) Statistical Model + (New) Statistical Inference Method (with theoretical support) + (New) Findings from Data
 - Interdiscipline research/Data analysis emphasizing on **findings from data**: convince the domain researchers that the proposed method (statistical model or computational method) is widely applicable to have new findings. 
     - New findings from New data
