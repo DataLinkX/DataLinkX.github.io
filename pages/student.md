@@ -1,12 +1,9 @@
 ---
 layout: default
-title: People
-subtitle: People in Jiang Lab
-permalink: /people
+title: students
+subtitle: students in Jiang Lab
+permalink: /students
 ---
-
-### Principle Investigator
-Hangjin Jiang, Assistant Professor
 
 ### Graduates
 - He Li (Master in Data Science, 2020 - Present)
