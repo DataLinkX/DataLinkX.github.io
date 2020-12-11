@@ -40,7 +40,7 @@ permalink: /research
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
 ### Manuscripts 
-- Bayesian Variable Selection for Single Index Logistic Model, <u>Y. Sun</u> and **H.Jiang**.
+- Bayesian Variable Selection for Single Index Logistic Model, <u>Y. Sun</u> and **H.Jiang**\*.
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
 - An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
