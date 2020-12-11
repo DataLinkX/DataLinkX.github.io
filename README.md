@@ -4,9 +4,9 @@
 
 - [Files](#files)
 - [Home](#Home)
-- [People](#people)
 - [Research](#research)
 - [Teaching](#teaching)
+- [Students](#students)
 - [News](#news)
 - [Join Us](#joinus)
 
