@@ -1,4 +1,4 @@
-# Hangjin Jiang Lab at Zhejiang University
+# Hangjin Jiang at Zhejiang University
 
 ### Table of contents
 
