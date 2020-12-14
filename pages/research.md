@@ -40,16 +40,16 @@ permalink: /research
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
 ### Manuscripts 
-- Bayesian Variable Selection for Single Index Logistic Model, <u>Y. Sun</u> and **H.Jiang**\*.
+- [Bayesian Variable Selection for Single Index Logistic Model](https://arxiv.org/pdf/2012.06199.pdf), <u>Y. Sun</u> and **H.Jiang**\*.
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
 - An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
 - A deep learning framework explores similar patterns in DNA 6mA sites across different species, Z. Li\#, **H.Jiang**\#,..., C. Pian.
-- Predictive Assessment of Statistical Models, **H.Jiang**
+- [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
 - Pattern Detection in Contaminated Datasets, **H.Jiang**
 - The Two-step Clustering Approach for Learning Metastable States from Molecular Dynamics Data, **H.Jiang** and X. Fan
 - CAPT: A New Method for Revealing Free Energy Landscape of Proteins, **H.Jiang**, X. Huang, H. Li, Wing H. Wong and X. Fan
 - Parameter Estimation in Noisy Dynamical System, **H.Jiang**, and  D.H., He
-- Equitablity of Dependence Measure, **H.Jiang**, K.Liu and Y.Ding (2013)
+- [Equitablity of Dependence Measure](https://arxiv.org/pdf/1501.02102.pdf), **H.Jiang**, K.Liu and Y.Ding (2013)
 
 [Note: \* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are students.](/resources)
