@@ -5,11 +5,15 @@ subtitle: Research in Jiang Lab
 permalink: /research
 ---
 
-### Research Interests
-- Statistical Methodology (with theoretical development)
-- Statistical Learning, Machine Learning and Deep Learning
-- Biostatistics (Medical Data Analysis and Computational Biology)
-- Bayesian Data Analysis (Inference and Modeling, MCMC and Methodology)
+### Research Interests 
+- Developing statistical methods for analyzing data
+    - Biology Data (scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc...)
+    - Astronomy (magnetic field observations, Zeeman effects)
+- Statistical Methodology
+    - Bayesian Inference (Modeling, MCMC)
+    - Statistical/Deep Learning 
+    - High-dimensional Hypothesis Testing
+    - Data Imputation (Missing Data)
  
 ### Fundings
 - Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
