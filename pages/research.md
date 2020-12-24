@@ -7,13 +7,14 @@ permalink: /research
 
 ### Research Interests 
 - Developing statistical methods for analyzing data
-    - Biology Data (scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc...)
+    - Biology Data (scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.)
+    - Clinical Data related to disease (diabetes, cancer, etc.)
     - Astronomy (magnetic field observations, Zeeman effects)
 - Statistical Methodology
-    - Bayesian Inference (Modeling, MCMC)
     - Statistical/Deep Learning 
-    - High-dimensional Hypothesis Testing
     - Data Imputation (Missing Data)
+    - Bayesian Modeling and Inference (MCMC)
+    - High-dimensional Hypothesis Testing
  
 ### Fundings
 - Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
