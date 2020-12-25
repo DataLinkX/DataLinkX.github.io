@@ -10,7 +10,7 @@ permalink: /resources/
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
 
 ### Requirements on Good Research
-- **Read papers as many as you can**
+- **Read papers as many as you can** from high-quality journals or research groups (see below)
 - **Think bigger but verified with cautious**
 - Research formula: (New) Data + (New) Statistical Model + (New) Statistical Inference Method (with theoretical support) + (New) Findings from Data
 - Interdiscipline research/Data analysis emphasizing on **findings from data**: convince the domain researchers that the proposed method (statistical model or computational method) is widely applicable to have new findings. 
