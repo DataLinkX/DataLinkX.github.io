@@ -14,7 +14,7 @@ permalink: /research
     - (Bayesian) Deep Learning 
     - Data Imputation (Missing Data)
     - Bayesian Inference (MCMC, Variable Selection, etc.)
-    - High-dimensional Hypothesis Testing
+    - High-dimensional Problems
  
 ### Fundings
 - Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
