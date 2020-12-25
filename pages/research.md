@@ -15,6 +15,7 @@ permalink: /research
     - Data Imputation (Missing Data)
     - Bayesian Inference (MCMC, Variable Selection, etc.)
     - High-dimensional Problems
+    - Scalabe methods for big data problems
  
 ### Fundings
 - Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
