@@ -6,14 +6,14 @@ permalink: /research
 ---
 
 ### Research Interests 
-- Developing statistical methods for analyzing data
+- Statistical Methods for Analyzing different data
     - Biology Data (scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.)
     - Clinical Data related to disease (diabetes, cancer, etc.)
     - Astronomy (magnetic field observations, Zeeman effects)
-- Statistical Methodology
-    - Statistical/Deep Learning 
+- Statistical Inference
+    - (Bayesian) Deep Learning 
     - Data Imputation (Missing Data)
-    - Bayesian Modeling and Inference (MCMC)
+    - Bayesian Inference (MCMC, Variable Selection, etc.)
     - High-dimensional Hypothesis Testing
  
 ### Fundings
