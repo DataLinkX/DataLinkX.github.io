@@ -6,7 +6,7 @@ permalink: /research
 ---
 
 ### Research Interests 
-- Statistical Methods for Analyzing Different Data
+- Statistical Methods for Data Science
     - Biology Data (scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.)
     - Clinical Data related to disease (diabetes, cancer, etc.)
     - Astronomy (magnetic field observations, Zeeman effects)
