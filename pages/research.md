@@ -50,7 +50,7 @@ permalink: /research
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
 - An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
-- A deep learning framework explores similar patterns in DNA 6mA sites across different species, Z. Li\#, **H.Jiang**\#,..., C. Pian.
+- A deep learning framework explores similar patterns in DNA 6mA sites across different species, **H.Jiang**\#, Z. Li\#..., C. Pian\*.
 - [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
 - Pattern Detection in Contaminated Datasets, **H.Jiang**
 - The Two-step Clustering Approach for Learning Metastable States from Molecular Dynamics Data, **H.Jiang** and X. Fan
