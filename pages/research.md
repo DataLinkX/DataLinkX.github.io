@@ -10,7 +10,7 @@ permalink: /research
     - Biology Data (scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.)
     - Clinical Data related to disease (diabetes, cancer, etc.)
     - Astronomy (magnetic field observations, Zeeman effects)
-- Statistical Inference
+- Statistical Methodology
     - (Bayesian) Deep Learning 
     - Data Imputation (Missing Data)
     - Bayesian Inference (MCMC, Variable Selection, etc.)
