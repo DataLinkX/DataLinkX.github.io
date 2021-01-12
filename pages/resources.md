@@ -12,11 +12,8 @@ permalink: /resources/
 ### Requirements on Good Research
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
 - **Think bigger but verified with cautious**
-- Research formula: (New) Data + (New) Statistical Model + (New) Statistical Inference Method (with theoretical support) + (New) Findings from Data
-- Interdiscipline research/Data analysis emphasizing on **findings from data**: convince the domain researchers that the proposed method (statistical model or computational method) is widely applicable to have new findings. 
-    - New findings from New data
-    - New findings from old data
-- Statistical methodology emphasizing on **statistical inference**: convince statistical researchers that the statistical inference for the model is accurate in terms of some statistical properties such as consistency.
+- **Data Science** emphasizing on **Findings from data**: convince the domain researchers that the proposed method (statistical model or computational method) is widely applicable to have new findings. 
+- **Statistical methodology** emphasizing on **Statistical Inference**: convince statistical researchers that the statistical method is accurate in terms of some statistical properties such as consistency.
     - New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable); 
     - New connections between different methods/problems; 
     - New theory for methodologies to understand the good performance of the method; 
