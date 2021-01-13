@@ -27,14 +27,11 @@ permalink: /research
 - [Qing Zhou](https://person.zju.edu.cn/0017015/802017.html), Zhejiang University
 - [Yizhou Wang](https://person.zju.edu.cn/wangyz), Zhejiang University
 - [Huabai Li](http://www.phy.cuhk.edu.hk/new/people/teaching/hbli.html), The Chinese Unversity of Hong Kong
-- [Xingqiu Zhao](https://www.polyu.edu.hk/ama/staff/zhaoxq/index.html), The Hong Kong Polytechnic University
-- [Jie Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1), Xiamen University
-- [Cong Pian](http://www.pianlab.cn/), Nanjing Agricultural University
 - Hangxiao Zhang, Fujian Agriculture and Forestry University
 
 ### Publications  
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). [Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data](https://doi.org/10.1016/j.ymeth.2020.09.009). *Methods*. DOI:10.1016/j.ymeth.2020.09.009
-1. **H.Jiang**, X. Zhao, Ronald C.W. Ma and X.Fan\* (2020). [Consistent Screening Procedures in High-dimensional Binary Classification](https://doi.org/10.5705/ss.202020.0088). *Statistica Sinica*. DOI: 10.5705/ss.202020.0088
+1. **H.Jiang**, [Xingqiu Zhao](https://www.polyu.edu.hk/ama/staff/zhaoxq/index.html), Ronald C.W. Ma and X.Fan\* (2020). [Consistent Screening Procedures in High-dimensional Binary Classification](https://doi.org/10.5705/ss.202020.0088). *Statistica Sinica*. DOI: 10.5705/ss.202020.0088
 1. **H.Jiang** and X.Fan\* (2020). [A Consistent Variable Screening Procedure with Family-wise Error Control](https://doi.org/10.1080/00949655.2020.1724291). *Journal of Statistical Computation and Simulation*. DOI:10.1080/00949655.2020.1724291
 1. **H.Jiang**, H.-b. Li\* and X.Fan\* (2020). [Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds](https://doi.org/10.3847/1538-4357/ab672b). *The Astrophysical Journal*. DOI:10.3847/1538-4357/ab672b
 1. <u>Y. Wen</u>, **H.Jiang** and J. Yin (2020). [Estimating the Number of Clusters via Proportional Chinese Restaurant Process](https://doi.org/10.1145/3426826.3426840). *International Conference Proceedings Series by ACM. MLMI 2020*. DOI:0.1145/3426826.3426840
@@ -48,9 +45,10 @@ permalink: /research
 ### Manuscripts 
 - [Bayesian Variable Selection for Single Index Logistic Model](https://arxiv.org/pdf/2012.06199.pdf), <u>Y. Sun</u> and **H.Jiang**\*.
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
+- Bayesian Model for fMRI data analysis, **H.Jiang** and [J. Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1)
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
 - An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
-- A deep learning framework explores similar patterns in DNA 6mA sites across different species, **H.Jiang**\#, Z. Li\#..., C. Pian\*.
+- A deep learning framework explores similar patterns in DNA 6mA sites across different species,Z. Li\#, **H.Jiang**\#..., [C. Pian\*](http://www.pianlab.cn/).
 - [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
 - Pattern Detection in Contaminated Datasets, **H.Jiang**
 - The Two-step Clustering Approach for Learning Metastable States from Molecular Dynamics Data, **H.Jiang** and X. Fan
