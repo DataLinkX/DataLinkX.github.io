@@ -21,7 +21,10 @@ permalink: /bioinfo/
 - Get data from GEO
 
 (```)
+
     library(GEOquery)
+    
     gset <- getGEO("GSE84437", GSEMatrix =TRUE) 
+    
 (```)
 
