@@ -5,7 +5,7 @@ subtitle: Bioinfo in Jiang Lab
 permalink: /bioinfo/
 ---
 
-## Basic Knowledge for Bioinformatics Research
+### Basic Knowledge for Bioinformatics Research
 
 ### Sequencing Technologies and Their Aims
 - Chip-seq: Finding the regions in DNA where a Protein (e.g., TF) binds on
@@ -13,4 +13,8 @@ permalink: /bioinfo/
 - Genome Exon Sequencing
 - chiRq-seq 
 - RIP-seq
-- ATAC-seq: measuring openess of chramatin, the peraks are locations where TFs are bind on
+- ATAC-seq: measuring openess of chramatin, the peraks are locations where TFs or other regulators bind on
+
+### Someting about Bioconductor
+- [Bioconductor Homepage](https://www.bioconductor.org/)
+- [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html)
