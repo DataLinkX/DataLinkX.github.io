@@ -19,6 +19,7 @@ permalink: /bioinfo/
 - [Bioconductor Homepage](https://www.bioconductor.org/)
 - [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html): [Summay](http://genomicsclass.github.io/book/pages/bioc1_annoCheat.html)
 - Get data from GEO
+
 (```)
     library(GEOquery)
     gset <- getGEO("GSE84437", GSEMatrix =TRUE) 
