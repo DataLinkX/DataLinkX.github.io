@@ -5,7 +5,7 @@ subtitle: Bioinfo in Jiang Lab
 permalink: /bioinfo/
 ---
 
-### Basic Knowledge for Bioinformatics Research
+## Basics for Bioinformatics
 
 ### Sequencing Technologies and Their Aims
 - Chip-seq: Finding the regions in DNA where a Protein (e.g., TF) binds on
