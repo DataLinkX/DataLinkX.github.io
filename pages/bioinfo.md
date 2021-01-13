@@ -17,4 +17,4 @@ permalink: /bioinfo/
 
 ### Someting about Bioconductor
 - [Bioconductor Homepage](https://www.bioconductor.org/)
-- [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html)
+- [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html): [Summay](http://genomicsclass.github.io/book/pages/bioc1_annoCheat.html)
