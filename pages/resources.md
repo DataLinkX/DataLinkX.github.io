@@ -8,6 +8,7 @@ permalink: /resources/
 ### Resources
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
+- Basic Knowledge on Bioinformatics (/biofo)
 
 ### Requirements on Good Research
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
