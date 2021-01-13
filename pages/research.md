@@ -48,7 +48,7 @@ permalink: /research
 - Bayesian Model for fMRI data analysis, **H.Jiang** and [J. Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1)
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
 - An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
-- A deep learning framework explores similar patterns in DNA 6mA sites across different species,Z. Li\#, **H.Jiang**\#..., [C. Pian\*](http://www.pianlab.cn/), (Webtool: [Deep6mA](http://www.pianlab.cn/deep6ma/)).
+- A deep learning framework explores similar patterns in DNA 6mA sites across different species, Z. Li\#, **H.Jiang**\#..., [C. Pian\*](http://www.pianlab.cn/). (Webserver:[Deep6mA](http://www.pianlab.cn/deep6ma/)).
 - [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
 - Pattern Detection in Contaminated Datasets, **H.Jiang**
 - The Two-step Clustering Approach for Learning Metastable States from Molecular Dynamics Data, **H.Jiang** and X. Fan
