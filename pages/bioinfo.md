@@ -6,14 +6,16 @@ permalink: /bioinfo/
 ---
 
 ## Basics for Bioinformatics
-
+ - Some Concepts:
+     - **表观遗传学**: 是指基于非基因序列改变所致基因表达水平的变化，例如：DNA甲基化、组蛋白修饰、染色体重塑和非编码RNA调控等等，主要是通过对基因转录或翻译过程的调控，影响其功能和特性。
+     - **染色质**：是由DNA缠绕着核小体构成。
+     - **核小体**：核小体是由H3、H4、H2A和H2B四种组蛋白构成的八聚物，每个核小体上大约含有146bp的DNA。染色质分为常染色质和异染色质，在结构上常染色质折叠压缩程度低，处于伸展状态。
+     - **开放染色质**：DNA复制和基因转录时，DNA的致密高级结构变为松散状态，这部分无核小体包裹的裸露DNA区域被称为开放染色质性。
+     - **染色质可进入性**：染色质一旦被打开，就允许一些调控蛋白，比如转录因子和辅因子与之相结合，染色质的这种特性叫做染色质的可进入性也叫可及性。
 - [Application of NGS to Epigenetics](https://zhuanlan.zhihu.com/p/289427789)
-    - Some Concepts:
-        - **表观遗传学**: 是指基于非基因序列改变所致基因表达水平的变化，例如：DNA甲基化、组蛋白修饰、染色体重塑和非编码RNA调控等等，主要是通过对基因转录或翻译过程的调控，影响其功能和特性。
-        - **染色质**：是由DNA缠绕着核小体构成。
-        - **核小体**：核小体是由H3、H4、H2A和H2B四种组蛋白构成的八聚物，每个核小体上大约含有146bp的DNA。染色质分为常染色质和异染色质，在结构上常染色质折叠压缩程度低，处于伸展状态。
-        - **开放染色质**：DNA复制和基因转录时，DNA的致密高级结构变为松散状态，这部分无核小体包裹的裸露DNA区域被称为开放染色质。
-        - **染色质可进入性**：染色质一旦被打开，就允许一些调控蛋白，比如转录因子和辅因子与之相结合，染色质的这种特性叫做染色质的可进入性也叫可及性。
+    - [全基因组测序与覆盖深度](https://zhuanlan.zhihu.com/p/128738355)
+        - Coverage ratio (覆盖比率，亦简称覆盖率，亦称基因组覆盖率): 指被测序到的碱基占全基因组大小的比率。
+        - Coverage depth (覆盖深度，亦称测序深度，或者碱基平均测序深度):指每个碱基被测序的平均次数。即测序的数据总量比基因组大小: 测序所得的碱基总数(raw data or clean data)/基因组大小
     - RNA-seq: 转录组测序, includes mRNA, sRNA, microRNA, LncRNA, etc
     - Chip-seq:用来研究细胞内蛋白质与DNA相互作用, 具体来说就是明确特定的蛋白（如转录因子: motif搜索转录因子）是否结合特定基因组区域（如启动子或其它DNA结合位点)。它还被用来确定基因组上与组蛋白修饰相关的特定位点（即组蛋白修饰酶类的靶标）。
     - CUT&Tag: CUT&Tag是蛋白质-DNA互作关系研究的新方法, 用于弥补Chip-seq的不足。
@@ -25,6 +27,13 @@ permalink: /bioinfo/
         - WGBS具有单个碱基分辨率，研究的是全基因组甲基化，可以针对小样本但是价格贵。
         - RRBS主要关注CpG富集区域的甲基化，在大规模的临床样本的研究中具有广泛的应用前景。
         - 主要是高CpG密度、高DNA甲基化水平区域，和RRBS相似，适用于大样本量的甲基化研究。与WGBS和RRBS不同的是，MeDIP-Seq检测的甲基化图谱不能精确到单个碱基位点。
+    - Hi-C: 研究全基因组范围内整个染色质DNA在空间位置上的关系，获得高分辨率的染色质三维结构信息.
+- **如何寻找Enhancer** (Data Sets: EnhancerAtlas (人), VISTA Enhancer Browser (人和鼠), HACER(人))
+    - 使用一些组蛋白的修饰来定义enhancer. 比如H3K4me1是enhancer (poised)的标志, 如果同时出现H3K27ac则认为是活跃的enhancer (activated),如果同时出现H3K27me3则认为是抑制的enhancer (repressed);
+    - 使用p300来确定active enhancer;
+    - 使用染色质的开放程度来寻找潜在的enhancer. 因为活跃的enhancer上面需要结合特异性转录因子,所以一般是处于开放的状态,使用faire-seq,DNase-seq,或者现在使用最多的ATAC-seq来找到开放的区域,然后再根据注释到基因的距离来界定promoter和enhancer (更多称为distal regulatory element), 当然这种的方法只能找到正在活跃的enhancer;
+    - 使用染色质三级结构捕获的技术 (3C, 4C, 5C, Hi-C, capture HiC, ChIA-PET, Hi-ChIP)之类的技术直接获得enhancer-promoter interaction, 当然这种技术难度比较大,花费也多,现在数据很少;
+    - 近年也有人用enhancer RNA (eRNA)来找enhancer,但是关于其争议比较多, 见到的应用不多;
 - Someting about Bioconductor
     - [Bioconductor Homepage](https://www.bioconductor.org/)
     - [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html): [Summay](http://genomicsclass.github.io/book/pages/bioc1_annoCheat.html)
