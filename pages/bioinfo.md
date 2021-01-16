@@ -13,7 +13,7 @@ permalink: /bioinfo/
 - **开放染色质**：DNA复制和基因转录时，DNA的致密高级结构变为松散状态，这部分无核小体包裹的裸露DNA区域被称为开放染色质性。
 - **染色质可进入性**：染色质一旦被打开，就允许一些调控蛋白，比如转录因子和辅因子与之相结合，染色质的这种特性叫做染色质的可进入性也叫可及性。
 
-### [Application of NGS to Epigenetics](https://zhuanlan.zhihu.com/p/289427789)
+### [Application of NGS](https://zhuanlan.zhihu.com/p/289427789)
 - [全基因组测序与覆盖深度](https://zhuanlan.zhihu.com/p/128738355)
     - Coverage ratio (覆盖比率，亦简称覆盖率，亦称基因组覆盖率): 指被测序到的碱基占全基因组大小的比率。
     - Coverage depth (覆盖深度，亦称测序深度，或者碱基平均测序深度):指每个碱基被测序的平均次数。即测序的数据总量比基因组大小: 测序所得的碱基总数(raw data or clean data)/基因组大小
