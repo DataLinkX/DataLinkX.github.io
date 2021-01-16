@@ -40,7 +40,7 @@ permalink: /bioinfo/
 - [空间转录组学](https://zhuanlan.zhihu.com/p/101370236) (<font color=blue>Spatial Transcriptomics</font>)
 - GWAS
     - [xQTL](https://www.nature.com/articles/nn.4632)(sQTLs, caQTLs, mQTLs, hQTLs, fQTLs and eQTL)
-    - Understand GWAS: [Step1](https://zhuanlan.zhihu.com/p/105699734), [Step2](https://zhuanlan.zhihu.com/p/106103885), [Step3](https://zhuanlan.zhihu.com/p/268713767)
+    - Understand GWAS ([Step1](https://zhuanlan.zhihu.com/p/105699734), [Step2](https://zhuanlan.zhihu.com/p/106103885) and [Step3](https://zhuanlan.zhihu.com/p/268713767))
 - [空间转录组学](https://zhuanlan.zhihu.com/p/101370236) (<font color=blue>Spatial Transcriptomics</font>)
 ### Regulatory Elements
 - **启动子 Promoter**: 与RNA聚合酶结合并能起始mRNA合成的序列。一般选择CDS区上游2k bp, 下游100bp.
