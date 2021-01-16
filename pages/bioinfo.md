@@ -41,6 +41,7 @@ permalink: /bioinfo/
 - **全基因组关联分析** (<font color=blue>GWAS</font>)
     - [xQTL](https://www.nature.com/articles/nn.4632)(sQTLs, caQTLs, mQTLs, hQTLs, fQTLs and eQTL)
     - Understand GWAS ([Step1](https://zhuanlan.zhihu.com/p/105699734), [Step2](https://zhuanlan.zhihu.com/p/106103885) and [Step3](https://zhuanlan.zhihu.com/p/268713767))
+- **基因组变异分析** (<font color=blue>CNV and SNV</font>)
 
 ### Regulatory Elements
 - **启动子 Promoter**: 与RNA聚合酶结合并能起始mRNA合成的序列。一般选择CDS区上游2k bp, 下游100bp.
