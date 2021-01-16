@@ -55,7 +55,7 @@ permalink: /bioinfo/
 - **转录因子** (<font color=blue>TF</font>), [Review Paper](https://www.sciencedirect.com/science/article/pii/S0092867418301065)
     - 是一类序列特异性DNA结合蛋白，能够结合在靶基因上游的转录因子结合位点序列（Transcription factor binding site, TFBS）上。
     - 转录因子在基因组结合位点不固定，允许错配 
-    - TFBS 通常为一段6~12bp的DNA序列，最多不超过20bp, 用(Weblogo或位置频率矩阵表示
+    - TFBS 通常为一段6~12bp的DNA序列，最多不超过20bp, 用Weblogo或位置频率矩阵表示
     - Datasets: [JASPAR](http://jaspar.genereg.net/), [More](https://zhuanlan.zhihu.com/p/343884679)
     - Example: [Predicting TFs from Promoter Squence](https://zhuanlan.zhihu.com/p/65606384) 
     
