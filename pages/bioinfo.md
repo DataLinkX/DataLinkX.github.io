@@ -39,7 +39,7 @@ permalink: /bioinfo/
     - 与RNA-Seq、ChIP-Seq等数据进行联合分析，从基因调控网络和表观遗传网络来阐述生物体性状形成的相关机制。
     
 ### Regulatory Elements
-- **启动子 Promoter**: 与RNA聚合酶结合并能起始mRNA合成的序列。一般选择CDS区上游2kb。
+- **启动子 Promoter**: 与RNA聚合酶结合并能起始mRNA合成的序列。一般选择CDS区上游2k bp, 下游100bp.
     - Example: [Predicting TFBS for a Given TF on Promoter](https://zhuanlan.zhihu.com/p/73237158)
 - **如何寻找Enhancer** (Data Sets: EnhancerAtlas (人), VISTA Enhancer Browser (人和鼠), HACER(人))
     - 使用一些组蛋白的修饰来定义enhancer. 比如H3K4me1是enhancer (poised)的标志, 如果同时出现H3K27ac则认为是活跃的enhancer (activated),如果同时出现H3K27me3则认为是抑制的enhancer (repressed);
