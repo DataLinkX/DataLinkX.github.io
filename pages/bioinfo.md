@@ -40,7 +40,7 @@ permalink: /bioinfo/
     
 ### Regulatory Elements
 - **启动子 Promoter**: 与RNA聚合酶结合并能起始mRNA合成的序列。一般选择CDS区上游2kb。
-    - [Predicting TFBS for a Given TF on Promoter](https://zhuanlan.zhihu.com/p/73237158)
+    - Example: [Predicting TFBS for a Given TF on Promoter](https://zhuanlan.zhihu.com/p/73237158)
 - **如何寻找Enhancer** (Data Sets: EnhancerAtlas (人), VISTA Enhancer Browser (人和鼠), HACER(人))
     - 使用一些组蛋白的修饰来定义enhancer. 比如H3K4me1是enhancer (poised)的标志, 如果同时出现H3K27ac则认为是活跃的enhancer (activated),如果同时出现H3K27me3则认为是抑制的enhancer (repressed);
     - 使用p300来确定active enhancer;
@@ -52,7 +52,7 @@ permalink: /bioinfo/
     - 转录因子在基因组结合位点不固定，允许错配 
     - TFBS 通常为一段6~12bp的DNA序列，最多不超过20bp, 用(Weblogo或位置频率矩阵表示
     - Datasets: [JASPAR](http://jaspar.genereg.net/), [More](https://zhuanlan.zhihu.com/p/343884679)
-    - [Predicting TFs from Promoter Squence](https://zhuanlan.zhihu.com/p/65606384): 
+    - Example: [Predicting TFs from Promoter Squence](https://zhuanlan.zhihu.com/p/65606384) 
     
 ### Someting about Bioconductor
 - [Bioconductor Homepage](https://www.bioconductor.org/)
