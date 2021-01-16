@@ -42,6 +42,10 @@ permalink: /bioinfo/
     - 使用染色质的开放程度来寻找潜在的enhancer. 因为活跃的enhancer上面需要结合特异性转录因子,所以一般是处于开放的状态,使用faire-seq,DNase-seq,或者现在使用最多的ATAC-seq来找到开放的区域,然后再根据注释到基因的距离来界定promoter和enhancer (更多称为distal regulatory element), 当然这种的方法只能找到正在活跃的enhancer;
     - 使用染色质三级结构捕获的技术 (3C, 4C, 5C, Hi-C, capture HiC, ChIA-PET, Hi-ChIP)之类的技术直接获得enhancer-promoter interaction, 当然这种技术难度比较大,花费也多,现在数据很少;
     - 近年也有人用enhancer RNA (eRNA)来找enhancer,但是关于其争议比较多, 见到的应用不多;
+- **转录因子** (<font color=blue>TF</font>), Dataset:[JASPAR](http://jaspar.genereg.net/)
+    - 是一类序列特异性DNA结合蛋白，能够结合在靶基因上游的转录因子结合位点序列（Transcription factor binding site, TFBS）上。
+    - TFBS 通常为一段6~12bp的DNA序列，最多不超过20bp
+    - 转录因子在基因组结合位点不固定，允许错配 (Weblogo, 位置频率矩阵)
 - Someting about Bioconductor
     - [Bioconductor Homepage](https://www.bioconductor.org/)
     - [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html): [Summay](http://genomicsclass.github.io/book/pages/bioc1_annoCheat.html)
