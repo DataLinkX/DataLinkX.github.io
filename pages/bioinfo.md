@@ -33,8 +33,9 @@ permalink: /bioinfo/
         - 主要是高CpG密度、高DNA甲基化水平区域，和RRBS相似，适用于大样本量的甲基化研究。与WGBS和RRBS不同的是，MeDIP-Seq检测的甲基化图谱不能精确到单个碱基位点。
     - Hi-C: 研究全基因组范围内整个染色质DNA在空间位置上的关系，获得高分辨率的染色质调控元件相互作用图谱。
         - 测得的数据是相互作用矩阵, 表明染色体各个区间段的相互作用强度。
-        - 不仅可以研究染色体片段之间的相互作用，建立基因组折叠模型，还可以应用于基因组组装、单体型图谱构建、辅助宏基因组组装等
-        - 可以与RNA-Seq、ChIP-Seq等数据进行联合分析，从基因调控网络和表观遗传网络来阐述生物体性状形成的相关机制。
+        - 研究染色体片段之间的相互作用，建立基因组折叠模型
+        - 应用于基因组组装、单体型图谱构建、辅助宏基因组组装等
+        - 与RNA-Seq、ChIP-Seq等数据进行联合分析，从基因调控网络和表观遗传网络来阐述生物体性状形成的相关机制。
 - **如何寻找Enhancer** (Data Sets: EnhancerAtlas (人), VISTA Enhancer Browser (人和鼠), HACER(人))
     - 使用一些组蛋白的修饰来定义enhancer. 比如H3K4me1是enhancer (poised)的标志, 如果同时出现H3K27ac则认为是活跃的enhancer (activated),如果同时出现H3K27me3则认为是抑制的enhancer (repressed);
     - 使用p300来确定active enhancer;
