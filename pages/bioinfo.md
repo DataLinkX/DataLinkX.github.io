@@ -12,6 +12,7 @@ permalink: /bioinfo/
 - **核小体**：核小体是由H3、H4、H2A和H2B四种组蛋白构成的八聚物，每个核小体上大约含有146bp的DNA。染色质分为常染色质和异染色质，在结构上常染色质折叠压缩程度低，处于伸展状态。
 - **开放染色质**：DNA复制和基因转录时，DNA的致密高级结构变为松散状态，这部分无核小体包裹的裸露DNA区域被称为开放染色质性。
 - **染色质可进入性**：染色质一旦被打开，就允许一些调控蛋白，比如转录因子和辅因子与之相结合，染色质的这种特性叫做染色质的可进入性也叫可及性。
+
 ### [Application of NGS to Epigenetics](https://zhuanlan.zhihu.com/p/289427789)
 - [全基因组测序与覆盖深度](https://zhuanlan.zhihu.com/p/128738355)
     - Coverage ratio (覆盖比率，亦简称覆盖率，亦称基因组覆盖率): 指被测序到的碱基占全基因组大小的比率。
@@ -36,6 +37,7 @@ permalink: /bioinfo/
     - 研究染色体片段之间的相互作用，建立基因组折叠模型
     - 应用于基因组组装、单体型图谱构建、辅助宏基因组组装等
     - 与RNA-Seq、ChIP-Seq等数据进行联合分析，从基因调控网络和表观遗传网络来阐述生物体性状形成的相关机制。
+    
 ### Regulatory Elements
 - **启动子 Promoter**: 与RNA聚合酶结合并能起始mRNA合成的序列。一般选择CDS区上游2kb。
     - [Predicting TFBS for a Given TF on Promoter](https://zhuanlan.zhihu.com/p/73237158)
@@ -51,8 +53,9 @@ permalink: /bioinfo/
     - TFBS 通常为一段6~12bp的DNA序列，最多不超过20bp, 用(Weblogo或位置频率矩阵表示
     - Datasets: [JASPAR](http://jaspar.genereg.net/), [More](https://zhuanlan.zhihu.com/p/343884679)
     - [Predicting TFs from Promoter Squence](https://zhuanlan.zhihu.com/p/65606384): 
+    
 ### Someting about Bioconductor
-    - [Bioconductor Homepage](https://www.bioconductor.org/)
-    - [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html): [Summay](http://genomicsclass.github.io/book/pages/bioc1_annoCheat.html)
-    - Get data from GEO (**code**: library(GEOquery); gset <- getGEO("GSE84437", GSEMatrix =TRUE);)
+- [Bioconductor Homepage](https://www.bioconductor.org/)
+- [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html): [Summay](http://genomicsclass.github.io/book/pages/bioc1_annoCheat.html)
+- Get data from GEO (**code**: library(GEOquery); gset <- getGEO("GSE84437", GSEMatrix =TRUE);)
 
