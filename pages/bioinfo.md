@@ -38,6 +38,10 @@ permalink: /bioinfo/
     - 应用于基因组组装、单体型图谱构建、辅助宏基因组组装等
     - 与RNA-Seq、ChIP-Seq等数据进行联合分析，从基因调控网络和表观遗传网络来阐述生物体性状形成的相关机制。
 - [空间转录组学](https://zhuanlan.zhihu.com/p/101370236) (<font color=blue>Spatial Transcriptomics</font>)
+- GWAS
+    - RNA splicing (sQTLs), chromatin accessibility (caQTLs), DNA methylation (mQTLs), histone modification (hQTLs) and cell-type proportions (fQTLs)
+    - Understand GWAS: [Step1](https://zhuanlan.zhihu.com/p/105699734), [Step2](https://zhuanlan.zhihu.com/p/106103885), [Step3](https://zhuanlan.zhihu.com/p/268713767)
+- [空间转录组学](https://zhuanlan.zhihu.com/p/101370236) (<font color=blue>Spatial Transcriptomics</font>)
 ### Regulatory Elements
 - **启动子 Promoter**: 与RNA聚合酶结合并能起始mRNA合成的序列。一般选择CDS区上游2k bp, 下游100bp.
     - Example: [Predicting TFBS for a Given TF on Promoter](https://zhuanlan.zhihu.com/p/73237158)
