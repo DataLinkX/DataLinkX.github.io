@@ -39,7 +39,7 @@ permalink: /bioinfo/
     - 与RNA-Seq、ChIP-Seq等数据进行联合分析，从基因调控网络和表观遗传网络来阐述生物体性状形成的相关机制。
 - [空间转录组学](https://zhuanlan.zhihu.com/p/101370236) (<font color=blue>Spatial Transcriptomics</font>)
 - GWAS
-    - RNA splicing (sQTLs), chromatin accessibility (caQTLs), DNA methylation (mQTLs), histone modification (hQTLs) and cell-type proportions (fQTLs)
+    - [xQTL](https://www.nature.com/articles/nn.4632)(sQTLs, caQTLs, mQTLs, hQTLs, fQTLs and eQTL)
     - Understand GWAS: [Step1](https://zhuanlan.zhihu.com/p/105699734), [Step2](https://zhuanlan.zhihu.com/p/106103885), [Step3](https://zhuanlan.zhihu.com/p/268713767)
 - [空间转录组学](https://zhuanlan.zhihu.com/p/101370236) (<font color=blue>Spatial Transcriptomics</font>)
 ### Regulatory Elements
