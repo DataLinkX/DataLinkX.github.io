@@ -6,6 +6,11 @@ permalink: /bioinfo/
 ---
 
 ## Basics for Bioinformatics
+### Main Directions of Bioinformatics
+- Model the observed data to valid the conjecture on bological prinple 
+- Predict variables that are hard to observe directly 
+- Statistical Inference on bological data, for example, estimate the true methylation state, the true expression level etc.
+
 ### Some Concepts ([More](https://zhuanlan.zhihu.com/p/262198184)):
 - **表观遗传学**: 是指基于非基因序列改变所致基因表达水平的变化，例如：DNA甲基化、组蛋白修饰、染色体重塑和非编码RNA调控等等，主要是通过对基因转录或翻译过程的调控，影响其功能和特性。
 - **染色质**：是由DNA缠绕着核小体构成。
@@ -18,7 +23,7 @@ permalink: /bioinfo/
     - Coverage ratio (覆盖比率，亦简称覆盖率，亦称基因组覆盖率): 指被测序到的碱基占全基因组大小的比率。
     - Coverage depth (覆盖深度，亦称测序深度，或者碱基平均测序深度):指每个碱基被测序的平均次数。即测序的数据总量比基因组大小: 测序所得的碱基总数(raw data or clean data)/基因组大小
 - **转录组测序** (<font color=blue>RNA-seq</font>) includes mRNA, sRNA, microRNA, LncRNA, etc.
-- **蛋白质与DNA相互作用** (<font color=blue>Chi-seq and CUT&Tag</font>): 测得的数据越大相应的区域可能蛋白质的结合位点
+- **蛋白质与DNA相互作用** (<font color=blue>Chip-seq and CUT&Tag</font>): 测得的数据越大相应的区域可能蛋白质的结合位点
     - **Chip-seq**: 明确特定的蛋白（如转录因子: motif搜索转录因子）是否结合特定基因组区域（如启动子或其它DNA结合位点)
     - 它还被用来确定基因组上与组蛋白修饰相关的特定位点（即组蛋白修饰酶类的靶标）
     - **CUT&Tag**: CUT&Tag是蛋白质-DNA互作关系研究的新方法, 用于弥补Chip-seq的不足。
