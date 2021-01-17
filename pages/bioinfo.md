@@ -7,9 +7,10 @@ permalink: /bioinfo/
 
 ## Basics for Bioinformatics
 ### Main Directions
-- Model the observed data to valid the conjecture on bological prinple 
-- Predict variables that are hard to observe directly 
-- Statistical Inference on bological data, for example, estimate the true methylation state, the true expression level etc.
+- Statistical modeling for validating the bological conjecture (e.g. the meachnism from SNP to Phenotype)
+- Predict bological variables (e.g., enhancer, promoter) that are hard to observe directly 
+- Bological Inference on bological data, e.g., estimate the true methylation state, the true expression level etc.
+- Find biomarkers for Diease, Cancer, or other Phenotypes
 
 ### Some Concepts ([More](https://zhuanlan.zhihu.com/p/262198184)):
 - **表观遗传学**: 是指基于非基因序列改变所致基因表达水平的变化，例如：DNA甲基化、组蛋白修饰、染色体重塑和非编码RNA调控等等，主要是通过对基因转录或翻译过程的调控，影响其功能和特性。
