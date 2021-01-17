@@ -6,7 +6,7 @@ permalink: /bioinfo/
 ---
 
 ## Basics for Bioinformatics
-### Main Directions of Bioinformatics
+### Main Directions
 - Model the observed data to valid the conjecture on bological prinple 
 - Predict variables that are hard to observe directly 
 - Statistical Inference on bological data, for example, estimate the true methylation state, the true expression level etc.
