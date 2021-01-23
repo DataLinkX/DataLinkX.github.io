@@ -43,7 +43,7 @@ permalink: /research
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
 ### Manuscripts 
-- Fast Estimating p-values for Feature Selection in Biological Problems ([code](/resources/Fast-pvalue.zip)), **H.Jiang**.
+- Fast Estimating p-values for Two Feature Selection Methods in Biological Problems ([code](/resources/Fast-pvalue.zip)), **H.Jiang**.
 - [Bayesian Variable Selection for Single Index Logistic Model](https://arxiv.org/pdf/2012.06199.pdf), <u>Y. Sun</u> and **H.Jiang**\*.
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Bayesian Model for fMRI data analysis, **H.Jiang** and [J. Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1)
