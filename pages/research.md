@@ -30,6 +30,7 @@ permalink: /research
 - Hangxiao Zhang, Fujian Agriculture and Forestry University
 
 ### Publications  
+1. Z. Li\#, **H.Jiang**\#, L. Kong, Y. Chen, K. Lang, X. Fan, L. Zhang and [C. Pian\*](http://www.pianlab.cn/) (2021). A deep learning framework explores similar patterns in DNA 6mA sites across different species. ([Deep6mA](http://www.pianlab.cn/deep6ma/)). *Plos Computational Biology*.
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). [Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data](https://doi.org/10.1016/j.ymeth.2020.09.009). *Methods*. DOI:10.1016/j.ymeth.2020.09.009
 1. **H.Jiang**, [Xingqiu Zhao](https://www.polyu.edu.hk/ama/staff/zhaoxq/index.html), Ronald C.W. Ma and X.Fan\* (2020). [Consistent Screening Procedures in High-dimensional Binary Classification](https://doi.org/10.5705/ss.202020.0088). *Statistica Sinica*. DOI: 10.5705/ss.202020.0088
 1. **H.Jiang** and X.Fan\* (2020). [A Consistent Variable Screening Procedure with Family-wise Error Control](https://doi.org/10.1080/00949655.2020.1724291). *Journal of Statistical Computation and Simulation*. DOI:10.1080/00949655.2020.1724291
@@ -49,7 +50,6 @@ permalink: /research
 - Bayesian Model for fMRI data analysis, **H.Jiang** and [J. Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1)
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
 - An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
-- A deep learning framework explores similar patterns in DNA 6mA sites across different species, Z. Li\#, **H.Jiang**\#..., [C. Pian\*](http://www.pianlab.cn/). (Webserver:[Deep6mA](http://www.pianlab.cn/deep6ma/)).
 - [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
 - Pattern Detection in Contaminated Datasets, **H.Jiang**
 - The Two-step Clustering Approach for Learning Metastable States from Molecular Dynamics Data, **H.Jiang** and X. Fan
