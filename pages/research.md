@@ -43,7 +43,7 @@ permalink: /research
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
-Note: [\* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are (joint) students.](/resources)
+[Note: \* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are (joint) students.](/resources)
 
 ### Manuscripts 
 - Fast Estimating p-values of Two Feature Selection Methods for Biological Problems ([code](/resources/Fast-pvalue.zip)), **H.Jiang**.
