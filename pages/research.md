@@ -29,7 +29,7 @@ permalink: /research
 - [Huabai Li](http://www.phy.cuhk.edu.hk/new/people/teaching/hbli.html), The Chinese Unversity of Hong Kong
 - Hangxiao Zhang, Fujian Agriculture and Forestry University
 
-### Publications [<font size=3>* denotes corresponding author(s), # denotes joint first authors and author(s) with underline are (joint) students.</font>](/resources)
+### Publications 
 1. <u>Z. Li</u>\#, **H.Jiang**\#, L. Kong, Y. Chen, K. Lang, X. Fan, L. Zhang\* and [C. Pian\*](http://www.pianlab.cn/) (2021). A deep learning framework explores similar patterns in DNA 6mA sites across different species. ([Deep6mA](http://www.pianlab.cn/deep6ma/)). *PLOS Computational Biology*.
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). [Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data](https://doi.org/10.1016/j.ymeth.2020.09.009). *Methods*. DOI:10.1016/j.ymeth.2020.09.009
 1. **H.Jiang**, [Xingqiu Zhao](https://www.polyu.edu.hk/ama/staff/zhaoxq/index.html), Ronald C.W. Ma and X.Fan\* (2020). [Consistent Screening Procedures in High-dimensional Binary Classification](https://doi.org/10.5705/ss.202020.0088). *Statistica Sinica*. DOI: 10.5705/ss.202020.0088
@@ -42,6 +42,8 @@ permalink: /research
 1. W.Su and **H.Jiang**\* (2017). [Semiparametric Analysis of Longitudinal Data with Informative Observation Times and Censoring Times](https://doi.org/10.1080/02664763.2017.1403574). *Journal of Applied Statistics*. DOI:10.1080/02664763.2017.1403574
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
+
+Note: [\* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are (joint) students.](/resources)
 
 ### Manuscripts 
 - Fast Estimating p-values of Two Feature Selection Methods for Biological Problems ([code](/resources/Fast-pvalue.zip)), **H.Jiang**.
