@@ -9,7 +9,7 @@ permalink: /research
 - Data Science
     - Computational Biology/Biostatistics: scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
     - Statistics for Medicine: Clinical Data related to disease (diabetes, cancer, etc.)
-    - Astronomy (magnetic field observations, Zeeman effects)
+    - Statistics for Astronomy: Magnetic field observations and Zeeman effects
 - Statistical Methodology
     - (Bayesian) Deep Learning 
     - Data Imputation (Missing Data)
