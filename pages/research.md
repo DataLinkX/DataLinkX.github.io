@@ -7,7 +7,7 @@ permalink: /research
 
 ### Research Interests 
 - Data Science
-    - Computational Biology/Biostatistics: scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
+    - Biostatistics/Computational Biology: scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
     - Statistics for Medicine: Clinical Data related to disease (diabetes, cancer, etc.)
     - Statistics for Astronomy: Magnetic field observations and Zeeman effects
 - Statistical Methodology
