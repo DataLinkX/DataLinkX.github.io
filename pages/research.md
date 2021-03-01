@@ -7,7 +7,7 @@ permalink: /research
 
 ### Research Interests 
 - Statistical Methods for Data Science
-    - Computational Biology/Bioinformatics: scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
+    - Computational Biology/Biostatistics: scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
     - Statistics for Medicine: Clinical Data related to disease (diabetes, cancer, etc.)
     - Astronomy (magnetic field observations, Zeeman effects)
 - Statistical Methodology
