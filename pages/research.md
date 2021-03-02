@@ -22,12 +22,6 @@ permalink: /research
 - The Fundamental Research Funds for the Central Universities, 2019.1 - 2019.12
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
-### Collaborators 
-- [Ming Chen](https://person.zju.edu.cn/mchen/569642.html), Zhejiang University
-- [Qing Zhou](https://person.zju.edu.cn/0017015/802017.html), Zhejiang University
-- [Yizhou Wang](https://person.zju.edu.cn/wangyz), Zhejiang University
-- Hangxiao Zhang, Fujian Agriculture and Forestry University
-
 ### Publications 
 1. <u>Z. Li</u>\#, **H.Jiang**\#, L. Kong, Y. Chen, K. Lang, X. Fan, L. Zhang\* and [C. Pian\*](http://www.pianlab.cn/) (2021). [Deep6mA: a deep learning framework explores similar patterns in DNA N6-methyladenine sites across different species]( https://doi.org/10.1371/journal.pcbi.1008767) ([Deep6mA](http://www.pianlab.cn/deep6ma/)). *PLOS Computational Biology*. DOI:10.1371/journal.pcbi.1008767
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). [Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data](https://doi.org/10.1016/j.ymeth.2020.09.009). *Methods*. DOI:10.1016/j.ymeth.2020.09.009
