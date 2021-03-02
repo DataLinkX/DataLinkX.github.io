@@ -53,7 +53,6 @@ H. Lei\#, **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\*.
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Bayesian Model for fMRI data analysis, **H.Jiang** and [J. Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1)
 - Randmized Optimization Tree for Exploring Free Energy Landscapes of Proteins, **H.Jiang**
-- An Imporved Bayesian Model for Zeeman Measurements, **H.Jiang** et al.
 - [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
 - Pattern Detection in Contaminated Datasets, **H.Jiang**
 - The Two-step Clustering Approach for Learning Metastable States from Molecular Dynamics Data, **H.Jiang** and X. Fan
