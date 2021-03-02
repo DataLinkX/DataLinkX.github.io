@@ -46,7 +46,7 @@ permalink: /research
 [Note: \* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are (joint) students.](/resources)
 
 ### Manuscripts 
-- Urbanization reduced the effects of school closure on seasonal influenza epidemics in China
+- Urbanization reduced the effects of school closure on seasonal influenza epidemics in China,
 H.Lei\#, **H.Jiang**\#, N.Zhang, T.Chen, L.Yang, D.Wang and Y.Shu\*.
 - Fast Estimating p-values of Two Feature Selection Methods for Biological Problems ([code](/resources/Fast-pvalue.zip)), **H.Jiang**.
 - [Bayesian Variable Selection for Single Index Logistic Model](https://arxiv.org/pdf/2012.06199.pdf), <u>Y. Sun</u> and **H.Jiang**\*.
