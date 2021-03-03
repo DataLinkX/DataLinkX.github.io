@@ -39,7 +39,7 @@ permalink: /research
 [Note: \* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are (joint) students.](/resources)
 
 ### Manuscripts 
-- Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\*, [Y. Wang\*](https://person.zju.edu.cn/wangyz).
+- Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Urbanization reduced the effects of school closure on seasonal influenza epidemics in China,
 [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\*.
 - Fast Estimating p-values of Two Feature Selection Methods for Biological Problems ([code](/resources/Fast-pvalue.zip)), **H.Jiang**.
