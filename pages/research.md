@@ -40,7 +40,7 @@ permalink: /research
 
 ### Manuscripts 
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
-- Urbanization reduced the effects of school closure on seasonal influenza epidemics in China,
+- Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China,
 [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\*.
 - [Bayesian Variable Selection for Single Index Logistic Model](https://arxiv.org/pdf/2012.06199.pdf), <u>Y. Sun</u> and **H.Jiang**\*.
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
