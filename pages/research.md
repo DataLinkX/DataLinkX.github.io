@@ -39,7 +39,6 @@ permalink: /research
 [Note: \* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are (joint) students.](/resources)
 
 ### Manuscripts 
-- EigenGWAS-B: Improving statistical power for discovering loci under selection. **H.Jiang\*** and Guo-bo Chen\*
 - Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree [[code](/resources/capt.zip), [data](/resources/ala-traj.zip)]. **H.Jiang**, X. Huang, H. Li, Wing H. Wong\* and X. Fan\* 
 - The Two-step Clustering Approach for Metastable States Learning, **H.Jiang** and X. Fan\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
