@@ -40,13 +40,13 @@ permalink: /research
 
 ### Manuscripts 
 - Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree [[code](/resources/capt.zip), [data](/resources/ala-traj.zip)]. **H.Jiang**, X. Huang, H. Li, Wing H. Wong\* and X. Fan\* 
+- The Two-step Clustering Approach for Metastable States Learning, **H.Jiang** and X. Fan\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China,
 [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\*.
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Bayesian Model for fMRI data analysis, **H.Jiang** and [J. Hu](http://math-faculty.xmu.edu.cn/display.aspx?tid=131&AspxAutoDetectCookieSupport=1)
 - [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
-- The Two-step Clustering Approach for Metastable States Learning, **H.Jiang** and X. Fan\*.
 - [Bayesian Variable Selection for Single Index Logistic Model](https://arxiv.org/pdf/2012.06199.pdf), <u>Y. Sun</u> and **H.Jiang**\*.
 - Parameter Estimation in Noisy Dynamical System, **H.Jiang**, and  D.H., He
 - [Equitablity of Dependence Measure](https://arxiv.org/pdf/1501.02102.pdf), **H.Jiang**, K.Liu and Y.Ding (2013)
