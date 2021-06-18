@@ -6,7 +6,7 @@ permalink: /standford
 
 #### Thinking at Stanford
 
-*One should do something special to show his/her contribution to the scientific community, since people will evaluate you based on your works.*
+*One should do something special to show his/her contribution(s) to the scientific community, since people will evaluate you based on your works.*
 
 *The rule for mathematical/statistical modeling*. We always learn the world approximately, no one know what exactly is the rule underlying the system except the cases where we design it. So, when understand the phenomenon through modeling, do not be too rigorous/restrictive. The model should be mathematically tractable and the assumptions should be reasonable. So, reasonable assumptions => modeling, not too ideal, or, it is impossible to propose a model.  The way to verify the model is to see whether the model explains the data in a reasonable way, i.e, does the model give some reasonable explanations on the phenomenon consistent with known facts. This is the rule for mathematical/statistical modeling. Simple models explain a lot! Just follow the background knowledge! 
 
