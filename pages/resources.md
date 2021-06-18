@@ -10,7 +10,7 @@ permalink: /resources/
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
 - [Basics for Bioinformatics](/bioinfo)
 - [Markdown rules for Github](https://www.jianshu.com/p/191d1e21f7ed/)
-- [Research Notes](/ReNotes)
+- [Research Notes](/Renotes)
 - [Notes on R](/Rnotes)
 
 ### Requirements on Good Research
