@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research Notes
-permalink: /ReNotes
+permalink: /Renotes
 ---
 
 ### Research Notes
