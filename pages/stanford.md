@@ -6,23 +6,14 @@ permalink: /standford
 
 #### Thinking at Stanford
 
-Methods are used for finding something new.  In other words, if you find something interesting, the method can be not so rigorous. 
+*The rule for mathematical/statistical modeling*. We always learn the world approximately, no one know what exactly is the rule underlying the system except the cases where we design it. So, when understand the phenomenon through modeling, do not be too rigorous/restrictive. The model should be mathematically tractable and the assumptions should be reasonable. So, reasonable assumptions => modeling, not too ideal, or, it is impossible to propose a model.  The way to verify the model is to see whether the model explains the data in a reasonable way, i.e, does the model give some reasonable explanations on the phenomenon consistent with known facts. This is the rule for mathematical/statistical modeling. Simple models explain a lot! Just follow the background knowledge! 
+
+*Researches on real Problems*. Methods are used for finding something new.  In other words, if you find something interesting, the method can be not so rigorous. 
+ The goal of **application research** is to provide new findings by new/old methods. However, The goal of **theoretical research** is to provide better understanding on the behavior of the method.  The theory is interesting if your results gives fundamental view on the method, usually, rate of convergence. Since computational cost is a main concern in statistics. 
  
-The goal of application research is to provide new methods for new applications/new findings. So the method is validated through your findings.
+**One should do something special to show his/her contribution to the scientific community, since people will evaluate you based on your works.**
  
-The goal of theoretical research is to provide better understanding on the behavior of the method.  The theory is interesting if your results gives fundamental view on the method, usually, rate of convergence. Since computation cost is a main concern in statistics. 
- 
-Wing’s interests are 1) statistical modeling to understand the phenomenon; 2) rate of convergence of the MCMC algorithm; 3) computational methods for bayesian inference ( including density estimation, parameter estimation in the model ). 
- 
-I should do something special to show my own contribution to the scientific community, since people will evaluate you based on your works.
- 
-I should read many more papers to cultivate my own intuition on possible solutions to research problems.  The style of wing’s research is to propose a general method and apply it to some real examples. That’s interesting. However, his early works were not so general.  When he was a AP, he also focus on simple but meaningful problems to have many papers to be published. Now, he is not interested in this kind of work any more. I do not know whether it is good for me or not to be a Postdoc here for about two years. Maybe I should discuss with Prof. Fan for further suggestions. 
- 
-For application, you should only pay attention on the results, if you get the good results ( high performance/ higher accuracy on prediction/ higher accuracy on classification etc.) then it is a good method.
- 
-For theoretical research, you should pay attention on the proof. You should prove the rate of convergence/ convergence of the algorithm. You should provide a better understanding on how the algorithm works. That’s the core of theoretical works. 
- 
-From Lasso to statistical research.
+#### Something about Lasso
 Lasso, a simple and efficient algorithm for variable selection in statistical applications, is a very fruitful research area.  To sum up, there are seven main research area stimulated by Lasso, i.e, a simple paper leads to 7 different and meaningful research direction. If you find them and do some work, you will be famous.
 1.	Extending the idea behind Lasso: Penalized likelihood leads to sparsity of estimated coefficients. SCAD, adaptive Lasso, graphical Lasso, MCP and sparse PCA are in this category. Sparsity is a special structure of the coefficients, 0 is a special number. So Lasso can be used to estimate structure identification: Group Lasso (GLM group lasso), penalized additive model, fused Lasso.
 2.	Computational algorithm of Lasso: LARS, coordinate decent algorithm, QM algorithm. SCAD has good model selection property (consistency) but it is hard to be solved, which leads to MM algorithm for model selection, and onestep algorithm.
