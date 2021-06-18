@@ -23,5 +23,5 @@ Lasso, a simple and efficient algorithm for variable selection in statistical ap
 -	The solution of Lasso (algorithm): does the solution unique? what has a  strong effect on the solution? When the condition changed, what is the solution of Lasso (n<<p, how many variables will be selected using Lasso). If there are two correlated variables, will they both be selected by Lasso? Attention: We should suspect that the algorithm may not have the very simple property. 
 -	How to do variable selection, when the assumption of Lasso is invalid.=> sure independent screening.
  
-In other words, we should be sceptical on each paper. Lasso opened a new research area of model selection. In the very beginning, we should pay attention on the general property that a model selection procedure should have, and try to give definitions and solutions (SCAD). Sometimes, the common sense is a big mistake.
+In summary, **we should be sceptical on each paper**. Lasso opened a new research area of model selection. In the very beginning, we should pay attention on the general property that a model selection procedure should have, and try to give definitions and solutions (SCAD). Sometimes, the common sense is a big mistake.
 
