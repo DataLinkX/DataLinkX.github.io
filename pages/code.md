@@ -4,6 +4,8 @@ title: Code
 permalink: /code
 ---
 #### Tips on Coding
+
+***Note***:The code for simulations in the paper should be detailed, and one can get results by one-click. Must remember this, just for saving time and reducing the tedious work.
 1.	Save codes for tables and figures in the paper for convince (very important)
 2.	Keep notes on results in a file
 3.	Fold management (pdfs, results, codes……)
