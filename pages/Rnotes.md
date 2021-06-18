@@ -13,4 +13,5 @@ permalink: /Rnotes
    - `apropos(“x”)` search with the keyword “x”;
    - see the source code: input the function name; or `method()`; `getAnywhere()`, `getS3method()`
    - Quote; bquote; substitute; 
+   - [R Markdown](https://www.jianshu.com/p/f50ac311b591)
 
