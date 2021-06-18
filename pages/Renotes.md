@@ -5,3 +5,4 @@ permalink: /Renotes
 ---
 
 ### Research Notes
+- [Thinking at Stanford](/stanford)
