@@ -1,6 +1,9 @@
-
-
-
+---
+layout: default
+title: Code
+permalink: /code
+---
+#### Tips on Coding
 1.	Save codes for tables and figures in the paper for convince (very important)
 2.	Keep notes on results in a file
 3.	Fold management (pdfs, results, codes……)
