@@ -11,6 +11,7 @@ permalink: /resources/
 - [Basics for Bioinformatics](/bioinfo)
 - [Markdown rules for Github](https://www.jianshu.com/p/191d1e21f7ed/)
 - [Notes on R](\Rnotes)
+- [Research Notes](\ReNotes)
 
 ### Requirements on Good Research
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
