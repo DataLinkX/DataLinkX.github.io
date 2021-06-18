@@ -4,9 +4,7 @@ title: Rnotes
 permalink: /Rnotes
 ---
 
-### Notes on R
-
-#### Useful Tips
+### Useful Tips on R
    - plotmath: add mathematics into R plot;
    - stem, function to generate leave plot;
    - add labels to barplot `b<- barplot(x,col=)`, `text(b,x,lables…)`
