@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Stanford
-permalink: /standford
+permalink: /stanford
 ---
 
 #### Thinking at Stanford
