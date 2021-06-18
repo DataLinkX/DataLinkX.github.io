@@ -9,7 +9,6 @@ permalink: /resources/
 - [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
 - [Basics for Bioinformatics](/bioinfo)
-- [Markdown rules for Github](https://www.jianshu.com/p/191d1e21f7ed/)
 - [Research Notes](/Renotes)
 
 ### Requirements on Good Research
