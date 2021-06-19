@@ -7,9 +7,9 @@ permalink: /bioinfo/
 
 ## Basics for Bioinformatics
 ### Main Directions
-- Statistical modeling for validating the bological conjecture (e.g. the meachnism from SNP to Phenotype)
-- Predict bological variables (e.g., enhancer, promoter) that are hard to observe directly 
-- Bological Inference on bological data, e.g., estimate the true methylation state, the true expression level etc.
+- Statistical modeling for validating the biological conjecture (e.g. the meachnism from SNP to Phenotype)
+- Predict biological variables (e.g., enhancer, promoter) that are hard to observe directly 
+- Bological Inference on biological data, e.g., estimate the true methylation state, the true expression level etc.
 - Find biomarkers for Diease, Cancer, or other Phenotypes
 
 ### Some Concepts ([More](https://zhuanlan.zhihu.com/p/262198184)):
