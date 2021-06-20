@@ -23,7 +23,7 @@ permalink: /research
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Publications 
-1. **H.Jiang** and X. Fan\* (2021). The Two-step Clustering Approach for Metastable States Learning. *International Journal of Molecular Sciences*.
+1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576/pdf). *International Journal of Molecular Sciences*. DOI:doi.org/10.3390/ijms22126576
 1. <u>Z. Li</u>\#, **H.Jiang**\#, L. Kong, Y. Chen, K. Lang, X. Fan, L. Zhang\* and [C. Pian\*](http://www.pianlab.cn/) (2021). [Deep6mA: a deep learning framework explores similar patterns in DNA N6-methyladenine sites across different species]( https://doi.org/10.1371/journal.pcbi.1008767). *PLoS Computational Biology*. DOI:10.1371/journal.pcbi.1008767 (code: [Deep6mA](http://www.pianlab.cn/deep6ma/))
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). [Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data](https://doi.org/10.1016/j.ymeth.2020.09.009). *Methods*. DOI:10.1016/j.ymeth.2020.09.009 ([code](/resources/BSDMR.zip))
 1. **H.Jiang**, [Xingqiu Zhao](https://www.polyu.edu.hk/ama/staff/zhaoxq/index.html), Ronald C.W. Ma and X.Fan\* (2020). [Consistent Screening Procedures in High-dimensional Binary Classification](http://www3.stat.sinica.edu.tw/preprint/SS-2020-0088_Preprint.pdf). *Statistica Sinica*. DOI: 10.5705/ss.202020.0088
