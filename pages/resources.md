@@ -10,6 +10,8 @@ permalink: /resources/
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
 - [Basics for Bioinformatics](/bioinfo)
 - [Research Notes](/Renotes)
+- [Useful Datasets](/datasets)
+- Electronic Books: [Electronic library](http://en.bookfi.net/), [Springer Link](http://link.springer.com/?))
 
 ### Requirements on Good Research
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
@@ -34,7 +36,4 @@ permalink: /resources/
 - Opitmization: [Stephen P. Boyd](http://stanford.edu/~boyd/bio.html), [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/)
 - Probability: [Sourav Chatterjee](http://statweb.stanford.edu/~souravc/academic.html) (also a statistician)
 
-### Electronic Books
-- [Electronic library](http://en.bookfi.net/)
-- [Springer Link](http://link.springer.com/?)
 
