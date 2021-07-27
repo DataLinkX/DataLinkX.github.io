@@ -38,11 +38,3 @@ permalink: /resources/
 - [Electronic library](http://en.bookfi.net/)
 - [Springer Link](http://link.springer.com/?)
 
-### Some Public DataSets
-- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-- [GDC Cancer Data](https://portal.gdc.cancer.gov/)
-- [TCGA data](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) with [simple introduction](https://www.jianshu.com/p/d662069a4a3d)
-- [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/)
-- [ENODE](https://www.encodeproject.org/)
-- [GTEx](https://gtexportal.org/home/)
-
