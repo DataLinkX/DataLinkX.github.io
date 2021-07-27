@@ -11,7 +11,7 @@ permalink: /resources/
 - [Basics for Bioinformatics](/bioinfo)
 - [Research Notes](/Renotes)
 - [Useful Datasets](/datasets)
-- Electronic Books: [Electronic library](http://en.bookfi.net/), [Springer Link](http://link.springer.com/?))
+- EBooks: [Electronic library](http://en.bookfi.net/), [Springer Link](http://link.springer.com/?)
 
 ### Requirements on Good Research
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
