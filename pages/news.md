@@ -21,6 +21,8 @@ permalink: /news
 - Mar. 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
 
 #### Invited Talks in Unviersity
+- Data Analysis for DNA Methylation, Shandong University (online), 2021.
+- Statistical Learning and Data Anlysis, Hangzhou Institute for Advanced Study, CAS, 2020.
 - From MD Simulation to Exploring Free Energy Landscape of Proteins (online talk), China University of Geosciences (Wuhan), 2020.
 - From DNA Methylation to Diabetes Complications, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 2019
 - The local structure of Proteins, Wuhan University of Technology, Dec. 07, 2018
