@@ -6,7 +6,7 @@ permalink: /resources/
 ---
 
 ### Resources
-- [How to read a paper?](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) (Important!)
+- [How to read a paper?](/resources/HowtoReadPaper.pdf) (Important!)
 - What is a PhD ? [see Illustration](/resources/PhD/IllustratedGuidePhD-Matt-Might.pdf)
 - [Basics for Bioinformatics](/bioinfo)
 - [Research Notes](/Renotes)
