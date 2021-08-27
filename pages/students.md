@@ -8,6 +8,7 @@ permalink: /students
 ### Graduates
 - He Li (Master in Data Science, 2020 - Present)
 - Jingcheng He (PhD in Statistics, 2021 - Present)
+- Xiaoyue Hu (PhD in Statistics, 2021 - Present)
 
 ### Undergraduates
 
