@@ -18,6 +18,7 @@ permalink: /bioinfo/
 - **核小体**：核小体是由H3、H4、H2A和H2B四种组蛋白构成的八聚物，每个核小体上大约含有146bp的DNA。染色质分为常染色质和异染色质，在结构上常染色质折叠压缩程度低，处于伸展状态。
 - **开放染色质**：DNA复制和基因转录时，DNA的致密高级结构变为松散状态，这部分无核小体包裹的裸露DNA区域被称为开放染色质性。
 - **染色质可进入性**：染色质一旦被打开，就允许一些调控蛋白，比如转录因子和辅因子与之相结合，染色质的这种特性叫做染色质的可进入性也叫可及性。
+- **基因富集分析**(<font color=blue> GSEA </font>): （1)GO分析: 主要从分子功能(Molecular Function, MF), 细胞组分(Cellular Component, CC)和生物过程(Biological Process, BP)三个角度对基因集合进行分析; (2) KEGG 通路分析: 主要从代谢物调控网络的角度分析；
 
 ### [Application of NGS](https://zhuanlan.zhihu.com/p/289427789)
 - [全基因组测序与覆盖深度](https://zhuanlan.zhihu.com/p/128738355)
