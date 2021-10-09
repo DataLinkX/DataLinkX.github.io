@@ -23,7 +23,7 @@ permalink: /research
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Publications 
-1. - [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. *Infectious Diseases of Poverty*.
+1. [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. *Infectious Diseases of Poverty*.
 1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
 1. <u>Z. Li</u>\#, **H.Jiang**\#, L. Kong, Y. Chen, K. Lang, X. Fan, L. Zhang\* and C. Pian\* (2021). [Deep6mA: a deep learning framework explores similar patterns in DNA N6-methyladenine sites across different species]( https://doi.org/10.1371/journal.pcbi.1008767). *PLoS Computational Biology*. DOI:10.1371/journal.pcbi.1008767 (code: [Deep6mA](http://www.pianlab.cn/deep6ma/))
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). [Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data](https://doi.org/10.1016/j.ymeth.2020.09.009). *Methods*. DOI:10.1016/j.ymeth.2020.09.009 ([code](/resources/BSDMR.zip))
