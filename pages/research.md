@@ -42,7 +42,7 @@ permalink: /research
 
 ### Manuscripts 
 - Combining Power of Different Methods to Detect Associations in Large Data Sets [[R package](/resources/DM.zip)]. <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\*.
-- [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](https://www.biorxiv.org/content/10.1101/2021.09.27.461919v2) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/supp.pdf)]. **H.Jiang**, X. Huang, H. Li, Wing H. Wong\* and X. Fan\*.
+- [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](https://www.biorxiv.org/content/10.1101/2021.09.27.461919v2) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. **H.Jiang**, X. Huang, H. Li, Wing H. Wong\* and X. Fan\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Bayesian Model for fMRI data analysis, **H.Jiang** and J. Hu.
