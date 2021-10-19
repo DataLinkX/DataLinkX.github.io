@@ -6,13 +6,11 @@ permalink: /research
 ---
 
 ### Research Interests 
-- Data Science
-    - Biostatistics/Computational Biology: scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
-    - Statistics for Medicine: Clinical Data related to disease (diabetes, cancer, etc.)
-    - Statistics for Astronomy: Magnetic field observations and Zeeman effects
+- Biostatistics/Computational Biology
+    - scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
+    - Clinical data related to disease (diabetes, cancer, etc.)
 - Statistical Methodology
     - (Bayesian) Deep Learning 
-    - Data Imputation (Missing Data)
     - Bayesian Inference (MCMC, Variable Selection, etc.)
     - High-dimensional Problems
     - Scalabe Inference for Big Data Problems
