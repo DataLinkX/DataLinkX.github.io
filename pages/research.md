@@ -21,6 +21,7 @@ permalink: /research
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Publications 
+    [Note: \* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are (joint) students.](/resources)
 1.  <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\* (2021). Combining Power of Different Methods to Detect Associations in Large Data Sets [[R package](/resources/DM.zip)]. *Briefings in Bioinformatics*.
 1. [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. *Infectious Diseases of Poverty*.
 1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
@@ -36,8 +37,6 @@ permalink: /research
 1. W.Su and **H.Jiang**\* (2017). [Semiparametric Analysis of Longitudinal Data with Informative Observation Times and Censoring Times](https://doi.org/10.1080/02664763.2017.1403574). *Journal of Applied Statistics*. DOI:10.1080/02664763.2017.1403574
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
-
-[Note: \* denotes corresponding author(s), \# denotes joint first authors and author(s) with underline are (joint) students.](/resources)
 
 ### Manuscripts 
 - MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition. M.Xu, Y. Chen, L. Zhang\*, **H.Jiang**\*, C. Pian\*.
