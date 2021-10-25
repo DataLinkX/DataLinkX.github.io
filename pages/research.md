@@ -21,7 +21,7 @@ permalink: /research
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Publications 
-1. [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
+*. [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
 1. <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\* (2021). Combining Power of Different Methods to Detect Associations in Large Data Sets [[R package](/resources/DM.zip)]. *Briefings in Bioinformatics*.
 1. [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. *Infectious Diseases of Poverty*.
 1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
