@@ -5,7 +5,7 @@ permalink: /news
 ---
 
 ### News
-#### 2020
+#### 2021
 - Oct. 27, [Prof. Rui Liu](http://www2.scut.edu.cn/math/2017/1227/c14582a242135/page.htm) from South China University of Technology will give us a talk via Tencent meeting.
 - Oct. 27, [Prof. Xing Chen](http://xwzx.cumt.edu.cn/9c/5e/c521a433246/page.htm) from China University of Mining and Technology will give us a talk via Tencent meeting.
 
