@@ -5,6 +5,9 @@ permalink: /news
 ---
 
 ### News
+#### 2020
+- Oct. 27, [Prof. Rui Liu](http://www2.scut.edu.cn/math/2017/1227/c14582a242135/page.htm) from South China University of Technology will give us a talk via Tencent meeting.
+- Oct. 27, [Prof. Xing Chen](http://xwzx.cumt.edu.cn/9c/5e/c521a433246/page.htm) from China University of Mining and Technology will give us a talk via Tencent meeting.
 
 #### 2020
 - Nov. 17, [Prof. Huazhen Lin](https://stat.swufe.edu.cn/info/1046/1401.htm) from Southwestern University of Finance and Economics will give us a talk via Tencent meeting (Time: 15:00; Meeting ID:796 612 063).
@@ -21,8 +24,11 @@ permalink: /news
 - Mar. 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
 
 #### Invited Talks in Unviersity
+- Statistical analysis for Biomedical data, School of Management, ZJU, 2021.
 - Data Analysis for DNA Methylation, Shandong University (online), 2021.
-- Statistical Learning and Data Anlysis, Hangzhou Institute for Advanced Study, CAS, 2020.
+- Statistical method for biological data, Zhejiang Academy of Agricultural Sciences, 2021.
+- Statistical Learning and Data Analysis, Hangzhou Institute for Advanced Study, CAS, 2020.
+- Data Analysis for DNA Methylation, Shandong University (online), 2021.
 - From MD Simulation to Exploring Free Energy Landscape of Proteins (online talk), China University of Geosciences (Wuhan), 2020.
 - From DNA Methylation to Diabetes Complications, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 2019
 - The local structure of Proteins, Wuhan University of Technology, Dec. 07, 2018
