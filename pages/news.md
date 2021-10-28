@@ -32,6 +32,7 @@ permalink: /news
 - Statistical Learning and Data Analysis, Hangzhou Institute for Advanced Study, CAS, 2021.
 - From MD Simulation to Exploring Free Energy Landscape of Proteins，Wenzhou Medical University, 2021.
 - The role of Statistical Methods on Biomedical Data Analysis, Sir Run Run Shaw Hospital, 2020.
+- Exploring the Free Energy Landscape of Proteins, Nanjing Agricultural University, 2020.
 - From MD Simulation to Exploring Free Energy Landscape of Proteins (online talk), China University of Geosciences (Wuhan), 2020.
 - From DNA Methylation to Diabetes Complications, Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, 2019
 - The local structure of Proteins, Wuhan University of Technology, Dec. 07, 2018
