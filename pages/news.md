@@ -20,9 +20,9 @@ permalink: /news
 - Dec. 19, H. Jiang co-organized [The 11th ICSA International Conference](http://cds.zju.edu.cn/ICSA2019.aspx?k1=4&k2=79&k3=80).
 - Nov. 30, [Prof. Yuanyuan Lin](http://www.sta.cuhk.edu.hk/YLin/default.aspx) from The Chinese University of Hong Kong visited our group.
 - Nov. 11, [Prof. Tiejun Tong](http://www.math.hkbu.edu.hk/~tongt/) from Hong Kong Baptist University visited our group.
-- Oct. 18, [Prof. Yong Wang](http://wanglab.amss.ac.cn/) from Academy of Mathematics and Systems Science, Chinese Academy of Sciences visited our group.
+- Oct. 18, [Prof. Yong Wang](http://wanglab.amss.ac.cn/) from Academy of Mathematics and Systems Science, CAS, visited our group.
 - May. 20, H. Jiang organized a session and chaired two sessions on [Hangzhou Internatinal Conference on Frontiers of Data Science](http://www.zjuyh.com/sjkx2019/rb/?sectionid=2f15c46e-f5f9-e811-941a-93c279b249f5).
-- Apr. 3, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences visited our group.
+- Apr. 3, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, CAS, visited our group.
 - Mar. 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
 
 #### Invited Talks in Unviersity
