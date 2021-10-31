@@ -40,7 +40,7 @@ permalink: /research
 
 ### Manuscripts 
 - MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition. M.Xu, Y. Chen, L. Zhang\*, **H.Jiang**\*, C. Pian\*.
-- [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. **H.Jiang**, X. Huang, H. Li, Wing H. Wong\* and X. Fan\*.
+- [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. **H.Jiang**, H. Li, Wing H. Wong\* and X. Fan\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - Bayesian Model for fMRI data analysis, **H.Jiang** and J. Hu.
