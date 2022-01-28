@@ -23,7 +23,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
-1. <u>M.Xu</u>, Y. Chen, L. Zhang\*, **H.Jiang**\*, C. Pian\* (2022). MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition. *Briefings in Bioinformatics*. 
+1. <u>M.Xu</u>, Y. Chen, Z. Xu, L. Zhang\*, **H.Jiang**\*, C. Pian\* (2022). MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition. *Briefings in Bioinformatics*. 
 1. <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\* (2021). [Combining Power of Different Methods to Detect Associations in Large Data Sets](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab488/6447432) [[R package](/resources/DM.zip)]. *Briefings in Bioinformatics*. DOI:10.1093/bib/bbab488
 1. [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). [Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7). *Infectious Diseases of Poverty*. DOI:10.1186/s40249-021-00911-7
 1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
