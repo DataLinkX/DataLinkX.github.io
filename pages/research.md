@@ -23,6 +23,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
+1. <u>M.Xu</u>, Y. Chen, L. Zhang\*, **H.Jiang**\*, C. Pian\*. MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition. *Briefings in Bioinformatics*. 
 1. <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\* (2021). [Combining Power of Different Methods to Detect Associations in Large Data Sets](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab488/6447432) [[R package](/resources/DM.zip)]. *Briefings in Bioinformatics*. DOI:10.1093/bib/bbab488
 1. [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). [Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7). *Infectious Diseases of Poverty*. DOI:10.1186/s40249-021-00911-7
 1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
@@ -40,7 +41,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
 ### Manuscripts 
-- MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition. M.Xu, Y. Chen, L. Zhang\*, **H.Jiang**\*, C. Pian\*.
+- 
 - [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. **H.Jiang**, H. Li, Wing H. Wong\* and X. Fan\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
