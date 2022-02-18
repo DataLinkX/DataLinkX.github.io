@@ -41,7 +41,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
 ### Manuscripts 
--  Large-scale <i>in silico</i> and<i> in vivo</i> analyses uncover key elements of the plant Peroxisome Targeting Signal type 1 (PTS1) domain beyond the tripeptide. <u>Q. Deng\# </u>, <u> H. Li\# </u>, He; Y. Feng \#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\*.
+-  Large-scale <i>in silico</i> and<i> in vivo</i> analyses uncover key elements of the plant Peroxisome Targeting Signal type 1 (PTS1) domain beyond the tripeptide. <u>Q. Deng</u>\#, <u> H. Li</u>\#, He; Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\*.
 - [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. **H.Jiang**, H. Li, Wing H. Wong\* and X. Fan\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
