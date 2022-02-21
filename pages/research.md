@@ -12,8 +12,8 @@ We aim to have new scientific findings by developing statistical methods to summ
     - Clinical data related to disease (diabetes, cancer, etc.)
 - Statistical Methodology
     - (Bayesian) Deep Learning 
-    - Bayesian Inference (MCMC, Variable Selection, etc.)
-    - High-dimensional Problems
+    - Bayesian Modeling and Inference (MCMC)
+    - (Multiple) Hypothesis Testing
     - Scalabe Inference for Big Data Problems
  
 ### Fundings
