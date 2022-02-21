@@ -7,9 +7,10 @@ permalink: /research
 We aim to have new scientific findings by developing statistical methods to summarize information from data and prior knowledege. Currently, we mainly focus on scientific problems from natural sicence such as biology, medicine and astronomy.
 
 ### Research Interests 
-- Biostatistics/Computational Biology
+- Biostatistics/Computational Biology/Bioinformatics
     - scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
-    - Clinical data related to disease (diabetes, cancer, etc.)
+    - Clinical data analysis
+    - Multi-omics data analysis
 - Statistical Methodology
     - (Bayesian) Deep Learning 
     - Bayesian Modeling and Inference (MCMC)
