@@ -12,9 +12,9 @@ We aim to have new scientific findings by developing statistical methods to summ
     - Clinical data analysis
     - Multi-omics data analysis
 - Statistical Methodology
-    - (Bayesian) Deep Learning 
+    - Deep/Machine Learning 
     - Bayesian Modeling and Inference (MCMC)
-    - (Multiple) Hypothesis Testing
+    - Hypothesis Testing
     - Scalabe Inference for Big Data Problems
  
 ### Fundings
