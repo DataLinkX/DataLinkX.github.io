@@ -41,7 +41,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Manuscripts 
 -  Recent progress on systems and synthetic biology of diatoms for improving algal productivity. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and W. Fu\*.
--  Large-scale <i>in silico</i> and<i> in vivo</i> analyses uncover key elements of the plant Peroxisome Targeting Signal type 1 (PTS1) domain beyond the tripeptide. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\*.
+-  Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\*.
 - [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. **H.Jiang**, H. Li, Wing H. Wong\* and X. Fan\*.
 - Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, [Y. He](https://sky.zafu.edu.cn/info/1222/8304.htm)\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
