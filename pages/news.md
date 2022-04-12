@@ -5,6 +5,13 @@ permalink: /news
 ---
 
 ### News
+
+#### 2022
+- May 14,  Hangjin Jiang is invited to give a talk on [ICBEA 2022](http://www.icbea.org/) 
+- Apr.   , Prof. Xueqing Wang from University of Science and Technology of China will give us a talk via Tencent meeting.
+- Apr. 28, Prof. Zheng Hu from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, will give us a talk via Tencent meeting.
+- Mar. 25, Hangjin Jiang visisted AIMING MED and discucssed with CEO Prof. Mingliang You on collabration on data analysis for precise medicine.
+- 
 #### 2021
 - Dec. 14, Hangjin Jiang is invited to give a talk on [ICBEA 2022](http://www.icbea.org/) and to be a member of the Technical Committee of the conference.
 - Oct. 27, [Prof. Rui Liu](http://www2.scut.edu.cn/math/2017/1227/c14582a242135/page.htm) from South China University of Technology will give us a talk via Tencent meeting.
