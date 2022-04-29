@@ -9,9 +9,13 @@ permalink: /students
 - He Li (Master in Data Science, 2020 - Present)
 - Jingcheng He (PhD in Statistics, 2021 - Present)
 - Xiaoyue Hu (PhD in Statistics, 2021 - Present)
-- Yuzhou Li (PhD in Statistics, 2021 - Present)
+
 
 ### Undergraduates
+- Huizhou Qi (Major in life science, 2021 - Present)
+- Jiaxuan Qiao (Major in Statistics, 2022 - Present)
+- Yuzhou Li (Major in Statistics, 2021 - Present)
+- Jiaxuan Li (major in Statitistics, 2021 - Present)
 
 ### Past Members
 - Undergraduates
@@ -25,6 +29,7 @@ permalink: /students
     - Yan Zhang (major in Statitistics, 2020 - 2021)
     - Jiaxi Xie (major in Statitistics, 2020 - 2021)
     - Yule Li (major in Statitistics, 2020 - 2021)
+    
 
 
 
