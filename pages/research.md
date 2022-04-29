@@ -13,9 +13,9 @@ We aim to have new scientific findings by developing statistical methods to summ
     - Multi-omics data analysis
 - Statistical Methodology
     - Deep/Machine Learning 
-    - Bayesian Modeling and Inference (MCMC)
-    - Hypothesis Testing
-    - Scalabe Inference for Big Data Problems
+    - Bayesian Modeling (MCMC)
+    - Statistical Inference
+    - Scalabe algorithm for Big Data Problems
  
 ### Fundings
 - Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
