@@ -22,14 +22,13 @@ We aim to have new scientific findings by developing statistical methods to summ
 - The Fundamental Research Funds for the Central Universities, 2019.1 - 2019.12
 - The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
-### Publications 
+### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
-1. **H.Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\* (2022). [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*.
-1. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and [W. Fu](https://person.zju.edu.cn/0019229)\* (2022). Recent progress on systems and synthetic biology of diatoms for improving algal productivity (a review paper). *Frontiers in Bioengineering and Biotechnology*.
+#### Regular Papers 
+1. **H.Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\* (2022). [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. DOI:10.1109/TCBB.2022.3172352.
 1. <u>M. Xu</u>, Y. Chen, Z. Xu, L. Zhang\*, **H.Jiang**\*, C. Pian\* (2022). [MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac044/6532537). *Briefings in Bioinformatics*. DOI:10.1093/bib/bbac044.
 1. <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\* (2021). [Combining Power of Different Methods to Detect Associations in Large Data Sets](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab488/6447432) [[R package](/resources/DM.zip)]. *Briefings in Bioinformatics*. DOI:10.1093/bib/bbab488
 1. [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). [Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7). *Infectious Diseases of Poverty*. DOI:10.1186/s40249-021-00911-7
-1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576) (a review paper). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
 1. <u>Z. Li</u>\#, **H.Jiang**\#, L. Kong, Y. Chen, K. Lang, X. Fan, L. Zhang\* and C. Pian\* (2021). [Deep6mA: a deep learning framework explores similar patterns in DNA N6-methyladenine sites across different species]( https://doi.org/10.1371/journal.pcbi.1008767). *PLoS Computational Biology*. DOI:10.1371/journal.pcbi.1008767 (code: [Deep6mA](http://www.pianlab.cn/deep6ma/))
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). [Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data](https://doi.org/10.1016/j.ymeth.2020.09.009). *Methods*. DOI:10.1016/j.ymeth.2020.09.009 ([code](/resources/BSDMR.zip))
 1. **H.Jiang**, [Xingqiu Zhao](https://www.polyu.edu.hk/ama/staff/zhaoxq/index.html), Ronald C.W. Ma and X.Fan\* (2020). [Consistent Screening Procedures in High-dimensional Binary Classification](http://www3.stat.sinica.edu.tw/preprint/SS-2020-0088_Preprint.pdf). *Statistica Sinica*. DOI: 10.5705/ss.202020.0088
@@ -40,6 +39,9 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). [The Link between Magnetic-field Orientations and Star Formation Rates](https://doi.org/10.1038/s41550-017-0158). *Nature Astronomy (**Cover Paper**)*. DOI:10.1038/s41550-017-0158
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
+#### Review Papers 
+1. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and [W. Fu](https://person.zju.edu.cn/0019229)\* (2022). Recent progress on systems and synthetic biology of diatoms for improving algal productivity. *Frontiers in Bioengineering and Biotechnology*.
+1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576) *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
 
 ### Manuscripts 
 -  Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model.
