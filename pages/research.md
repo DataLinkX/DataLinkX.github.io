@@ -24,6 +24,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
+1. **H.Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\* (2022). [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*。
 1. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and [W. Fu](https://person.zju.edu.cn/0019229)\* (2022). Recent progress on systems and synthetic biology of diatoms for improving algal productivity (a review paper). *Frontiers in Bioengineering and Biotechnology*.
 1. <u>M. Xu</u>, Y. Chen, Z. Xu, L. Zhang\*, **H.Jiang**\*, C. Pian\* (2022). [MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac044/6532537). *Briefings in Bioinformatics*. DOI:10.1093/bib/bbac044.
 1. <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\* (2021). [Combining Power of Different Methods to Detect Associations in Large Data Sets](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab488/6447432) [[R package](/resources/DM.zip)]. *Briefings in Bioinformatics*. DOI:10.1093/bib/bbab488
@@ -41,9 +42,9 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
 ### Manuscripts 
+-  Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model.
 -  Bayesian inference on functional brain network in heavy smokers, J. Hu, Z. Ye, **H.Jiang**\*.
 -  Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\*.
-- [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. **H.Jiang**, H. Li, Wing H. Wong\* and X. Fan\*.
 - Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, [Y. He](https://sky.zafu.edu.cn/info/1222/8304.htm)\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
