@@ -40,7 +40,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 #### Review Papers 
 1. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and [W. Fu](https://person.zju.edu.cn/0019229)\* (2022). Recent progress on systems and synthetic biology of diatoms for improving algal productivity. *Frontiers in Bioengineering and Biotechnology*.
-1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576) *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
+1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
 
 ### Manuscripts 
