@@ -7,6 +7,7 @@ permalink: /teaching
 #### Courses at ZJU
 - 2021 - 2022
     - Statistcal Modeling and Examples (M.S.)
+
 #### Courses at CUHK
 - 2017 - 2018
     - STAT6040 (Studies on Selected Topics II, with Prof. Fan)
