@@ -7,7 +7,8 @@ permalink: /news
 ### News
 
 #### 2022
-- May 14,  Hangjin Jiang is invited to give a talk on [ICBEA 2022](http://www.icbea.org/) 
+- May 14, Hangjin Jiang is invited to give a talk on [ICBEA 2022](http://www.icbea.org/) 
+- May 10, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, CAS, will give us a talk via Tencent meeting.
 - Apr. 22, [Prof. Xueqing Wang](http://sds.ustc.edu.cn/2021/0723/c15528a518337/page.htm) from University of Science and Technology of China will give us a talk via Tencent meeting.
 - Apr. 28, [Prof. Zheng Hu](https://people.ucas.ac.cn/~0066933) from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, will give us a talk via Tencent meeting.
 - Mar. 25, Hangjin Jiang visisted AIMING MED and discucssed with CEO Prof. Mingliang You on collabration on data analysis for precise medicine.
