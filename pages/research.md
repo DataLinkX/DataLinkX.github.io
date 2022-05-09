@@ -4,7 +4,7 @@ title: Research
 subtitle: Research in Jiang Lab
 permalink: /research
 ---
-We aim to have new scientific findings by developing statistical methods to summarize information from data and prior knowledege. Currently, we mainly focus on scientific problems from natural sicence such as biology, medicine and astronomy.
+We aim to have new scientific findings by developing statistical methods to summarize information from data and prior knowledege. Currently, we mainly focus on scientific problems from natural sicence such as biology and medicine, aiming to give new understanding on precise medicine and precise seeding.
 
 ### Research Interests 
 - Biostatistics/Computational Biology
