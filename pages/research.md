@@ -38,7 +38,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). [The Link between Magnetic-field Orientations and Star Formation Rates](https://doi.org/10.1038/s41550-017-0158). *Nature Astronomy (**Cover Paper**)*. DOI:10.1038/s41550-017-0158
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
-#### Review Papers 
+#### Review/Perspective 
 1. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and [W. Fu](https://person.zju.edu.cn/0019229)\* (2022). Recent progress on systems and synthetic biology of diatoms for improving algal productivity. *Frontiers in Bioengineering and Biotechnology*.
 1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
