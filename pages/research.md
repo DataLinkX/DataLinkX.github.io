@@ -25,6 +25,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
 #### Research Papers 
+1. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\* (2022). Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses. *The Plant Journal*.
 1. **H.Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\* (2022). [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](/resources/capt.pdf) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. DOI:10.1109/TCBB.2022.3172352.
 1. <u>M. Xu</u>, Y. Chen, Z. Xu, L. Zhang\*, **H.Jiang**\*, C. Pian\* (2022). [MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac044/6532537). *Briefings in Bioinformatics*. DOI:10.1093/bib/bbac044.
 1. <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\* (2021). [Combining Power of Different Methods to Detect Associations in Large Data Sets](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab488/6447432) [[R package](/resources/DM.zip)]. *Briefings in Bioinformatics*. DOI:10.1093/bib/bbab488
@@ -46,7 +47,6 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Manuscripts 
 -  Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model.
 -  Bayesian inference on functional brain network in heavy smokers, J. Hu, Z. Ye, **H.Jiang**\*.
--  Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\*.
 - Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, [Y. He](https://sky.zafu.edu.cn/info/1222/8304.htm)\*.
 - Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
