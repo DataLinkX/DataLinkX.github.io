@@ -12,11 +12,10 @@ We aim to have new scientific findings by developing statistical methods to summ
     - Clinical data analysis
     - Multi-omics data analysis
 - Statistical Methodology
-    - Deep/Machine Learning 
     - Bayesian Modeling (MCMC)
     - Statistical Inference
     - Scalabe algorithm for Big Data Problems
- 
+- Deep/Machine Learning 
 ### Fundings
 - Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
 - The Fundamental Research Funds for the Central Universities, 2019.1 - 2019.12
