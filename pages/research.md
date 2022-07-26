@@ -26,7 +26,6 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
 #### Research Papers 
-1. Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. *Advanced Biology*. DOI: 10.1002/adbi.202200131.
 1. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\* (2022). [Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses.](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840) *The Plant Journal*. DOI:10.1111/tpj.15840
 1. **H.Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\* (2022). [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](https://ieeexplore.ieee.org/abstract/document/9767706) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. DOI:10.1109/TCBB.2022.3172352.
 1. <u>M. Xu</u>, Y. Chen, Z. Xu, L. Zhang\*, **H.Jiang**\*, C. Pian\* (2022). [MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac044/6532537). *Briefings in Bioinformatics*. DOI:10.1093/bib/bbac044.
@@ -42,6 +41,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). [Model Selection Based on Maximal Information Coefficient of Residuals](https://doi.org/10.1016/S0252-9602(14)60031-X). *Acta Mathematica Scientia*. DOI:10.1016/S0252-9602(14)60031-X
 
 #### Perspective and Reviews
+1. Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. *Advanced Biology*. DOI: 10.1002/adbi.202200131.
 1. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and [W. Fu](https://person.zju.edu.cn/0019229)\* (2022). Recent progress on systems and synthetic biology of diatoms for improving algal productivity. *Frontiers in Bioengineering and Biotechnology*.
 1. **H.Jiang** and X. Fan\* (2021). [The Two-step Clustering Approach for Metastable States Learning](https://www.mdpi.com/1422-0067/22/12/6576). *International Journal of Molecular Sciences*. DOI:10.3390/ijms22126576
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
