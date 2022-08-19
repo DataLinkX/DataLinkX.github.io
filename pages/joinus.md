@@ -15,16 +15,16 @@ We are looking for students who have a strong insterest in interdiscipline resea
     - In 2020, I supervised 4 students' thesis and 2 of them were scored above 90.
 
 ### Graduates
-  - Quota (each year): **one** PhD from [School of Mathematical Sciences](http://www.math.zju.edu.cn/) and **one** Master from [Polytechnic Institute of Zhejiang University](http://pi.zju.edu.cn/index.php).
+  - Quota (each year): **one** PhD from [School of Mathematical Sciences](http://www.math.zju.edu.cn/) and several Masters from [the Project of Data Science](http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776) at Haining international Campus of Zhejiang University.
   - More Information
       - Introduction to [Center for Data Science](http://cds.zju.edu.cn/)
       - PhD in Mathematics/Statistics at [School of Mathematical Sciences](http://www.math.zju.edu.cn/38087/list.htm)
-      - Master in Data Science at [Polytechnic Institute of Zhejiang University](http://pi.zju.edu.cn/index.php).
+      - Master in Data Science at [Haining international Campus of Zhejiang University](http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776).
   - Additional opportunities
       - Visiting oversea universities
       - Collaboration with experts from different areas
   - **Requirements**
-      - Self-motivated 
+      - Strongly Self-motivated 
       - Strong self-learning ability
       - English (writing & reading), Mathematical proficiency, Coding (C++, R, or Python) 
 
