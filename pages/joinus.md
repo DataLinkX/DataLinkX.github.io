@@ -17,7 +17,7 @@ We are looking for students who have a strong insterest in interdiscipline resea
 ### Graduates
   - Quota (each year): 
       - **one** PhD from [School of Mathematical Sciences](http://www.math.zju.edu.cn/)
-      - several Masters from [the Project of Data Science](http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776) at Haining international campus of Zhejiang University.
+      - Masters from [the Project of Data Science](http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776) at Haining international campus of Zhejiang University.
   - More Information
       - Introduction to [Center for Data Science](http://cds.zju.edu.cn/)
       - PhD in Mathematics/Statistics at [School of Mathematical Sciences](http://www.math.zju.edu.cn/38087/list.htm)
