@@ -50,7 +50,6 @@ We aim to have new scientific findings by developing statistical methods to summ
 -  Plantorgan hunter: a deep learning-based framework for quantitative profiling plant subcellular morphology.  X. Feng\#, Z. Yu\#, H. Fang, **H. Jiang**, L. Chen, X. Hou, B. Hu, C. Qin, G. Hu, G. Xing, B. Zhao, Y. Shi, Y. He\*, F. Liu\*, F. Liu, B. Han.
 -  Bayesian inference on functional brain network in heavy smokers, J. Hu, Z. Ye, **H.Jiang**\*.
 - Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, [Y. He](https://sky.zafu.edu.cn/info/1222/8304.htm)\*.
-- Computational modelling of Guard Cell: Targeting Plant Water Use Efficiency, M. Rui, **H. Jiang**\*, Y. He\* and [Y. Wang\*](https://person.zju.edu.cn/wangyz).
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 - [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
 - [Bayesian Variable Selection for Single Index Logistic Model](https://arxiv.org/pdf/2012.06199.pdf), <u>Y. Sun</u> and **H.Jiang**\*.
