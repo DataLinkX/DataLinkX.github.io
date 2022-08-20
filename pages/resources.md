@@ -12,6 +12,7 @@ permalink: /resources/
 - [Research Notes](/Renotes)
 - [Useful Datasets](/datasets)
 - eBooks: [Electronic library](http://libgen.rs/), [Springer Link](http://link.springer.com/?)
+- [Server Usage] (/sever.html)
 
 ### Requirements on Good Research
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
