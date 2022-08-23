@@ -11,7 +11,6 @@ We aim to have new scientific findings by developing statistical methods to summ
     - scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
     - Clinical data analysis
     - Multi-omics data analysis
-    - [Shiny apps](https://www.shinyapps.io/admin/#/dashboard) for bioinformatics
 - Statistical Methodology
     - Bayesian Modeling (MCMC)
     - Statistical Inference
