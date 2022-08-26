@@ -1,0 +1,16 @@
+ESR (mm/H),Uniary occult blood,Neutrophil %,Serum IgA (g/L),Serum cholesterol (mmol/L),Vinculin,AST (U/L),Prolonged PT (s)
+23,2,57.9,2.85,5.13,13.7,35,-0.5
+107,0.5,43.8,1.22,10,7.8,61,-1.3
+71,3,70.3,0.08,6.21,107.1,72,-0.5
+13,0,44.8,1.39,4.92,-1,22,-0.5
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+NOTE:,,,,,,,
+"1. This dataset cannot have null or NA values, otherwise the program will get an error.",,,,,,,
+2. Prolonged PT (s) = Patient's PT - Control's PT. ,,,,,,,
+"3. If uniary occult blood is -, please enter 0; If it is +-, please enter 0.5;If it is +, please enter 1;If it is ++, please enter 2;If it is +++, please enter 3.",,,,,,,
+"4. If there is no Vinculin data, set Vinculin = -1.",,,,,,,
+"5. This ""NOTE"" part should be deleted before submitting to the webtool.",,,,,,,
