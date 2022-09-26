@@ -47,7 +47,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
 
 ### Manuscripts 
--  Machine learning models for predicting steroid⁃resistant nephrotic syndrome ([Webtool](https://jiangdata.shinyapps.io/srns/)). Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\*.
+-  Machine learning models for predicting steroid⁃resistant nephrotic syndrome ([Webtool](https://jiangdata.shinyapps.io/srns/)). [Q. Ye](https://person.zju.edu.cn/6507017)\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\*.
 -  Plantorgan hunter: a deep learning-based framework for quantitative profiling plant subcellular morphology.  X. Feng\#, Z. Yu\#, H. Fang, **H. Jiang**, L. Chen, X. Hou, B. Hu, C. Qin, G. Hu, G. Xing, B. Zhao, Y. Shi, Y. He\*, F. Liu\*, F. Liu, B. Han.
 -  Bayesian inference on functional brain network in heavy smokers, J. Hu, Z. Ye, **H.Jiang**\*.
 - Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, [Y. He](https://sky.zafu.edu.cn/info/1222/8304.htm)\*.
