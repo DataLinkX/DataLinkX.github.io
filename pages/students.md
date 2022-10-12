@@ -10,13 +10,18 @@ permalink: /students
 - Jingcheng He (PhD in Statistics, 2021 - Present)
 - Xiaoyue Hu (PhD in Statistics, 2021 - Present)
 - Yuzhou Li (PhD in Statistics, 2022 - Present)
-- Xiaoru Wu (Master in Statistics, 2022 - Present)
-- Ge Su (PhD in Computer Science, 2022 - Present)
+- Baining Shen (PhD in Statistics, 2023 - Present)
+
+### Joint Graduates
+- Yibo Wang (PhD in bioinformatics, 2022 - Present) joint with [Prof. Qing Zhou](https://person.zju.edu.cn/0017015/802017.html)
+- Ge Su (PhD in Computer Science, 2022 - Present) joint with [Prof. Jianwei Yin](https://mypage.zju.edu.cn/0001038)
 
 ### Research Assistant 
 - Jiaxuan Qiao (Major in Statistics, 2022 - Present)
 
 ### Past Members
+- Graduates
+    - Xiaoru Wu (Master in Statistics, 2022.6 - 2022.8)
 - Undergraduates
     - Huizhou Qi (Major in life science, 2021 - 2022)
     - Xinyue Zeng (major in Statistics, 2020 - 2021)
