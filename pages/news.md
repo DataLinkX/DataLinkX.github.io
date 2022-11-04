@@ -9,7 +9,9 @@ permalink: /news
 #### 2022
 - Dec. 8, Hangjin Jiang is invited to give a talk on [2022 globl conference of chinese geneticists](http://www.gccgkx.com).
 - Nov. 25, Prof. Zhana Duren from Clemson University (USA) will give us a talk via Tencent meeting.
+- Nov. 12, Hangjin Jiang is invited to give a talk on "The Workshop on Quantitative Biological Medecine" hold by XiaMen University.
 - Oct. 18, Prof. Jiajun Zhang from Sun Yat-sen University will give us a talk via Tencent meeting.
+- Jun 8, Prof. Jian Yang from Westlake University will give us a talk.
 - May 14, Hangjin Jiang is invited to give a talk on [ICBEA 2022](http://www.icbea.org/) 
 - May 10, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, CAS, will give us a talk via Tencent meeting.
 - Apr. 22, [Prof. Xueqing Wang](http://sds.ustc.edu.cn/2021/0723/c15528a518337/page.htm) from University of Science and Technology of China will give us a talk via Tencent meeting.
@@ -38,6 +40,8 @@ permalink: /news
 - Mar. 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
 
 #### Invited Talks in Unviersity
+- An introduction to data science, School of Life Science, Hangzhou Normal University, 2022.
+- An introduction to data science, School of Management, ZJU, 2022.
 - Statistical analysis for Biomedical data, School of Management, ZJU, 2021.
 - Data Analysis for DNA Methylation, Shandong University (online), 2021.
 - Statistical method for biological data, Zhejiang Academy of Agricultural Sciences, 2021.
@@ -52,6 +56,7 @@ permalink: /news
 - Two-sample Distribution Test and Variable Screening, Hunan Normal University, Changsha, China, Dec. 2017
 
 #### Invited Talks on Conference
+- What do we lose from GWAS via linear model ? The Workshop on Quantitative Biological Medecine, XiaMen University, Nov.11-13 2022.
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. ICSA China. Xian, 2021 (forthcoming).
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. The 3<sup>rd</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Nov.6-8 2020.
 - Two-sample Distribution Comparison and Its Applications. Forum for Young Scholars in Statistics. Renming University. Oct. 23-24, 2020.
