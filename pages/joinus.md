@@ -4,6 +4,8 @@ title: Join Us
 permalink: /joinus
 ---
 
+We are DataLinkX group, aiming to link data to science.
+
 ### Collaborators
 Collaborations are welcome! We are glad to work together with researchers from different areas who are also interested in exploring mechanism behind data. If you confront with problem in data analysis, please do not hesitate to email me ([jianghj@zju.edu.cn](mailto:jianghj@zju.edu.cn)).
 
