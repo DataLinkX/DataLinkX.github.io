@@ -5,9 +5,7 @@ subtitle: people in DataLinkX
 permalink: /people
 ---
 
-Here are (current and past) members in DataLinkX group. 
-
-We acknowledege the contributions from each member to DataLinkX.
+Here are (current and past) members in DataLinkX group. We acknowledege the contributions from each member to DataLinkX.
 
 ### Graduates
 - He Li (Master in Data Science, 2020 - Present)
