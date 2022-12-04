@@ -1,8 +1,8 @@
 ---
 layout: default
-title: students
-subtitle: students in Jiang Lab
-permalink: /students
+title: people
+subtitle: people in DataLinkX
+permalink: /people
 ---
 
 ### Graduates
