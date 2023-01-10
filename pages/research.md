@@ -26,6 +26,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
 #### Research Papers 
+1. [Q. Ye](https://person.zju.edu.cn/6507017)\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\* (2023). Machine learning models for predicting steroid⁃resistant nephrotic syndrome ([Webtool](https://datalinkx.shinyapps.io/srns/)). *Frontiers in Immunology*
 1. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\* (2022). [Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses.](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840) *The Plant Journal*. DOI:10.1111/tpj.15840
 1. **H.Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\* (2022). [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](https://ieeexplore.ieee.org/abstract/document/9767706) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. DOI:10.1109/TCBB.2022.3172352.
 1. <u>M. Xu</u>, Y. Chen, Z. Xu, L. Zhang\*, **H.Jiang**\*, C. Pian\* (2022). [MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac044/6532537). *Briefings in Bioinformatics*. DOI:10.1093/bib/bbac044.
@@ -48,7 +49,6 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Manuscripts 
 -  [Non-parametric GWAS: Another View on Genome-wide Association Study.](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1) <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*.
--  Machine learning models for predicting steroid⁃resistant nephrotic syndrome ([Webtool](https://datalinkx.shinyapps.io/srns/)). [Q. Ye](https://person.zju.edu.cn/6507017)\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\*.
 -  Plantorgan hunter: a deep learning-based framework for quantitative profiling plant subcellular morphology.  X. Feng\#, Z. Yu\#, H. Fang, **H. Jiang**, L. Chen, X. Hou, B. Hu, C. Qin, G. Hu, G. Xing, B. Zhao, Y. Shi, Y. He\*, F. Liu\*, F. Liu, B. Han.
 -  Bayesian inference on functional brain network in heavy smokers, J. Hu, Z. Ye, **H.Jiang**\*.
 - Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, [Y. He](https://sky.zafu.edu.cn/info/1222/8304.htm)\*.
