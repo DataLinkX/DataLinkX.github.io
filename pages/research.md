@@ -48,6 +48,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. *Acta Mathematica Scientia*.
 
 ### Manuscripts 
+-  Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation (Book Chapter). Q. Den, **H. Jiang**, J. Hu, R. Pan.
 -  CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
 -  [Non-parametric GWAS: Another View on Genome-wide Association Study.](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1) <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*.
 -  Plantorgan hunter: a deep learning-based framework for quantitative profiling plant subcellular morphology.  X. Feng\#, Z. Yu\#, H. Fang, **H. Jiang**, L. Chen, X. Hou, B. Hu, C. Qin, G. Hu, G. Xing, B. Zhao, Y. Shi, Y. He\*, F. Liu\*, F. Liu, B. Han.
