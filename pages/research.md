@@ -26,6 +26,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
 #### Research Papers 
+1. X. Feng\#, Z. Yu\#, H. Fang, **H.Jiang**, ....., Y. He\*,  F. Liu\*(2023). Plantorganelle Hunter: An effective deep learning-based method for plant organelle phenotyping in electron microscopy. *Nature Plants*.
 1. Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\* (2023). [Machine learning models for predicting steroid⁃resistant nephrotic syndrome](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1090241/full) ([Webtool](https://datalinkx.shinyapps.io/srns/)). *Frontiers in Immunology*. DOI:10.3389/fimmu.2023.1090241
 1. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\* (2022). [Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses.](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840) *The Plant Journal*. DOI:10.1111/tpj.15840
 1. **H.Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\* (2022). [Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree](https://ieeexplore.ieee.org/abstract/document/9767706) [[code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)]. *IEEE/ACM Transactions on Computational Biology and Bioinformatics*. DOI:10.1109/TCBB.2022.3172352.
@@ -51,10 +52,9 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2023). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. Accepted.
 
 ### Manuscripts 
--  GCSC-k Model Reveals the Distinct Roles of Guard and Subsidiary Cell Sizes in Determining Stomatal Kinetics in C4 Crops. M. Rui, J. Su, R. Chen, Y. Ma, R. Pan, Y. Jing, F. Wu, **H. Jiang**\* and Y. Wang\*.
+-  GCSC-tau Model Reveals the Distinct Roles of Guard and Subsidiary Cell Sizes in Determining Stomatal Kinetics in C4 Crops. M. Rui, J. Su, R. Chen, Y. Ma, R. Pan, Y. Jing, F. Wu, **H. Jiang**\* and Y. Wang\*.
 -  CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
 -  [Non-parametric GWAS: Another View on Genome-wide Association Study.](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1) <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*.
--  Plantorgan hunter: a deep learning-based framework for quantitative profiling plant subcellular morphology.  X. Feng\#, Z. Yu\#, H. Fang, **H. Jiang**, L. Chen, X. Hou, B. Hu, C. Qin, G. Hu, G. Xing, B. Zhao, Y. Shi, Y. He\*, F. Liu\*, F. Liu, B. Han.
 -  Bayesian inference on functional brain network in heavy smokers, J. Hu, Z. Ye, **H.Jiang**\*.
 - Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, [Y. He](https://sky.zafu.edu.cn/info/1222/8304.htm)\*.
 - Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
