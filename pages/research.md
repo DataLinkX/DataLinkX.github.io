@@ -52,7 +52,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2023). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. Accepted.
 
 ### Manuscripts 
--  GCSC-tau Model Reveals the Distinct Roles of Guard and Subsidiary Cell Sizes in Determining Stomatal Kinetics in C4 Crops. M. Rui, J. Su, R. Chen, Y. Ma, R. Pan, Y. Jing, F. Wu, **H. Jiang**\* and Y. Wang\*.
+-  Distinct Roles of Guard and Subsidiary Cell Sizes in Determining Stomatal Kinetics and Drought Adaptability for Crops. M. Rui,... , F. Wu, **H. Jiang**\* and Y. Wang\*.
 -  CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
 -  [Non-parametric GWAS: Another View on Genome-wide Association Study.](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1) <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*.
 -  Bayesian inference on functional brain network in heavy smokers, J. Hu, Z. Ye, **H.Jiang**\*.
