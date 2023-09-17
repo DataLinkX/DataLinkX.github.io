@@ -52,6 +52,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2023). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. Accepted.
 
 ### Manuscripts 
+-  RAVAR: a curated repository for rare variant-trait associations. Chen Cao, ...., **H.Jiang**, G. Wang, Q. Zhou. Under review on *Nucleic Acids Research*.
 -  Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its metabolic implications. 
 -  Distinct Roles of Guard and Subsidiary Cell Sizes in Determining Stomatal Kinetics and Drought Adaptability for Crops. M. Rui,... , F. Wu, **H. Jiang**\* and Y. Wang\*.
 -  CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
