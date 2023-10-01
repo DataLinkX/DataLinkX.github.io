@@ -13,3 +13,5 @@ permalink: /Rnotes
    - Quote; bquote; substitute; 
    - [R Markdown](https://www.jianshu.com/p/f50ac311b591)
 
+### Useful Figures with source code
+   - [双向条形图]
