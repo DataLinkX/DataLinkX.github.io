@@ -14,4 +14,4 @@ permalink: /Rnotes
    - [R Markdown](https://www.jianshu.com/p/f50ac311b591)
 
 ### Useful Figures with source code
-   - [双向条形图](/plot_bar.html)
+   - [双向条形图](/BL.html)
