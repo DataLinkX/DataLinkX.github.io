@@ -25,7 +25,8 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
-#### Research Papers 
+#### Research Papers
+1. C. Cao, ...., **H.Jiang**, G. Wang, Q. Zhou. [RAVAR: a curated repository for rare variant-trait associations.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad876/7311081?login=true) *Nucleic Acids Research*. DOI:10.1093/nar/gkad876
 1. X. Feng\#, Z. Yu\#, H. Fang, **H.Jiang**, ....., Y. He\*,  F. Liu\*(2023). [Plantorganelle Hunter is an effective deep-learning-based method for plant organelle phenotyping in electron microscopy](https://www.nature.com/articles/s41477-023-01527-5). *Nature Plants*. DOI:10.1038/s41477-023-01527-5
 1. Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\* (2023). [Machine learning models for predicting steroid⁃resistant nephrotic syndrome](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1090241/full) ([Webtool](https://datalinkx.shinyapps.io/srns/)). *Frontiers in Immunology*. DOI:10.3389/fimmu.2023.1090241
 1. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H.Jiang**\*, [R. Pan](https://person.zju.edu.cn/panr)\* (2022). [Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses.](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840) *The Plant Journal*. DOI:10.1111/tpj.15840
@@ -52,7 +53,6 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2023). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. Accepted.
 
 ### Manuscripts 
--  RAVAR: a curated repository for rare variant-trait associations. C. Cao, ...., **H.Jiang**, G. Wang, Q. Zhou. Under review on *Nucleic Acids Research*.
 -  Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its metabolic implications. 
 -  Distinct Roles of Guard and Subsidiary Cell Sizes in Determining Stomatal Kinetics and Drought Adaptability for Crops. M. Rui,... , F. Wu, **H. Jiang**\* and Y. Wang\*.
 -  CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
