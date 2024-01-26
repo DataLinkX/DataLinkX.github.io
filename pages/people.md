@@ -7,25 +7,24 @@ permalink: /people
 
 Here are (current and past) members in DataLinkX group. We acknowledege the contributions from each member to DataLinkX.
 
-### Graduates
+### PhD Students
 - Jingcheng He (PhD in Statistics, 2021 - Present)
 - Xiaoyue Hu (PhD in Statistics, 2021 - Present)
 - Yuzhou Li (PhD in Statistics, 2022 - Present)
 - Baining Shen (PhD in Statistics, 2023 - Present)
+- Ge Su (PhD in Computer Science, 2022 - Present) joint with [Prof. Jianwei Yin](https://mypage.zju.edu.cn/0001038)
+
+### Master Students
 - Shujie Feng (Master in Data Science, 2023.9 - Present)
 - Qiuyue Jiang (Master in Data Science, 2023.9 - Present)
 - Yuyang Wang (Master in Data Science, 2023.9 - Present)
-
-### Joint Graduates
-- Ge Su (PhD in Computer Science, 2022 - Present) joint with [Prof. Jianwei Yin](https://mypage.zju.edu.cn/0001038)
-
-### Research Assistant 
-- Jiaxuan Qiao (Major in Statistics, 2022 - Present)
-
+- He Li (Master in Data Science, 2020.9 - 2023.9)
+   
 ### Past Members
+- Research Assistant
+    - Jiaxuan Qiao (Major in Statistics, 2022.9 - 2023.9)
 - Graduates
     - Xiaoru Wu (Master in Statistics, 2022.6 - 2022.8)
-    - He Li (Master in Data Science, 2020.9 - 2023.9)
     - Yibo Wang (PhD in bioinformatics, 2022 - 2023)
 - Undergraduates
     - Huizhou Qi (Major in life science, 2021 - 2022)
