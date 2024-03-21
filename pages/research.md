@@ -26,7 +26,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
 #### Research Papers
-1. M. Rui, ....,Z. Chen, D. Tissue, **H.Jiang**\*, [Y. Wang\*](https://person.zju.edu.cn/wangyz)(2024). Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops.
+1. M. Rui, ....,Z. Chen, D. Tissue, **H.Jiang**\*, [Y. Wang\*](https://person.zju.edu.cn/wangyz)(2024). Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. *New Phytologist*.
 1. C. Cao\*, ...., **H.Jiang**, G. Wang\*, Q. Zhou\* (2023). [RAVAR: a curated repository for rare variant-trait associations.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad876/7311081?login=true) *Nucleic Acids Research*. DOI:10.1093/nar/gkad876
 1. X. Feng\#, Z. Yu\#, H. Fang, **H.Jiang**, ....., Y. He\*,  F. Liu\*(2023). [Plantorganelle Hunter is an effective deep-learning-based method for plant organelle phenotyping in electron microscopy](https://www.nature.com/articles/s41477-023-01527-5). *Nature Plants*. DOI:10.1038/s41477-023-01527-5
 1. Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\* (2023). [Machine learning models for predicting steroid⁃resistant nephrotic syndrome](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1090241/full) ([Webtool](https://datalinkx.shinyapps.io/srns/)). *Frontiers in Immunology*. DOI:10.3389/fimmu.2023.1090241
