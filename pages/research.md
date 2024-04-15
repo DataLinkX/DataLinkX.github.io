@@ -54,7 +54,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2023). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. Accepted.
 
 ### Manuscripts 
--  UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*.
+-  UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [(UKC Package)](https://github.com/Ttttt47/UKBioCoin)
 -  RBET guides case-specific choice of integration methods for scRNA-seq datasets from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [(R package of RBET)](/resources/RBET_0.1.0.zip)
 -  Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its metabolic implications. 
 -  CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
