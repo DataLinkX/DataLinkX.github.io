@@ -56,7 +56,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Manuscripts 
 -  Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. **H. Jiang**\#, R. Chen\#, ....., Y. Wang\*, Y. Wang\*.
 -  [UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank.](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1) <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [(UKC Package)](https://github.com/Ttttt47/UKBioCoin)
--  RBET guides case-specific choice of integration methods for scRNA-seq datasets from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [(R package of RBET)](/resources/RBET_0.1.0.zip)
+-  RBET guides case-specific choice of integration methods for scRNA-seq datasets from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [R package of RBET](/resources/RBET_0.1.0.zip),[RBET on Github](https://github.com/zlyx26/RBET).
 -  Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its metabolic implications. 
 -  CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
 -  [Non-parametric GWAS: Another View on Genome-wide Association Study.](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1) <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*.
