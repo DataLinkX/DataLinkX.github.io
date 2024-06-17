@@ -51,7 +51,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. ***Acta Mathematica Scientia***.
 
 #### Bookchapters
-1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2023). [Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation](https://doi.org/10.1007/978-1-0716-3802-6)
+1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). [Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation](https://doi.org/10.1007/978-1-0716-3802-6). ***Photorespiration: Methods and Protocols***. Humana Press.
 
 ### Manuscripts 
 -  Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. **H. Jiang**\#, R. Chen\#, ....., Y. Wang\*, Y. Wang\*.
