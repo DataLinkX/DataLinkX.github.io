@@ -57,7 +57,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 -  Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. **H. Jiang**\#, R. Chen\#, ....., Y. Wang\*, Y. Wang\*.
 -  [UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank.](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1) <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [(Homepage for UKC)](https://github.com/Ttttt47/UKBioCoin)
 -  [Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources.](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1) X. Hu, ...., J. Qian\*, **H. Jiang**\*. ([R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)).
--  Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its metabolic implications. 
+-  Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*.
 -  CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
 -  [Non-parametric GWAS: Another View on Genome-wide Association Study.](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1) <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*.
 -  Bayesian Spatial-temporal Model for Detecting Alterations in Resting-State Functional Brain Network of Heavy Smokers, J. Hu, S. Chen, Z. Ye, F. Lin\* and **H.Jiang**\*.
