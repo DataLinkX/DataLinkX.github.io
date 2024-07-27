@@ -25,6 +25,7 @@ permalink: /bioinfo/
     - Coverage ratio (覆盖比率，亦简称覆盖率，亦称基因组覆盖率): 指被测序到的碱基占全基因组大小的比率。
     - Coverage depth (覆盖深度，亦称测序深度，或者碱基平均测序深度):指每个碱基被测序的平均次数。即测序的数据总量比基因组大小: 测序所得的碱基总数(raw data or clean data)/基因组大小
 - **转录组测序** (<font color=blue>RNA-seq</font>) includes mRNA, sRNA, microRNA, LncRNA, etc.
+- **蛋白质组学** ASAP-seq, CITE-seq (同时测蛋白质组与转录组)
 - **蛋白质与DNA相互作用** (<font color=blue>Chip-seq and CUT&Tag</font>): 测得的数据越大相应的区域可能蛋白质的结合位点
     - **Chip-seq**: 明确特定的蛋白（如转录因子: motif搜索转录因子）是否结合特定基因组区域（如启动子或其它DNA结合位点)
     - 它还被用来确定基因组上与组蛋白修饰相关的特定位点（即组蛋白修饰酶类的靶标）
