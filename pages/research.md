@@ -1,4 +1,3 @@
-<img width="807" alt="image" src="https://github.com/user-attachments/assets/eb128223-0405-411f-94a1-9ebbcabb04d9">---
 layout: default
 title: Research
 subtitle: Research in Jiang Lab
