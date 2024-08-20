@@ -7,7 +7,7 @@ permalink: /research
 We aim to have new scientific findings by developing statistical methods to summarize information from data and prior knowledege. Currently, we mainly focus on developing new statistical methods for (1) biological multi-omics data, such as (sc)RNA-seq, chip-seq, xWAS etc. to explore the mechanism underlying the bological phenotypes; and (2) multimodal data including time series data, spatial data, network data etc. to integrate information from multiple dimensions.
 
 ### Research Interests 
-- Biostatistics
+- Computational Biology
     - scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
     - Clinical data analysis
     - Multi-omics data analysis
