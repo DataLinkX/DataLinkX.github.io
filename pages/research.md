@@ -11,9 +11,9 @@ We aim to have new scientific findings by developing statistical methods to summ
     - scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
     - Clinical data analysis
     - Multi-omics data analysis
-- Statistical Methodology
+- Statistical Inference
     - Bayesian Modeling (MCMC)
-    - Statistical Inference
+    - Statistical Genetics
     - Scalabe algorithm for Big Data Problems
     - Multimodal data analysis
 - Deep/Machine Learning 
