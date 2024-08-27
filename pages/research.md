@@ -55,6 +55,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). [Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation](https://doi.org/10.1007/978-1-0716-3802-6). ***Photorespiration: Methods and Protocols***. Humana Press.
 
 ### Manuscripts 
+-  *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 -  Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. **H. Jiang**\#, R. Chen\#, ....., Y. Wang\*, Y. Wang\*.
 -  [UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank.](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1) <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [(Homepage for UKC)](https://github.com/Ttttt47/UKBioCoin)
 -  [Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources.](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1) X. Hu, ...., J. Qian\*, **H. Jiang**\*. ([R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)).
