@@ -4,7 +4,7 @@ title: Research
 subtitle: Research in Jiang Lab
 permalink: /research
 ---
-We aim to have new scientific findings by developing statistical methods to summarize information from data and prior knowledege. Currently, we mainly focus on developing new statistical methods for (1) biological multi-omics data, such as (sc)RNA-seq, chip-seq, xWAS etc. to explore the mechanism underlying the bological phenotypes; and (2) multimodal data including time series data, spatial data, network data etc. to integrate information from multiple dimensions.
+We aim to have new scientific findings by developing statistical methods to summarize information from data and prior knowledege. Currently, we mainly focus on developing new statistical methods for (1) biological multi-omics data, such as (sc)RNA-seq, chip-seq, xWAS etc. to explore the mechanism underlying the complex phenotypes such as diseases, tumors etc.; and (2) multimodal data including time series data, spatial data, network data etc. to integrate information from multiple dimensions to explore key features and those related to response.
 
 ### Research Interests 
 - Computational Biology
@@ -17,11 +17,6 @@ We aim to have new scientific findings by developing statistical methods to summ
     - Scalabe algorithm for Big Data Problems
     - Multimodal data analysis
 - Deep/Machine Learning 
-
-### Fundings
-- Start Funding for ZJU100 Young Professor, 2019.1 - 2024.12
-- The Fundamental Research Funds for the Central Universities, 2019.1 - 2019.12
-- The National Natural Science Foundation of China (No.11901517), 2020.1 - 2022.12
 
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
