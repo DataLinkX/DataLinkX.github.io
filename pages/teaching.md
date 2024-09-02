@@ -5,7 +5,10 @@ permalink: /teaching
 ---
 ### Teaching
 #### Courses at ZJU
-- 2021 - 2022
+- 2023 -
+    - Bioinformatics (B.S.)
+    - Introduction to Bioinformatics (B.S.)
+- 2021 - 
     - Statistcal Modeling and Examples (M.S.)
 
 #### Courses at CUHK
