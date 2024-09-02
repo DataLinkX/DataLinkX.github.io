@@ -5,7 +5,6 @@ permalink: /news
 ---
 
 ### News
-
 #### 2022
 - Dec. 8, Hangjin Jiang is invited to give a talk on [2022 globl conference of chinese geneticists](http://www.gccgkx.com).
 - Nov. 25, Prof. Zhana Duren from Clemson University (USA) will give us a talk via Tencent meeting.
