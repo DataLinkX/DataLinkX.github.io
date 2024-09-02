@@ -8,15 +8,16 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Research Interests 
 - Computational Biology
-    - scRNA-seq, Protein, Methylation, Non-coding RNA, DNA regulation, etc.
-    - Clinical data analysis
-    - Multi-omics data analysis
-- Statistical Inference
+    - personalized medicine (drug design and Target discovery)
+    - genetic breeding (crossTalk between Crop and Environment)
+    - Context-aware mechanisms of complex phenotypes
+    - Statistical Genetics (Methods for Biobank data analysis)
+- Statistical Methodology
     - Bayesian Modeling (MCMC)
-    - Statistical Genetics
-    - Scalabe algorithm for Big Data Problems
-    - Multimodal data analysis
-- Deep/Machine Learning 
+    - Multimodal data modeling
+    - Feature Selection
+- Deep/Machine Learning
+    - New Deep Learning Models
 
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
