@@ -60,7 +60,7 @@ permalink: /news
 - Batch effects in single-cell datasets: detection and evaluation, 长三角第二届生物信息学学术会议, 2024年4月
 - Batch effects in single-cell datasets: detection and evaluation, 上海交通大学医学+X前沿会议, 2023年12月
 - 生物医学数据分析中的特征选择方法，第十二届全国生物信息学与系统生物学学术大会, 邀请报告, 2023年10月
-- 教育部101计划生物信息学教材建设介绍，第四届全国“农业、健康与生态”整合生物信息学学术研讨会, 2023年8月
+- 教育部101计划生物信息学教材建设与生物信息学教材体系改革，第四届全国“农业、健康与生态”整合生物信息学学术研讨会, 2023年8月
 - 统计特征选择方法在解析临床表型中的应用，中国遗传学会全球会议，2022年12月
 - What do we lose from GWAS via linear model ? The Workshop on Quantitative Biological Medecine, XiaMen University, Nov.11-13 2022.
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. ICSA China. Xian, 2021 (forthcoming).
