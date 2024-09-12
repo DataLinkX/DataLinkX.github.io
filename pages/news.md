@@ -64,16 +64,15 @@ permalink: /news
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. ICSA China. Xian, 2021 (forthcoming).
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. The 3<sup>rd</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Nov.6-8 2020.
 - Two-sample Distribution Comparison and Its Applications. Forum for Young Scholars in Statistics. Renming University. Oct. 23-24, 2020.
-- Co-organized [The 11th ICSA International Conference](http://cds.zju.edu.cn/ICSA2019.aspx?k1=4&k2=79&k3=80), 中国杭州, 2019.
-- Organized a session and chaired two sessions on [Hangzhou Internatinal Conference on Frontiers of Data Science](http://www.zjuyh.com/sjkx2019/rb/?sectionid=2f15c46e-f5f9-e811-941a-93c279b249f5). 中国杭州, 2019年5月
 - The number of stable states for complex proteins. ICSA China, Nankai University, 2019.
 - From DNA Methylation to Diabetes Complications, ZJU-Stanford Joint Conference on Computational Medecine, 2019
 - The Relationship between Total Field Strength and Volume Density of Interstellar Clouds, First TagKASI International Conference: Cosmic Dust and Magnetism, Korea, Nov.1st, 2018
 - Exploring the Free Energy Landscape of Proteins, The 1<sup>st</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Xiamen, China, May. 2018.
 - New Method for Revealing Free Energy Landscape of Proteins, The 4th Institute of Mathematical Statistics Asia Pacific Rim Meeting, Hong Kong, 2016
 
-
-
+#### Conference Organization
+- [The 11th ICSA International Conference](http://cds.zju.edu.cn/ICSA2019.aspx?k1=4&k2=79&k3=80).
+- [Hangzhou Internatinal Conference on Frontiers of Data Science](http://www.zjuyh.com/sjkx2019/rb/?sectionid=2f15c46e-f5f9-e811-941a-93c279b249f5).
 
 
 
