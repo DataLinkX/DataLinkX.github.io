@@ -5,7 +5,9 @@ permalink: /news
 ---
 
 ### Visitors
-
+#### 2023
+- Dec. 18, 复旦大学 赵兴明教授 来访并给报告。
+- Dec. 18, 华中科技大学 陈卫华教授 来访并给报告。
 #### 2022
 - Nov. 25, Prof. Zhana Duren from Clemson University (USA) will give us a talk via Tencent meeting.
 - Oct. 18, Prof. Jiajun Zhang from Sun Yat-sen University will give us a talk via Tencent meeting.
