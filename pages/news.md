@@ -6,12 +6,12 @@ permalink: /news
 
 ### Visitors
 #### 2023
-- Dec. 12, 复旦大学 赵兴明教授 来访并给报告。
-- Dec. 18, 华中科技大学 陈卫华教授 来访并给报告。
+- Dec. 12, 复旦大学 [赵兴明教授】（https://iics.fudan.edu.cn/ed/80/c33358a454016/page.htm） 来访并给报告。
+- Dec. 18, 华中科技大学 [陈卫华教授](http://faculty.hust.edu.cn/chenweihua2/zh_CN/index.htm) 来访并给报告。
 #### 2022
 - Nov. 25, Prof. Zhana Duren from Clemson University (USA) will give us a talk via Tencent meeting.
 - Oct. 18, Prof. Jiajun Zhang from Sun Yat-sen University will give us a talk via Tencent meeting.
-- Jun 8, Prof. Jian Yang from Westlake University will give us a talk.
+- Jun 8, [Prof. Jian Yang](https://www.westlake.edu.cn/faculty/jian-yang.html) from Westlake University will give us a talk.
 - May 10, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, CAS, will give us a talk via Tencent meeting.
 - Apr. 22, [Prof. Xueqing Wang](http://sds.ustc.edu.cn/2021/0723/c15528a518337/page.htm) from University of Science and Technology of China will give us a talk via Tencent meeting.
 - Apr. 28, [Prof. Zheng Hu](https://people.ucas.ac.cn/~0066933) from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, will give us a talk via Tencent meeting.
