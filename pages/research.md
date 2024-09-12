@@ -63,6 +63,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Manuscripts 
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
+1. Liquid-liquid phase separation-mediated regulation of crotonylation on the transcriptional networks of Streptomyces.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 1. Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. **H. Jiang**\#, J. Su\#, ....., Y. Wang\*, Y. Wang\*.
 1. [UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank.](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1) <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [(Homepage for UKC)](https://github.com/Ttttt47/UKBioCoin)
