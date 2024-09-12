@@ -4,21 +4,17 @@ title: News
 permalink: /news
 ---
 
-### News
+### Visitors
+
 #### 2022
-- Dec. 8, Hangjin Jiang is invited to give a talk on [2022 globl conference of chinese geneticists](http://www.gccgkx.com).
 - Nov. 25, Prof. Zhana Duren from Clemson University (USA) will give us a talk via Tencent meeting.
-- Nov. 12, Hangjin Jiang is invited to give a talk on "The Workshop on Quantitative Biological Medecine" hold by XiaMen University.
 - Oct. 18, Prof. Jiajun Zhang from Sun Yat-sen University will give us a talk via Tencent meeting.
 - Jun 8, Prof. Jian Yang from Westlake University will give us a talk.
-- May 14, Hangjin Jiang is invited to give a talk on [ICBEA 2022](http://www.icbea.org/) 
 - May 10, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, CAS, will give us a talk via Tencent meeting.
 - Apr. 22, [Prof. Xueqing Wang](http://sds.ustc.edu.cn/2021/0723/c15528a518337/page.htm) from University of Science and Technology of China will give us a talk via Tencent meeting.
 - Apr. 28, [Prof. Zheng Hu](https://people.ucas.ac.cn/~0066933) from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, will give us a talk via Tencent meeting.
-- Mar. 25, Hangjin Jiang visisted AIMING MED and discucssed with CEO Prof. Mingliang You on collabration on data analysis for precise medicine.
 
 #### 2021
-- Dec. 14, Hangjin Jiang is invited to give a talk on [ICBEA 2022](http://www.icbea.org/) and to be a member of the Technical Committee of the conference.
 - Oct. 27, [Prof. Rui Liu](http://www2.scut.edu.cn/math/2017/1227/c14582a242135/page.htm) from South China University of Technology will give us a talk via Tencent meeting.
 - Oct. 27, [Prof. Xing Chen](http://xwzx.cumt.edu.cn/9c/5e/c521a433246/page.htm) from China University of Mining and Technology will give us a talk via Tencent meeting.
 
@@ -26,7 +22,6 @@ permalink: /news
 - Nov. 17, [Prof. Huazhen Lin](https://stat.swufe.edu.cn/info/1046/1401.htm) from Southwestern University of Finance and Economics will give us a talk via Tencent meeting (Time: 15:00; Meeting ID:796 612 063).
 - Sep. 18, Prof. Ming Yuan from Columbia University will give us a talk via Tencent meeting (Time: 9:00am; Meeting ID:780 158 660).
 - Aug. 20, Prof. Heping Zhang from Yale University will give us a talk via Zoom meeting (Time: 10:00am; Meeting ID:95538174933).
-- July 26, The New Homepage is online.
 - Jan. 03, [Prof. Xihong Lin](https://content.sph.harvard.edu/xlin/) from Havard University visited our group. 
 
 #### 2019
@@ -55,6 +50,11 @@ permalink: /news
 - Two-sample Distribution Test and Variable Screening, Hunan Normal University, Changsha, China, Dec. 2017
 
 #### Invited Talks on Conference
+- 单细胞数据整合中的批次效应问题, 第十届全国计算生物学与生物信息学学术会议, 2024年7月
+- Batch effects in single-cell datasets: detection and evaluation, 长三角第二届生物信息学学术会议, 2024年4月
+- 生物医学数据分析中的特征选择方法，第十二届全国生物信息学与系统生物学学术大会, 邀请报告, 2023年10月
+- 教育部101计划生物信息学教材建设介绍，第四届全国“农业、健康与生态”整合生物信息学学术研讨会, 2023年8月
+- 统计特征选择方法在解析临床表型中的应用，中国遗传学会全球会议，2022年12月
 - What do we lose from GWAS via linear model ? The Workshop on Quantitative Biological Medecine, XiaMen University, Nov.11-13 2022.
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. ICSA China. Xian, 2021 (forthcoming).
 - Detecting Differentially Methylated CpG Sites by Consistent Screening Methods. The 3<sup>rd</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Nov.6-8 2020.
