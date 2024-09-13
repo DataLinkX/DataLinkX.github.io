@@ -55,6 +55,7 @@ permalink: /news
 - Two-sample Distribution Test and Variable Screening, Hunan Normal University, Changsha, China, Dec. 2017
 
 #### Invited Talks on Conference
+- 单细胞组学数据批次效应的过矫正及其影响, 联川第一届华东地区空间组学与生物信息学研讨会, 2024年8月
 - 单细胞数据整合中的批次效应问题, 第十届全国计算生物学与生物信息学学术会议, 2024年7月
 - Batch effects in single-cell datasets: detection and evaluation, 长三角第二届生物信息学学术会议, 2024年4月
 - Batch effects in single-cell datasets: detection and evaluation, 上海交通大学医学+X前沿会议, 2023年12月
