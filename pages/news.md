@@ -4,6 +4,7 @@ title: News
 permalink: /news
 ---
 
+Here are Visitors of our group, and activities we attend.
 #### Visitors
 - 2023
     - Dec. 12, 复旦大学 [赵兴明教授](https://iics.fudan.edu.cn/ed/80/c33358a454016/page.htm) 来访并给报告。
