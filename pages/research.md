@@ -20,7 +20,7 @@ We aim to have new scientific findings by developing statistical methods to summ
     - New Deep Learning Models
 
 ### Selected Publications 
-\* corresponding author(s), \# equal contribution, authors with underline are (joint) students.
+\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students.
 #### <span style="color:#0070C0">2024</span>
 1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\*. Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer. <a href="http://doi.org/10.1002/advs.202400815" style="color: #0070C0;">***Advanced Science***</a>.
 1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\*. Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757" style="color: #0070C0;">***New Phytologist***</a>. ([News](http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm))
