@@ -22,11 +22,8 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 #### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
 #### 2024
-1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\*. [Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer](http://doi.org/10.1002/advs.202400815). ***Advanced Science***. DOI: 10.1002/advs.202400815
+1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\*. Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer. <span style="color:#0070C0">***Advanced Science***</span>. DOI: 10.1002/advs.202400815.[Online](http://doi.org/10.1002/advs.202400815)
 1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, [Y. Wang\*](https://person.zju.edu.cn/wangyz). [Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757). ***New Phytologist***. DOI:10.1111/nph.19757
-
-
-<span style="color:#0070C0">**这是红色文字**</span>
 
 #### 2023
 1. C. Cao\*, ...., **H.Jiang**, G. Wang\*, Q. Zhou\*. [RAVAR: a curated repository for rare variant-trait associations.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad876/7311081?login=true) ***Nucleic Acids Research***. DOI:10.1093/nar/gkad876
