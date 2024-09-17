@@ -25,6 +25,8 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\*. Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer. <span style="color:#0070C0">***Advanced Science***</span>. [[Online](http://doi.org/10.1002/advs.202400815), [News](http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm)].
 1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\*. Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. <span style="color:#0070C0">***New Phytologist***</span>. [[Online](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757)].
 
+<a href="https://www.example.com" style="color: #FF0000;">这是一个红色的超链接</a>
+
 #### <span style="color:#0070C0">2023</span>
 1. C. Cao\*, ...., **H.Jiang**, G. Wang\*, Q. Zhou\*. RAVAR: a curated repository for rare variant-trait associations. <span style="color:#0070C0">***Nucleic Acids Research***</span>. [[Online](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad876/7311081?login=true)].
 1. X. Feng\#, Z. Yu\#, H. Fang, **H.Jiang**, ....., Y. He\*,  F. Liu\*. Plantorganelle Hunter is an effective deep-learning-based method for plant organelle phenotyping in electron microscopy. <span style="color:#0070C0">***Nature Plants***</span>. [[Online](https://www.nature.com/articles/s41477-023-01527-5)].
