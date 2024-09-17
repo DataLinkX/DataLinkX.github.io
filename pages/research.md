@@ -53,7 +53,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. **H.Jiang**, H.-b. Li\* and X.Fan\*. Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. <a href="https://doi.org/10.3847/1538-4357/ab672b" style="color: #0070C0;">***The Astrophysical Journal***</a>.
 
 #### <span style="color:#0070C0">Before ZJU</span>
-1. **H.Jiang** and Q.Wu\* (2018). Robust dependence measure for detecting associations in large data set.<a href="https://doi.org/10.1016/S0252-9602(17)30117-0" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.
+1. **H.Jiang** and Q.Wu\* (2018). Robust dependence measure for detecting associations in large data set. <a href="https://doi.org/10.1016/S0252-9602(17)30117-0" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.
 1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). The Link between Magnetic-field Orientations and Star Formation Rates (**Cover Paper**, [News](https://www.cpr.cuhk.edu.hk/en/press/cuhk-physicist-and-statistician-work-together-to-reveal-link-between-magnetic-fields-and-birth-rate-of-stars/)). <a href="https://doi.org/10.1038/s41550-017-0158" style="color: #0070C0;">***Nature Astronomy***</a>.
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. <a href="https://doi.org/10.1016/S0252-9602(14)60031-X" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0070C0">***Acta Mathematica Scientia***</span>.
