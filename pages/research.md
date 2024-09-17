@@ -20,12 +20,12 @@ We aim to have new scientific findings by developing statistical methods to summ
     - New Deep Learning Models
 
 ### Selected Publications 
-#### [Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.](/resources)
+#### Note: \* denotes corresponding author(s), \# denotes joint first authors and authors with underline are (joint) students.
 #### <span style="color:#0070C0">2024</span>
 1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\*. Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer. <span style="color:#0070C0">***Advanced Science***</span>. DOI: 10.1002/advs.202400815. [[Online](http://doi.org/10.1002/advs.202400815), [News](http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm)].
-1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\*. Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. ***New Phytologist***. DOI:10.1111/nph.19757. [[Online](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757)].
+1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\*. Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. <span style="color:#0070C0">***New Phytologist***</span>. DOI:10.1111/nph.19757. [[Online](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757)].
 
-#### 2023
+#### <span style="color:#0070C0">2023</span>
 1. C. Cao\*, ...., **H.Jiang**, G. Wang\*, Q. Zhou\*. RAVAR: a curated repository for rare variant-trait associations. <span style="color:#0070C0">***Nucleic Acids Research***</span>. DOI:10.1093/nar/gkad876. [[Online](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad876/7311081?login=true)].
 1. X. Feng\#, Z. Yu\#, H. Fang, **H.Jiang**, ....., Y. He\*,  F. Liu\*. Plantorganelle Hunter is an effective deep-learning-based method for plant organelle phenotyping in electron microscopy. <span style="color:#0070C0">***Nature Plants***</span>. DOI:10.1038/s41477-023-01527-5. [[Online](https://www.nature.com/articles/s41477-023-01527-5)].
 1. Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\*. Machine learning models for predicting steroid⁃resistant nephrotic syndrome. <span style="color:#0070C0">***Frontiers in Immunology***</span>. DOI:10.3389/fimmu.2023.1090241. [[Online](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1090241/full), [Webtool](https://datalinkx.shinyapps.io/srns/)].
@@ -33,7 +33,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q. Sun, ....., **H.Jiang**, D. Yan, B. Zheng, Y. He\*. [Transcriptome Analysis Reveals the Response Mechanism of Digitaria sanguinalis, Arabidopsis thaliana and Poa annua under 4,8-Dihydroxy-1-tetralone Treatment]. <span style="color:#0070C0">***Plants***</span>. DOI:10.3390/plants12142728. [[Online](https://www.mdpi.com/2223-7747/12/14/2728/review_report)].
 1. S. Qin,....., **H.Jiang**, ...., B. Zheng, Y. He\*. Comparative Microscopic, Transcriptome and IAA Content Analyses Reveal the Stem Growth Variations in Two Cultivars Ilex verticillata. <span style="color:#0070C0">***Plants***</span>. DOI:10.3390/plants12101941. [[Online](https://www.mdpi.com/2223-7747/12/10/1941)].
 
-#### 2022
+#### <span style="color:#0070C0">2022</span>
 1. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H.Jiang**\*, R. Pan\*. Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses. <span style="color:#0070C0">***The Plant Journal***</span>. DOI:10.1111/tpj.15840. [[Online](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840), [News](http://www.cab.zju.edu.cn/chinese/2022/0705/c11148a2601415/page.htm)].
 1. **H.Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\*. Revealing Free Energy Landscape from MD Data via Conditional Angle Partition Tree. <span style="color:#0070C0">***IEEE/ACM Transactions on Computational Biology and Bioinformatics***</span>. DOI:10.1109/TCBB.2022.3172352. [[Online](https://ieeexplore.ieee.org/abstract/document/9767706), [code](/resources/capt.zip), [data](/resources/ala-traj.zip), [Supp](/resources/capt-supp.pdf)].
 1. <u>M. Xu</u>, Y. Chen, Z. Xu, L. Zhang\*, **H.Jiang**\*, C. Pian\*. MiRLoc: predicting miRNA subcellular localizaition by incorporating miRNA-mRNA interaction and mRNA subcelluar localizaition. <span style="color:#0070C0">***Briefings in Bioinformatics***</span>. DOI:10.1093/bib/bbac044. [[Online](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac044/6532537)].
@@ -41,27 +41,27 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. <u>M. Rui</u>, Y. Jing, **H. Jiang**\*, Y. Wang\*. Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. <span style="color:#0070C0">***Advanced Biology***</span>. DOI: 10.1002/adbi.202200131. [[Online](https://onlinelibrary.wiley.com/doi/10.1002/adbi.202200131)].
 1. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and W. Fu\*. Recent progress on systems and synthetic biology of diatoms for improving algal productivity. <span style="color:#0070C0">***Frontiers in Bioengineering and Biotechnology***</span>. DOI: 10.3389/fbioe.2022.908804. [[Online](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2022.908804/full)].
 
-#### 2021
+#### <span style="color:#0070C0">2021</span>
 1. <u>H. Li</u>\#, H.X. Zhang\# and **H.Jiang**\*. Combining Power of Different Methods to Detect Associations in Large Data Sets. <span style="color:#0070C0">***Briefings in Bioinformatics***</span>. DOI:10.1093/bib/bbab488. [[Online](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab488/6447432), [R package](/resources/DM.zip)].
 1. [H. Lei\#](https://person.zju.edu.cn/0018217), **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\*. Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. <span style="color:#0070C0">***Infectious Diseases of Poverty***</span>. DOI:10.1186/s40249-021-00911-7. [[Online](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7), [News](https://nihds.zju.edu.cn/2022/0426/c66553a2524226/page.htm)].
 1. <u>Z. Li</u>\#, **H.Jiang**\#, L. Kong, Y. Chen, K. Lang, X. Fan, L. Zhang\* and C. Pian\*. Deep6mA: a deep learning framework explores similar patterns in DNA N6-methyladenine sites across different species. <span style="color:#0070C0">***PLoS Computational Biology***</span>. DOI:10.1371/journal.pcbi.1008767. [[Online](https://doi.org/10.1371/journal.pcbi.1008767)].
 1. **H.Jiang** and X. Fan\*. The Two-step Clustering Approach for Metastable States Learning. <span style="color:#0070C0">***International Journal of Molecular Sciences***</span>. DOI:10.3390/ijms22126576. [[Online](https://www.mdpi.com/1422-0067/22/12/6576)].
 
-#### 2020
+#### <span style="color:#0070C0">2020</span>
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\*. Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data. <span style="color:#0070C0">***Methods***</span>. DOI:10.1016/j.ymeth.2020.09.009. [[Online](https://doi.org/10.1016/j.ymeth.2020.09.009), [code](/resources/BSDMR.zip)].
 1. **H.Jiang** and X.Fan\*. A Consistent Variable Screening Procedure with Family-wise Error Control. <span style="color:#0070C0">***Journal of Statistical Computation and Simulation***</span>. DOI:10.1080/00949655.2020.1724291. [[Online](https://doi.org/10.1080/00949655.2020.1724291)].
 1. **H.Jiang**, H.-b. Li\* and X.Fan\*. Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. <span style="color:#0070C0">***The Astrophysical Journal***</span>. DOI:10.3847/1538-4357/ab672b. [[Online](https://doi.org/10.3847/1538-4357/ab672b)].
 
-#### Before ZJU
+#### <span style="color:#0070C0">Before ZJU</span>
 1. **H.Jiang** and Q.Wu\* (2018). Robust dependence measure for detecting associations in large data set. <span style="color:#0070C0">***Acta Mathematica Scientia***</span>. DOI:10.1016/S0252-9602(17)30117-0. [[Online](https://doi.org/10.1016/S0252-9602(17)30117-0)].
 1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). The Link between Magnetic-field Orientations and Star Formation Rates. <span style="color:#0070C0">***Nature Astronomy***</span> (**Cover Paper**). DOI:10.1038/s41550-017-0158. [[Online](https://doi.org/10.1038/s41550-017-0158), [News](https://www.cpr.cuhk.edu.hk/en/press/cuhk-physicist-and-statistician-work-together-to-reveal-link-between-magnetic-fields-and-birth-rate-of-stars/)].
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. <span style="color:#0070C0">***Acta Mathematica Scientia***</span>. DOI:10.1016/S0252-9602(14)60031-X. [[Online](https://doi.org/10.1016/S0252-9602(14)60031-X)].
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0070C0">***Acta Mathematica Scientia***</span>.
 
-#### Bookchapters
+#### <span style="color:#0070C0">Bookchapters</span>
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. <span style="color:#0070C0">***Photorespiration: Methods and Protocols***</span>. Humana Press. [[Online](https://doi.org/10.1007/978-1-0716-3802-6)].
 
-### Manuscripts 
+### <span style="color:#0070C0">[Manuscripts]((/resources))</span>
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
 1. Liquid-liquid phase separation-mediated regulation of crotonylation on the transcriptional networks of Streptomyces.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
