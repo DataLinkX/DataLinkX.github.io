@@ -61,7 +61,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 #### <span style="color:#0070C0">Bookchapters</span>
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. <span style="color:#0070C0">***Photorespiration: Methods and Protocols***</span>. Humana Press. [[Online](https://doi.org/10.1007/978-1-0716-3802-6)].
 
-### <span style="color:#0070C0">[Manuscripts]((/resources))</span>
+#### <span style="color:#0070C0">[Manuscripts]((/resources))</span>
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
 1. Liquid-liquid phase separation-mediated regulation of crotonylation on the transcriptional networks of Streptomyces.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
