@@ -66,15 +66,15 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Liquid-liquid phase separation-mediated regulation of crotonylation on the transcriptional networks of Streptomyces.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 1. Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. **H. Jiang**\#, J. Su\#, ....., Y. Wang\*, Y. Wang\*.
-1. [UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank.](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1) <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [(Homepage for UKC)](https://github.com/Ttttt47/UKBioCoin)
-1.  [Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources.](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1) X. Hu, ...., J. Qian\*, **H. Jiang**\*. ([R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)).
+1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [[Online](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1), [Homepage for UKC](https://github.com/Ttttt47/UKBioCoin)]
+1.  Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [[Online](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1), [R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)].
 1. Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*.
 1. CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
-1. [Non-parametric GWAS: Another View on Genome-wide Association Study.](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1) <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*.
+1. [Non-parametric GWAS: Another View on Genome-wide Association Study.] <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. [[Online](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1)]
 1. Bayesian Spatial-temporal Model for Detecting Alterations in Resting-State Functional Brain Network of Heavy Smokers, J. Hu, S. Chen, Z. Ye, F. Lin\* and **H.Jiang**\*.
-1. Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, [Y. He](https://sky.zafu.edu.cn/info/1222/8304.htm)\*.
+1. Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
-1. [A Goodness-of-Fit Test for Statistical Models](https://arxiv.org/pdf/2006.08864.pdf), **H.Jiang**
-1. [Bayesian Variable Selection for Single Index Logistic Model](https://arxiv.org/pdf/2012.06199.pdf), <u>Y. Sun</u> and **H.Jiang**\*.
+1. A Goodness-of-Fit Test for Statistical Models, **H.Jiang**. [[Online](https://arxiv.org/pdf/2006.08864.pdf)]
+1. Bayesian Variable Selection for Single Index Logistic Model, <u>Y. Sun</u> and **H.Jiang**\*. [[Online](https://arxiv.org/pdf/2012.06199.pdf)]
 1. Parameter Estimation in Noisy Dynamical System, **H.Jiang**, and  D.H., He
-1. [Equitablity of Dependence Measure](https://arxiv.org/pdf/1501.02102.pdf), **H.Jiang**, K.Liu and Y.Ding (2013)
+1. Equitablity of Dependence Measure, **H.Jiang**, K.Liu and Y.Ding (2013). [[Online](https://arxiv.org/pdf/1501.02102.pdf)]
