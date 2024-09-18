@@ -68,7 +68,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1.  Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [[Online](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1), [R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)].
 1. Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*.
 1. CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
-1. [Non-parametric GWAS: Another View on Genome-wide Association Study.] <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. [[Online](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1)]
+1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. [[Online](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1)]
 1. Bayesian Spatial-temporal Model for Detecting Alterations in Resting-State Functional Brain Network of Heavy Smokers, J. Hu, S. Chen, Z. Ye, F. Lin\* and **H.Jiang**\*.
 1. Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
