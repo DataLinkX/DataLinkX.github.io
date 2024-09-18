@@ -24,6 +24,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 #### <span style="color:#0070C0">2024</span>
 1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\*. Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer. <a href="http://doi.org/10.1002/advs.202400815" style="color: #0070C0;">***Advanced Science***</a>.
 1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\*. Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757" style="color: #0070C0;">***New Phytologist***</a>. ([News](http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm))
+1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. <a href="https://doi.org/10.1007/978-1-0716-3802-6" style="color: #0070C0;">***Photorespiration: Methods and Protocols***</a>. (BookChapter)
 
 #### <span style="color:#0070C0">2023</span>
 1. C. Cao\*, ...., **H.Jiang**, G. Wang\*, Q. Zhou\*. RAVAR: a curated repository for rare variant-trait associations. <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad876/7311081?login=true" style="color: #0070C0;">***Nucleic Acids Research***</a>.
@@ -52,16 +53,13 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. **H.Jiang** and X.Fan\*. A Consistent Variable Screening Procedure with Family-wise Error Control. <a href="https://doi.org/10.1080/00949655.2020.1724291" style="color: #0070C0;">***Journal of Statistical Computation and Simulation***</a>.
 1. **H.Jiang**, H.-b. Li\* and X.Fan\*. Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. <a href="https://doi.org/10.3847/1538-4357/ab672b" style="color: #0070C0;">***The Astrophysical Journal***</a>.
 
-#### <span style="color:#0070C0">Before ZJU</span>
+#### <span style="color:#0070C0">Before 2019</span>
 1. **H.Jiang** and Q.Wu\* (2018). Robust dependence measure for detecting associations in large data set. <a href="https://doi.org/10.1016/S0252-9602(17)30117-0" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.
 1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). The Link between Magnetic-field Orientations and Star Formation Rates. <a href="https://doi.org/10.1038/s41550-017-0158" style="color: #0070C0;">***Nature Astronomy***</a>. (**Cover Paper**, [News](https://www.cpr.cuhk.edu.hk/en/press/cuhk-physicist-and-statistician-work-together-to-reveal-link-between-magnetic-fields-and-birth-rate-of-stars/))
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. <a href="https://doi.org/10.1016/S0252-9602(14)60031-X" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0070C0">***Acta Mathematica Scientia***</span>.
 
-#### <span style="color:#0070C0">Bookchapters</span>
-1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. <a href="https://doi.org/10.1007/978-1-0716-3802-6" style="color: #0070C0;">***Photorespiration: Methods and Protocols***</a>.
-
-#### <a href="/resources" style="color: #0070C0;">**Manuscripts**</a>
+#### <a href="/resources" style="color: #0070C0;">Manuscripts</a>
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
 1. Liquid-liquid phase separation-mediated regulation of crotonylation on the transcriptional networks of Streptomyces.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
