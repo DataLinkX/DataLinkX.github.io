@@ -13,16 +13,6 @@ permalink: /resources/
 - [Useful Datasets](/datasets)
 - eBooks: [Electronic library](http://libgen.rs/), [Springer Link](http://link.springer.com/?)
 
-### Requirements on Good Research
-- **Read papers as many as you can** from high-quality journals or research groups (see below)
-- **Think bigger but verified with cautious**
-- **Data Science** emphasizing on **New scientific findings** from data
-- **Statistical methodology** emphasizing on **Statistical Inference**
-    - New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable); 
-    - New connections between different methods/problems; 
-    - New theory for methodologies to understand the good performance of the method; 
-    - New models with new estimation method;
-      
 ### Important Tips
 - Two kinds of problems
     - Technical problem
@@ -31,6 +21,15 @@ permalink: /resources/
 - Evaluation on Algorithms (Techniques)
     - General concept advance (related to scientific problem)
     - Good performance on various datasets (or solid theoretical support)
+- **Read papers as many as you can** from high-quality journals or research groups (see below)
+- **Think bigger but verified with cautious**
+- **Data Science** emphasizing on **New scientific findings** from data
+- **Statistical methodology** emphasizing on **Statistical Inference**
+    - New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable); 
+    - New connections between different methods/problems; 
+    - New theory for methodologies to understand the good performance of the method; 
+    - New models for some kind of data type;
+    - New estimation method for old problems;
   
 ### Related Top Journals
 - Bioinformatics: Nature, Cell, Science, Nature biotech, Communications Biology, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), [Nature Communications](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article), [Bioinformatics](https://academic.oup.com/bioinformatics), [Briefings](https://academic.oup.com/bib)
