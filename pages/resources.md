@@ -16,8 +16,8 @@ permalink: /resources/
 ### Requirements on Good Research
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
 - **Think bigger but verified with cautious**
-- **Data Science** emphasizing on **Findings from data**: convince the domain researchers that the proposed method (statistical model or computational method) is widely applicable to have new findings. 
-- **Statistical methodology** emphasizing on **Statistical Inference**: convince statistical researchers that the statistical method is accurate in terms of some statistical properties such as consistency.
+- **Data Science** emphasizing on **Findings from data**
+- **Statistical methodology** emphasizing on **Statistical Inference**
     - New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable); 
     - New connections between different methods/problems; 
     - New theory for methodologies to understand the good performance of the method; 
