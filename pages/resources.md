@@ -16,12 +16,12 @@ permalink: /resources/
 ### Requirements on Good Research
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
 - **Think bigger but verified with cautious**
-- **Data Science** emphasizing on **Findings from data**
+- **Data Science** emphasizing on **New scientific findings** from data
 - **Statistical methodology** emphasizing on **Statistical Inference**
     - New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable); 
     - New connections between different methods/problems; 
     - New theory for methodologies to understand the good performance of the method; 
-    - Extending old methods to new settings (not recommend in general);
+    - New models with new estimation method;
       
 ### Important Tips
 - Two kinds of problems
