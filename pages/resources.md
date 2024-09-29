@@ -19,10 +19,9 @@ permalink: /resources/
     - Scientific problem (*Think bigger but verified with cautious*)
     - A technique is important, if and only if it solves a important scientific problem.
 - Perspective on developing algorithms
-    - New methodology on classical problems
-    - New settings on classical problems (new data type, large scale datasets etc.)
-    - Theory: understand the performance of a method, or connections between different methods/problems
-    - Science: new insights from old data
+    - Methodolgy
+    - Settings on datasets (data type, scale, privacy etc.)
+    - aim from science
 - Evaluation on Algorithms (Techniques)
     - General concept advance (Many people care about the problem)
     - Accuracy and Robust: Good performance on difference cases (or solid theoretical support)
