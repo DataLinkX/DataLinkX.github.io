@@ -19,8 +19,9 @@ permalink: /resources/
     - Scientific problem
     - A technique is important, if and only if it solves a important scientific problem.
 - Evaluation on Algorithms (Techniques)
-    - General concept advance (related to scientific problem)
-    - Good performance on various datasets (or solid theoretical support)
+    - General concept advance (New perspective on data analysis)
+    - Accuracy+Robust: Good performance on difference cases (or solid theoretical support)
+    - Fast + resources-efficient
 - **Read papers as many as you can** from high-quality journals or research groups (see below)
 - **Think bigger but verified with cautious**
 - **Data Science** emphasizing on **New scientific findings** from data
