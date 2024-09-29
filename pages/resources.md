@@ -16,23 +16,19 @@ permalink: /resources/
 ### Important Tips
 - Two kinds of problems
     - Technical problem
-    - Scientific problem
+    - Scientific problem (*Think bigger but verified with cautious*)
     - A technique is important, if and only if it solves a important scientific problem.
+- Perspective on developing algorithms
+    - New methodology on classical problems
+    - New settings on classical problems (new data type, large scale datasets etc.)
+    - Theory: understand the performance of a method, or connections between different methods/problems
+    - Science: new insights from old data
 - Evaluation on Algorithms (Techniques)
-    - General concept advance (New perspective on data analysis)
-    - Accuracy+Robust: Good performance on difference cases (or solid theoretical support)
-    - Fast + resources-efficient
-- **Read papers as many as you can** from high-quality journals or research groups (see below)
-- **Think bigger but verified with cautious**
-- **Data Science** emphasizing on **New scientific findings** from data
-- **Statistical methodology** emphasizing on **Statistical Inference**
-    - New insights/methodology into classical problems with essential difference (more efficient, faster, powerful, applicable); 
-    - New connections between different methods/problems; 
-    - New theory for methodologies to understand the good performance of the method; 
-    - New models for some kind of data type;
-    - New estimation method for old problems;
+    - General concept advance (Many people care about the problem)
+    - Accuracy and Robust: Good performance on difference cases (or solid theoretical support)
+    - Fast and resources-efficient
   
-### Related Top Journals
+### Related Top Journals (**Read papers as many as you can**)
 - Bioinformatics: Nature, Cell, Science, Nature biotech, Communications Biology, [Genome Biology](https://genomebiology.biomedcentral.com/), [Nature Method](https://www.nature.com/nmeth/#search-menu), [Nature Communications](https://www.nature.com/search?subject=computational-biology-and-bioinformatics&journal=ncomms), [NAR](https://academic.oup.com/nar/advance-articles), [Nature Review](https://www.nature.com/nature/articles?type=review-article), [Bioinformatics](https://academic.oup.com/bioinformatics), [Briefings](https://academic.oup.com/bib)
 - Statistical Methodology: [JASA](https://amstat.tandfonline.com/action/showAxaArticles?journalCode=uasa20&), [Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics/annals-of-statistics-future-papers/), [Biometrika](https://academic.oup.com/biomet), [JRSSB](https://rss.onlinelibrary.wiley.com/journal/14679868), [Statistica Sinica](http://www3.stat.sinica.edu.tw/statistica/)
 - Machine Learning: [NIPS](https://papers.nips.cc/), [JMLR](http://jmlr.org/), [Foundations and Trends](https://www.nowpublishers.com/mal)
