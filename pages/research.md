@@ -22,6 +22,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 \* corresponding author(s), \# equal contribution, and authors with underline are (joint) students.
 #### <span style="color:#0070C0">2024</span>
+1. **H. Jiang**\#, <u>J. Su</u>\#, ....., Y. Wang\*, Y. Wang\*. Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. ***Science Advances***.
 1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\*. Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer. <a href="http://doi.org/10.1002/advs.202400815" style="color: #0070C0;">***Advanced Science***</a>.
 1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\*. Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757" style="color: #0070C0;">***New Phytologist***</a>. ([News](http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm))
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. <a href="https://doi.org/10.1007/978-1-0716-3802-6" style="color: #0070C0;">***Photorespiration: Methods and Protocols***</a>. (**BookChapter**)
@@ -63,7 +64,6 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
 1. Liquid-liquid phase separation-mediated regulation of crotonylation on the transcriptional networks of Streptomyces.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
-1. Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. **H. Jiang**\#, J. Su\#, ....., Y. Wang\*, Y. Wang\*.
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1), [Homepage for UKC](https://github.com/Ttttt47/UKBioCoin)]
 1.  Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1), [R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)].
 1. Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*.
