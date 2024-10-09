@@ -61,7 +61,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0070C0">***Acta Mathematica Scientia***</span>.
 
 #### <a href="/resources" style="color: #0070C0;">Manuscripts</a>
-1. 	Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Z. Gao\*.
+1. 	Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*.
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
 1. Liquid-liquid phase separation-mediated regulation of crotonylation on the transcriptional networks of Streptomyces.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
