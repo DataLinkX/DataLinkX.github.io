@@ -39,7 +39,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Y. Chen\#, C. Kwok\#, **H.Jiang**\* and X.Fan\* (2020). Detect Differentially Methylated Regions Using Non-homogeneous Hidden Markov Model for Bisulfite Sequencing Data. <a href="https://doi.org/10.1016/j.ymeth.2020.09.009" style="color: #0070C0;">***Methods***</a>. ([code](/resources/BSDMR.zip))
 1. **H.Jiang** and X.Fan\* (2020). A Consistent Variable Screening Procedure with Family-wise Error Control. <a href="https://doi.org/10.1080/00949655.2020.1724291" style="color: #0070C0;">***Journal of Statistical Computation and Simulation***</a>.
 1. **H.Jiang** and Q.Wu\* (2018). Robust dependence measure for detecting associations in large data set. <a href="https://doi.org/10.1016/S0252-9602(17)30117-0" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.
-1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0070C0">***Acta Mathematica Scientia***</span>.
+1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <a href="" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.  
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. <a href="https://doi.org/10.1016/S0252-9602(14)60031-X" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.
 
 #### <span style="color:#0070C0">Applications in Plants</span>
