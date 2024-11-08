@@ -21,7 +21,12 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Selected Publications 
 \* corresponding author(s), \# equal contribution, and authors with underline are (joint) students.
-#### <span style="color:#0070C0">Algorithms on Feature Learning</span>
+#### <span style="color:#0070C0">Algorithms for Biological Feature Learning</span>
+1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*.[[Preprint](http://arxiv.org/abs/2410.11320)]
+1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1), [Homepage for UKC](https://github.com/Ttttt47/UKBioCoin)]
+1.  Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1), [R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)].
+1. CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
+1. Bayesian Spatial-temporal Model for Detecting Alterations in Resting-State Functional Brain Network of Heavy Smokers, J. Hu, S. Chen, Z. Ye, F. Lin\* and **H.Jiang**\*.
 1. **H. Jiang**\#, <u>J. Su</u>\#, Z. Ren, D. Wang, A. Hills, R. Kinoshita, M. R. Blatt, Y. Wang\*, Y. Wang\* (2024). Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. <a href="" style="color: #0070C0;">***Science Advances***</a>. 
 1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\* (2024). Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer. <a href="http://doi.org/10.1002/advs.202400815" style="color: #0070C0;">***Advanced Science***</a>.
 1. C. Cao\*, ...., **H.Jiang**, G. Wang\*, Q. Zhou\* (2023). RAVAR: a curated repository for rare variant-trait associations. <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad876/7311081?login=true" style="color: #0070C0;">***Nucleic Acids Research***</a>.
@@ -37,8 +42,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0070C0">***Acta Mathematica Scientia***</span>.
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. <a href="https://doi.org/10.1016/S0252-9602(14)60031-X" style="color: #0070C0;">***Acta Mathematica Scientia***</a>.
 
-   
-#### <span style="color:#0070C0">Applications on Plants</span>
+#### <span style="color:#0070C0">Applications in Plants</span>
 1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\* (2024). Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757" style="color: #0070C0;">***New Phytologist***</a>. ([News](http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm))
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. <a href="https://doi.org/10.1007/978-1-0716-3802-6" style="color: #0070C0;">***Photorespiration: Methods and Protocols***</a>. (**BookChapter**)
 1. X. Feng\#, Z. Yu\#, H. Fang, **H.Jiang**, ....., Y. He\*,  F. Liu\* (2023). Plantorganelle Hunter is an effective deep-learning-based method for plant organelle phenotyping in electron microscopy. <a href="https://www.nature.com/articles/s41477-023-01527-5" style="color: #0070C0;">***Nature Plants***</a>.
@@ -48,7 +52,10 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H.Jiang**\*, R. Pan\* (2022). Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses. <a href="https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840" style="color: #0070C0;">***The Plant Journal***</a>. ([News](http://www.cab.zju.edu.cn/chinese/2022/0705/c11148a2601415/page.htm))
 1. <u>M. Rui</u>, Y. Jing, **H. Jiang**\*, Y. Wang\* (2022). Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. <a href="https://onlinelibrary.wiley.com/doi/10.1002/adbi.202200131" style="color: #0070C0;">***Advanced Biology***</a>.
 
-#### <span style="color:#0070C0">Applications on Medicine</span>
+#### <span style="color:#0070C0">Applications in Medicine</span>
+1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
+1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*.
+1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 1. Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\* (2023). Machine learning models for predicting steroid⁃resistant nephrotic syndrome. <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2023.1090241/full" style="color: #0070C0;">***Frontiers in Immunology***</a>. ([Webtool](https://datalinkx.shinyapps.io/srns/))
 1. H. Lei\#, **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. <a href="https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7" style="color: #0070C0;">***Infectious Diseases of Poverty***</a>. ([News](https://nihds.zju.edu.cn/2022/0426/c66553a2524226/page.htm))
    
@@ -60,15 +67,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 
 #### <a href="/resources" style="color: #0070C0;">Manuscripts</a>
-1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*.[[Preprint](http://arxiv.org/abs/2410.11320)]
-1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
-1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*.
-1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
-1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1), [Homepage for UKC](https://github.com/Ttttt47/UKBioCoin)]
-1.  Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1), [R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)].
-1. CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
 1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1)]
-1. Bayesian Spatial-temporal Model for Detecting Alterations in Resting-State Functional Brain Network of Heavy Smokers, J. Hu, S. Chen, Z. Ye, F. Lin\* and **H.Jiang**\*.
 1. Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 1. A Goodness-of-Fit Test for Statistical Models, **H.Jiang**. [[Preprint](https://arxiv.org/pdf/2006.08864.pdf)]
