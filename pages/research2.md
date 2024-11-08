@@ -20,7 +20,7 @@ We aim to have new scientific findings by developing statistical methods to summ
     - New Deep Learning Models
 
 ### Selected Publications 
-\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students.
+[Present by Year](/research) (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### <span style="color:#0070C0">Algorithms for Feature Learning</span>
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. <a href="http://arxiv.org/abs/2410.11320" style="color: #0070C0;">***Submitted***</a>. 
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. <a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color: #0070C0;">***Submitted***</a>. [[Homepage for UKC](https://github.com/Ttttt47/UKBioCoin)]
