@@ -2,7 +2,7 @@
 layout: default
 title: Research
 subtitle: Research in Jiang Lab
-permalink: /research
+permalink: /research2
 ---
 We aim to have new scientific findings by developing statistical methods to summarize information from data and prior knowledege. Currently, we mainly focus on developing new statistical methods for (1) biological multi-omics data, such as (sc)RNA-seq, chip-seq, xWAS etc. to explore the mechanism underlying the complex phenotypes such as agronomic traits, diseases, tumors etc.; and (2) multimodal data including time series data, spatial data, network data etc. to integrate information from multiple dimensions to explore key features related to response.
 
