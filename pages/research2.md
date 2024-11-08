@@ -53,9 +53,9 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. <u>M. Rui</u>, Y. Jing, **H. Jiang**\*, Y. Wang\* (2022). Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. <a href="https://onlinelibrary.wiley.com/doi/10.1002/adbi.202200131" style="color: #0070C0;">***Advanced Biology***</a>.
 
 #### <span style="color:#0070C0">Applications in Medicine</span>
-1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
-1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*.
-1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
+1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <a href="" style="color: #0070C0;">***Manuscript***</a>.
+1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*. <a href="" style="color: #0070C0;">***Manuscript***</a>.
+1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*. <a href="" style="color: #0070C0;">***Manuscript***</a>.
 1. Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\* (2023). Machine learning models for predicting steroid⁃resistant nephrotic syndrome. <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2023.1090241/full" style="color: #0070C0;">***Frontiers in Immunology***</a>. ([Webtool](https://datalinkx.shinyapps.io/srns/))
 1. H. Lei\#, **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. <a href="https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7" style="color: #0070C0;">***Infectious Diseases of Poverty***</a>. ([News](https://nihds.zju.edu.cn/2022/0426/c66553a2524226/page.htm))
    
