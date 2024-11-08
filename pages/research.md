@@ -20,7 +20,7 @@ We aim to have new scientific findings by developing statistical methods to summ
     - New Deep Learning Models
 
 ### Selected Publications 
-[Present by Topics](/research2) (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
+[**Present by Topics**](/research2) (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### <span style="color:#0070C0">2024</span>
 1. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*. Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism.  <a href="" style="color: #0070C0;">***Sustainable Horizons***</a>. 
 1. **H. Jiang**\#, <u>J. Su</u>\#, Z. Ren, D. Wang, A. Hills, R. Kinoshita, M. R. Blatt, Y. Wang\*, Y. Wang\*. Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. <a href="" style="color: #0070C0;">***Science Advances***</a>. 
