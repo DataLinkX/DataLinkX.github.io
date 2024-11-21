@@ -54,7 +54,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. <u>M. Rui</u>, Y. Jing, **H. Jiang**\*, Y. Wang\* (2022). Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. <a href="https://onlinelibrary.wiley.com/doi/10.1002/adbi.202200131" style="color: #0070C0;">***Advanced Biology***</a>.
 
 #### <span style="color:#0070C0"> Applications to Medicine</span>
-1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <a href="" style="color: #0070C0;">***Submitted***</a>.
+1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*.  <a href="" style="color: #0070C0;">***Submitted***</a>. 
 1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*. <a href="" style="color: #0070C0;">***Submitted***</a>.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*. <a href="" style="color: #0070C0;">***Submitted***</a>.
 1. Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\* (2023). Machine learning models for predicting steroid⁃resistant nephrotic syndrome. <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2023.1090241/full" style="color: #0070C0;">***Frontiers in Immunology***</a>. ([Webtool](https://datalinkx.shinyapps.io/srns/))
