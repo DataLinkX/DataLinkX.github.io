@@ -63,7 +63,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 #### <a href="/resources" style="color: #0070C0;">Manuscripts</a>
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*.[[Preprint](http://arxiv.org/abs/2410.11320)]
-1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition.
+1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*. 
 1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1), [Homepage for UKC](https://github.com/Ttttt47/UKBioCoin)]
