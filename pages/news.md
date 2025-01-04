@@ -38,6 +38,7 @@ Here are Visitors of our group, and activities we attend.
 #### Invited Talks in Unviersity
 - 生物医学数据分析中的特征选择方法: 从理论到实践，中山大学数学学院, 2023.
 - 生物医学数据分析中的特征选择方法: 从理论到实践，广州大学数学学院, 2023.
+- 生物医学数据分析中的特征选择方法: 从理论到实践，华中科技大学生科院, 2023.
 - 生物医学数据分析中的特征选择方法: 从理论到实践，武汉科技大学理学院, 2023.
 - 生物医学数据分析中的特征选择方法: 从理论到实践，浙二医院ICU, 2023.
 - An introduction to data science, School of Life Science, Hangzhou Normal University, 2022.
