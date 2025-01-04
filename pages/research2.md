@@ -22,6 +22,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 [**Present by Year**](/research) (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### <span style="color:#0070C0">Methodology on Feature Learning</span>
+1. mBoost provides guidance on improving machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="" style="color: #0070C0;">***Submitted***</a>. 
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. <a href="http://arxiv.org/abs/2410.11320" style="color: #0070C0;">***Submitted***</a>. 
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. <a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color: #0070C0;">***Submitted***</a>. ([Homepage for UKC](https://github.com/Ttttt47/UKBioCoin))
 1. Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. <a href="https://biorxiv.org/cgi/content/short/2024.05.26.595911v1" style="color: #0070C0;">***Submitted***</a>. ([R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)).
