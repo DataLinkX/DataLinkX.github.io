@@ -22,7 +22,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 [**Present by Year**](/research) (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### <span style="color:#0070C0">Methodology on Feature Learning</span>
-1. mBoost provides guidance on improving machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="" style="color: #0070C0;">***Submitted***</a>. 
+1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="" style="color: #0070C0;">***Submitted***</a>. 
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. <a href="http://arxiv.org/abs/2410.11320" style="color: #0070C0;">***Submitted***</a>. 
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. <a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color: #0070C0;">***Submitted***</a>. ([Homepage for UKC](https://github.com/Ttttt47/UKBioCoin))
 1. Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. <a href="https://biorxiv.org/cgi/content/short/2024.05.26.595911v1" style="color: #0070C0;">***Submitted***</a>. ([R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)).
@@ -55,6 +55,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. <u>M. Rui</u>, Y. Jing, **H. Jiang**\*, Y. Wang\* (2022). Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. <a href="https://onlinelibrary.wiley.com/doi/10.1002/adbi.202200131" style="color: #0070C0;">***Advanced Biology***</a>.
 
 #### <span style="color:#0070C0"> Applications to Medicine</span>
+1. Forty-hertz near-infrared light alleviates spatial memory impairment in Alzheimer’s disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>\#, <u>X. Zhang</u>\#, <u>X. Hu</u>\#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*, **S. Hao**\*. <a href="" style="color: #0070C0;">***Submitted***</a>. 
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*.  <a href="" style="color: #0070C0;">***Submitted***</a>. 
 1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*. <a href="" style="color: #0070C0;">***Submitted***</a>.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*. <a href="" style="color: #0070C0;">***Submitted***</a>.
