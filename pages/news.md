@@ -57,6 +57,7 @@ Here are Visitors of our group, and activities we attend.
 - Two-sample Distribution Test and Variable Screening, Hunan Normal University, Changsha, China, Dec. 2017
 
 #### Invited Talks on Conference
+- 复杂疾病预测模型的评估与优化，浙江省生物信息学学会精准医学专委会会议, 2025年1月
 - 数据驱动的重症医学研究方法, ”多脏器衰竭预警与干预技术进展“国家级继教班, 2024年12月
 - 单细胞组学数据批次效应的过矫正及影响, 第十三届全国生物信息学与系统生物学学术大会, 2024年10月
 - 单细胞组学数据批次效应的过矫正及其影响, 联川第一届华东地区空间组学与生物信息学研讨会, 2024年8月
