@@ -23,7 +23,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 <a href="/research2" style="color: #039699;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### <span style="color:#771DB3">2025</span>
-1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="" style="color: #039699;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #039699;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #039699;">Homepage for RBET</a>)
+1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="" style="color: #039699;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #771DB3;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #771DB3;">Homepage for RBET</a>)
    
 #### <span style="color:#771DB3">2024</span>
 1. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*. Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism.  <a href="https://www.sciencedirect.com/science/article/pii/S2772737824000385" style="color: #039699;">***Sustainable Horizons***</a>. 
