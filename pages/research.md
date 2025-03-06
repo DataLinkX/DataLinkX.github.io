@@ -61,7 +61,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 #### <span style="color:#771DB3">Before 2019</span>
 1. **H.Jiang** and Q.Wu\* (2018). Robust dependence measure for detecting associations in large data set. <a href="https://doi.org/10.1016/S0252-9602(17)30117-0" style="color: #039699;">***Acta Mathematica Scientia***</a>.
-1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). The Link between Magnetic-field Orientations and Star Formation Rates. <a href="https://doi.org/10.1038/s41550-017-0158" style="color: #039699;">***Nature Astronomy***</a>. (**Cover Paper**, <a href="[/resources/BSDMR.zip](https://www.cpr.cuhk.edu.hk/en/press/cuhk-physicist-and-statistician-work-together-to-reveal-link-between-magnetic-fields-and-birth-rate-of-stars/)" style="color: #771DB3;"> News </a>)
+1. H.-B. Li\*, **H.Jiang** (in charge of statistical analysis), X.Fan, Q. Gu and Y. Zhang (2017). The Link between Magnetic-field Orientations and Star Formation Rates. <a href="https://doi.org/10.1038/s41550-017-0158" style="color: #039699;">***Nature Astronomy***</a>. (**Cover Paper**, <a href="[/resources/BSDMR.zip](https://www.cpr.cuhk.edu.hk/en/press/cuhk-physicist-and-statistician-work-together-to-reveal-link-between-magnetic-fields-and-birth-rate-of-stars/)" style="color: #771DB3;"> News</a>)
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. <a href="https://doi.org/10.1016/S0252-9602(14)60031-X" style="color: #039699;">***Acta Mathematica Scientia***</a>.
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#039699">***Acta Mathematica Scientia***</span>.
 
