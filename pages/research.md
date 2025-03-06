@@ -23,7 +23,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 <a href="/research2" style="color: #039699;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### <span style="color:#771DB3">2025</span>
-1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="" style="color: #039699;">***Communications Biology***</a>. 
+1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="" style="color: #039699;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #039699;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #039699;">Homepage for RBET</a>)
 #### <span style="color:#771DB3">2024</span>
 1. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*. Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism.  <a href="https://www.sciencedirect.com/science/article/pii/S2772737824000385" style="color: #039699;">***Sustainable Horizons***</a>. 
 1. **H. Jiang**\#, <u>J. Su</u>\#, Z. Ren, D. Wang, A. Hills, R. Kinoshita, M. R. Blatt, Y. Wang\*, Y. Wang\*. Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. <a href="https://www.science.org/doi/10.1126/sciadv.adp8017" style="color: #039699;">***Science Advances***</a>. 
@@ -72,7 +72,6 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.04.12.589273v1), [Homepage for UKC](https://github.com/Ttttt47/UKBioCoin)]
-1.  Case-specific selection of batch correction methods for integrating single-cell transcriptomic data from different sources. X. Hu, ...., J. Qian\*, **H. Jiang**\*. [[Preprint](https://biorxiv.org/cgi/content/short/2024.05.26.595911v1), [R package of RBET](/resources/RBET_0.1.0.zip), [Homepage for RBET](https://github.com/zlyx26/RBET)].
 1. CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
 1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1)]
 1. Bayesian Spatial-temporal Model for Detecting Alterations in Resting-State Functional Brain Network of Heavy Smokers, J. Hu, S. Chen, Z. Ye, F. Lin\* and **H.Jiang**\*.
