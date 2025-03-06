@@ -20,7 +20,7 @@ We aim to have new scientific findings by developing statistical methods to summ
     - New Deep Learning Models
 
 ### Selected Publications 
-[**Present by Year**](/research) (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
+<a href="/research" style="color: #039699;">**Present by Year**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### <span style="color:#771DB3">Methodology on Feature Learning</span>
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="" style="color: #039699;">***Submitted***</a>. 
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. <a href="http://arxiv.org/abs/2410.11320" style="color: #039699;">***Submitted***</a>. 
