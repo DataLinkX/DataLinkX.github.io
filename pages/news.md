@@ -7,33 +7,33 @@ permalink: /news
 Here are Visitors of our group, and activities we attend.
 #### Visitors
 - 2023
-    - Dec. 12, 复旦大学 [赵兴明教授](https://iics.fudan.edu.cn/ed/80/c33358a454016/page.htm) 来访并给报告。
-    - Dec. 18, 华中科技大学 [陈卫华教授](http://faculty.hust.edu.cn/chenweihua2/zh_CN/index.htm) 来访并给报告。
+    - Dec. 12, 复旦大学 <a href="https://iics.fudan.edu.cn/ed/80/c33358a454016/page.htm" style="color: #771DB3;">赵兴明教授</a> 来访并给报告。
+    - Dec. 18, 华中科技大学 <a href="http://faculty.hust.edu.cn/chenweihua2/zh_CN/index.htm" style="color: #771DB3;">陈卫华教授</a> 来访并给报告。
 
 - 2022
     - Nov. 25, Prof. Zhana Duren from Clemson University (USA) will give us a talk via Tencent meeting.
     - Oct. 18, Prof. Jiajun Zhang from Sun Yat-sen University will give us a talk via Tencent meeting.
-    - Jun 8, [Prof. Jian Yang](https://www.westlake.edu.cn/faculty/jian-yang.html) from Westlake University will give us a talk.
-    - May 10, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, CAS, will give us a talk via Tencent meeting.
-    - Apr. 22, [Prof. Xueqing Wang](http://sds.ustc.edu.cn/2021/0723/c15528a518337/page.htm) from University of Science and Technology of China will give us a talk via Tencent meeting.
-    - Apr. 28, [Prof. Zheng Hu](https://people.ucas.ac.cn/~0066933) from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, will give us a talk via Tencent meeting.
+    - Jun 8,  <a href="https://www.westlake.edu.cn/faculty/jian-yang.html" style="color: #771DB3;"> 杨剑教授 </a> from Westlake University will give us a talk.
+    - May 10, <a href="http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm" style="color: #771DB3;"> 陈洛南教授 </a> from Shanghai Institutes for Biological Sciences, CAS, will give us a talk via Tencent meeting.
+    - Apr. 22, <a href="http://sds.ustc.edu.cn/2021/0723/c15528a518337/page.htm" style="color: #771DB3;">王学钦教授 </a> from University of Science and Technology of China will give us a talk via Tencent meeting.
+    - Apr. 28, <a href="https://people.ucas.ac.cn/~0066933" style="color: #771DB3;">胡政教授 </a> from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, will give us a talk via Tencent meeting.
 
 - 2021
-    - Oct. 27, [Prof. Rui Liu](http://www2.scut.edu.cn/math/2017/1227/c14582a242135/page.htm) from South China University of Technology will give us a talk via Tencent meeting.
-    - Oct. 27, [Prof. Xing Chen](http://xwzx.cumt.edu.cn/9c/5e/c521a433246/page.htm) from China University of Mining and Technology will give us a talk via Tencent meeting.
+    - Oct. 27, <a href="http://www2.scut.edu.cn/math/2017/1227/c14582a242135/page.htm" style="color: #771DB3;">刘锐教授 </a> from South China University of Technology will give us a talk via Tencent meeting.
+    - Oct. 27, <a href="http://xwzx.cumt.edu.cn/9c/5e/c521a433246/page.htm" style="color: #771DB3;"> 陈兴教授 </a> from China University of Mining and Technology will give us a talk via Tencent meeting.
 
-- 2020
-    - Nov. 17, [Prof. Huazhen Lin](https://stat.swufe.edu.cn/info/1046/1401.htm) from Southwestern University of Finance and Economics will give us a talk via Tencent meeting (Time: 15:00; Meeting ID:796 612 063).
+- 2020 
+    - Nov. 17, <a href="https://stat.swufe.edu.cn/info/1046/1401.htm" style="color: #771DB3;"> 林华珍教授 </a> from Southwestern University of Finance and Economics will give us a talk via Tencent meeting (Time: 15:00; Meeting ID:796 612 063).
     - Sep. 18, Prof. Ming Yuan from Columbia University will give us a talk via Tencent meeting (Time: 9:00am; Meeting ID:780 158 660).
     - Aug. 20, Prof. Heping Zhang from Yale University will give us a talk via Zoom meeting (Time: 10:00am; Meeting ID:95538174933).
-    - Jan. 03, [Prof. Xihong Lin](https://content.sph.harvard.edu/xlin/) from Havard University visited our group. 
+    - Jan. 03, <a href="https://content.sph.harvard.edu/xlin/" style="color: #771DB3;"> 林希虹教授 </a> from Havard University visited our group. 
 
 - 2019
-    - Nov. 30, [Prof. Yuanyuan Lin](http://www.sta.cuhk.edu.hk/YLin/default.aspx) from The Chinese University of Hong Kong visited our group.
-    - Nov. 11, [Prof. Tiejun Tong](http://www.math.hkbu.edu.hk/~tongt/) from Hong Kong Baptist University visited our group.
-    - Oct. 18, [Prof. Yong Wang](http://wanglab.amss.ac.cn/) from Academy of Mathematics and Systems Science, CAS, visited our group.
-    - Apr. 3, [Prof. Luonan Chen](http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm) from Shanghai Institutes for Biological Sciences, CAS, visited our group.
-    - Mar. 25, [Prof. Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) from The Chinese University of Hong Kong visited our group.
+    - Nov. 30, <a href="http://www.sta.cuhk.edu.hk/YLin/default.aspx" style="color: #771DB3;"> 林媛媛教授 </a> from The Chinese University of Hong Kong visited our group.
+    - Nov. 11, <a href="http://www.math.hkbu.edu.hk/~tongt/" style="color: #771DB3;"> 童铁军教授 </a> from Hong Kong Baptist University visited our group.
+    - Oct. 18, <a href="http://wanglab.amss.ac.cn/" style="color: #771DB3;"> 王勇教授 </a>  from Academy of Mathematics and Systems Science, CAS, visited our group.
+    - Apr. 3, <a href="http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm" style="color: #771DB3;"> 陈洛南教授 </a> from Shanghai Institutes for Biological Sciences, CAS, visited our group.
+    - Mar. 25, <a href="https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622" style="color: #771DB3;"> 林志翔教授 </a> from The Chinese University of Hong Kong visited our group.
 
 #### Invited Talks in Unviersity
 - 生物医学数据分析中的特征选择方法: 从理论到实践，中山大学数学学院, 2023.
