@@ -101,13 +101,12 @@ img {
 
 .navbar-custom {
   background: linear-gradient(to right, #6e1d6e, #2b277f);
-  border-bottom: 1px solid #5032A8;
+  border-bottom: 1px solid #6e1d6e;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-
+/* ----- text-transform: uppercase;  */
 .navbar-custom .nav li a {
-  text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 1px;
 }
 
