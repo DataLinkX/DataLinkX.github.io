@@ -100,7 +100,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #5032A8;
+  background: linear-gradient(to right, #E6E6FA, #8A2BE2);
   border-bottom: 1px solid #5032A8;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
