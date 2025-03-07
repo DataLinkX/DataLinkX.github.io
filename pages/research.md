@@ -65,7 +65,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. <a href="https://doi.org/10.1016/S0252-9602(14)60031-X" style="color: #039699;">***Acta Mathematica Scientia***</a>.
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#039699">***Acta Mathematica Scientia***</span>.
 
-#### <a href="/resources" style="color: #771DB3;">Manuscripts</a>
+#### <a href="/resources" style="color: #8b4ebc;">Manuscripts</a>
 1. Forty-hertz near-infrared light alleviates spatial memory impairment in Alzheimer’s disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>\#, <u>X. Zhang</u>\#, <u>X. Hu</u>\#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*,S. Hao\*.
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*.
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. (<a href="http://arxiv.org/abs/2410.11320" style="color: #771DB3;">Preprint</a>)
