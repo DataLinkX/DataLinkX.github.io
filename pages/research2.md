@@ -70,7 +70,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 
 #### <a href="/resources" style="color: #771DB3;">Manuscripts</a>
-1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1)]
+1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. (<a href="https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1" style="color: #771DB3;">Preprint</a>) 
 1. Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 1. A Goodness-of-Fit Test for Statistical Models, **H.Jiang**. [[Preprint](https://arxiv.org/pdf/2006.08864.pdf)]
