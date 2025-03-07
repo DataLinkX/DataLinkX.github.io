@@ -22,7 +22,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 
 <a href="/research2" style="color: #039699;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
-#### <span style="color:#771DB3">2025</span>
+#### <span style="color:#8b4ebc">2025</span>
 1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="" style="color: #039699;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #771DB3;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #771DB3;">Homepage for RBET</a>)
    
 #### <span style="color:#8b4ebc">2024</span>
