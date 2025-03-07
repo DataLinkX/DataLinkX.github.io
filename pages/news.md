@@ -78,8 +78,8 @@ Here are Visitors of our group, and activities we attend.
 - New Method for Revealing Free Energy Landscape of Proteins, The 4th Institute of Mathematical Statistics Asia Pacific Rim Meeting, Hong Kong, 2016
 
 #### Conference Organization
-- [The 11th ICSA International Conference](http://cds.zju.edu.cn/ICSA2019.aspx?k1=4&k2=79&k3=80).
-- [Hangzhou Internatinal Conference on Frontiers of Data Science](http://www.zjuyh.com/sjkx2019/rb/?sectionid=2f15c46e-f5f9-e811-941a-93c279b249f5).
+- <a href="http://cds.zju.edu.cn/ICSA2019.aspx?k1=4&k2=79&k3=80" style="color: #771DB3;">The 11th ICSA International Conference</a>
+- <a href="[http://cds.zju.edu.cn/ICSA2019.aspx?k1=4&k2=79&k3=80](http://www.zjuyh.com/sjkx2019/rb/?sectionid=2f15c46e-f5f9-e811-941a-93c279b249f5)" style="color: #771DB3;">Hangzhou Internatinal Conference on Frontiers of Data Science</a>
 
 
 
