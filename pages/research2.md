@@ -73,7 +73,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. (<a href="https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1" style="color: #771DB3;">Preprint</a>) 
 1. Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
-1. A Goodness-of-Fit Test for Statistical Models, **H.Jiang**. [[Preprint](https://arxiv.org/pdf/2006.08864.pdf)]
-1. Bayesian Variable Selection for Single Index Logistic Model, <u>Y. Sun</u> and **H.Jiang**\*. [[Preprint](https://arxiv.org/pdf/2012.06199.pdf)]
+1. A Goodness-of-Fit Test for Statistical Models, **H.Jiang**. (<a href="https://arxiv.org/pdf/2006.08864.pdf" style="color: #771DB3;">Preprint</a>)
+1. Bayesian Variable Selection for Single Index Logistic Model, <u>Y. Sun</u> and **H.Jiang**\*. (<a href="https://arxiv.org/pdf/2012.06199.pdf" style="color: #771DB3;">Preprint</a>) 
+1. Equitablity of Dependence Measure, **H.Jiang**, K.Liu and Y.Ding (2013). (<a href="https://arxiv.org/pdf/1501.02102.pdf" style="color: #771DB3;">Preprint</a>)
 1. Parameter Estimation in Noisy Dynamical System, **H.Jiang**, and  D.H., He
-1. Equitablity of Dependence Measure, **H.Jiang**, K.Liu and Y.Ding (2013). [[Preprint](https://arxiv.org/pdf/1501.02102.pdf)]
