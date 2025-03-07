@@ -18,12 +18,12 @@ We are looking for students who have a strong insterest in interdiscipline resea
 
 ### Graduates
   - Quota (each year): 
-      - **one** PhD from [School of Mathematical Sciences](http://www.math.zju.edu.cn/)
-      - Masters from [the Project of Data Science](http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776) at Haining international campus of Zhejiang University.
+      - **one** PhD from <a href="http://www.math.zju.edu.cn/" style="color: #771DB3;">School of Mathematical Sciences</a>
+      - Masters from <a href="http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776" style="color: #771DB3;">the Project of Data Science</a> at Haining international campus of Zhejiang University.
   - More Information
-      - Introduction to [Center for Data Science](http://cds.zju.edu.cn/)
-      - PhD in Mathematics/Statistics at [School of Mathematical Sciences](http://www.math.zju.edu.cn/38087/list.htm)
-      - Master in Data Science at [Haining international campus of Zhejiang University](http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776).
+      - Introduction to <a href="http://cds.zju.edu.cn/" style="color: #771DB3;">Center for Data Science</a>
+      - PhD in Mathematics/Statistics at  <a href="http://www.math.zju.edu.cn/38087/list.htm" style="color: #771DB3;">School of Mathematical Sciences</a> 
+      - Master in Data Science at <a href="http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776" style="color: #771DB3;">Haining international campus of Zhejiang University</a>.
   - Additional opportunities
       - Visiting oversea universities
       - Collaboration with experts from different areas
