@@ -100,8 +100,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: linear-gradient(to right, #6e1d6e, #2b277f);
-  border-bottom: 1px solid #6e1d6e;
+  background: linear-gradient(to right, #8b4ebc, #41378b);
+  border-bottom: 1px solid #8b4ebc;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 /* ----- text-transform: uppercase;  */
