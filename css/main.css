@@ -97,11 +97,11 @@ img {
   }
 }
 
-/* --- Navbar --- */
+/* --- Navbar --- linear-gradient(to right, #8b4ebc, #41378b) */
 
 .navbar-custom {
-  background: linear-gradient(to right, #8b4ebc, #41378b);
-  border-bottom: 1px solid #8b4ebc;
+  background: #950910;
+  border-bottom: 1px solid #950910;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 /* ----- text-transform: uppercase;  */
