@@ -21,12 +21,12 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Selected Publications 
 
-<a href="/research2" style="color: #0085a1;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
+<a href="/research2" style="color: #039699;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2025
-1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="" style="color: #0085a1;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #771DB3;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #771DB3;">Homepage for RBET</a>)
+1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="" style="color: #039699;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #771DB3;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #771DB3;">Homepage for RBET</a>)
    
 #### 2024
-1. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*. Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism.  <a href="https://www.sciencedirect.com/science/article/pii/S2772737824000385" style="color: #0085a1;">***Sustainable Horizons***</a>. 
+1. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\*. Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism.  <a href="https://www.sciencedirect.com/science/article/pii/S2772737824000385" style="color: #039699;">***Sustainable Horizons***</a>. 
 1. **H. Jiang**\#, <u>J. Su</u>\#, Z. Ren, D. Wang, A. Hills, R. Kinoshita, M. R. Blatt, Y. Wang\*, Y. Wang\*. Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. <a href="https://www.science.org/doi/10.1126/sciadv.adp8017" style="color: #039699;">***Science Advances***</a>. 
 1. <u>Mengting Shao</u>\#, <u>Min Tian</u>\#, <u>Kaiyang Chen</u>\#, **H.Jiang**\#,...., Chen Cao\*, Ning Gu\*. Leveraging Random Effects in Cistrome-Wide Association Studies for Decoding the Genetic Determinants of Prostate Cancer. <a href="http://doi.org/10.1002/advs.202400815" style="color: #039699;">***Advanced Science***</a>.
 1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\*. Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757" style="color: #039699;">***New Phytologist***</a>. <a href="http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm" style="color: #771DB3;"> (News)</a> 
