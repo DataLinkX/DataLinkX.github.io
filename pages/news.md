@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/bd0fcc89-7e08-4477-af4a-cff4f4c963b5)---
 layout: default
 title: News
 permalink: /news
@@ -36,11 +36,13 @@ Here are Visitors of our group, and activities we attend.
     - Mar. 25, <a href="https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622" style="color: #771DB3;"> 林志翔教授 </a> from The Chinese University of Hong Kong visited our group.
 
 #### Invited Talks in Unviersity
-- 生物医学数据分析中的特征选择方法: 从理论到实践，中山大学数学学院, 2023.
-- 生物医学数据分析中的特征选择方法: 从理论到实践，广州大学数学学院, 2023.
-- 生物医学数据分析中的特征选择方法: 从理论到实践，华中科技大学生科院, 2023.
-- 生物医学数据分析中的特征选择方法: 从理论到实践，武汉科技大学理学院, 2023.
-- 生物医学数据分析中的特征选择方法: 从理论到实践，浙二医院ICU, 2023.
+- 高维双样本分布检验及其应用, 上海对外经贸大学统计与信息学院, 2024.
+- 复杂表型的特征学习: 从生物大数据到生命科学, 上海对外经贸大学统计与信息学院, 2024.
+- 生物医学数据分析中的特征选择方法: 从理论到实践, 中山大学数学学院, 2023.
+- 生物医学数据分析中的特征选择方法: 从理论到实践, 广州大学数学学院, 2023.
+- 生物医学数据分析中的特征选择方法: 从理论到实践, 华中科技大学生科院, 2023.
+- 生物医学数据分析中的特征选择方法: 从理论到实践, 武汉科技大学理学院, 2023.
+- 生物医学数据分析中的特征选择方法: 从理论到实践, 浙二医院ICU, 2023.
 - An introduction to data science, School of Life Science, Hangzhou Normal University, 2022.
 - An introduction to data science, School of Management, ZJU, 2022.
 - Statistical analysis for Biomedical data, School of Management, ZJU, 2021.
