@@ -21,7 +21,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 
 ### Selected Publications 
 <a href="/research" style="color: #039699;">**Present by Year**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
-#### <span style="color:#000000">Methodology for Omics Data</span>
+#### Methodology for Omics Data
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="" style="color: #039699;">***Submitted***</a>. 
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. <a href="http://arxiv.org/abs/2410.11320" style="color: #039699;">***Submitted***</a>. 
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. <a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color:#039699;">***Submitted***</a>. (<a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
@@ -43,7 +43,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <a href="" style="color: #039699;">***Acta Mathematica Scientia***</a>.  
 1. Q.Tan, **H.Jiang**\* and Y.Ding (2014). Model Selection Based on Maximal Information Coefficient of Residuals. <a href="https://doi.org/10.1016/S0252-9602(14)60031-X" style="color: #039699;">***Acta Mathematica Scientia***</a>.
 
-#### <span style="color:#000000"> Applications to Plants</span>
+#### Applications to Plants
 1. **H. Jiang**\#, <u>J. Su</u>\#, Z. Ren, D. Wang, A. Hills, R. Kinoshita, M. R. Blatt, Y. Wang\*, Y. Wang\* (2024). Dual function of overexpressing plasma membrane H+-ATPase in balancing carbon-water use. <a href="https://www.science.org/doi/10.1126/sciadv.adp8017" style="color: #039699;">***Science Advances***</a>. 
 1. <u>M. Rui</u>, ....,Z. Chen, D. Tissue, **H.Jiang**\*, Y. Wang\* (2024). Guard Cell and Subsidiary Cell Sizes are Key Determinants for Stomatal Kinetics and Drought Adaptation in Cereal Crops. <a href="https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757" style="color:#039699;">***New Phytologist***</a>. <a href="http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm" style="color: #771DB3;"> (News)</a>
 1. Q. Den, **H. Jiang**, J. Hu, R. Pan (2024). Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein sequence datasets followed by experimental validation. <a href="https://doi.org/10.1007/978-1-0716-3802-6" style="color: #039699;">***Photorespiration: Methods and Protocols***</a>. (**BookChapter**)
@@ -54,7 +54,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. <u>Q. Deng</u>\#, <u> H. Li</u>\#, Y. Feng\#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H.Jiang**\*, R. Pan\* (2022). Defining upstream enhancing and inhibiting sequence patterns for plant Peroxisome Targeting Signal type 1 using large-scale in silico and in vivo analyses. <a href="https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840" style="color: #039699;">***The Plant Journal***</a>. (<a href="http://www.cab.zju.edu.cn/chinese/2022/0705/c11148a2601415/page.htm" style="color: #771DB3;">News</a>)
 1. <u>M. Rui</u>, Y. Jing, **H. Jiang**\*, Y. Wang\* (2022). Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. <a href="https://onlinelibrary.wiley.com/doi/10.1002/adbi.202200131" style="color: #039699;">***Advanced Biology***</a>.
 
-#### <span style="color:#000000"> Applications to Medicine</span>
+#### Applications to Medicine
 1. Forty-hertz near-infrared light alleviates spatial memory impairment in Alzheimer’s disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>\#, <u>X. Zhang</u>\#, <u>X. Hu</u>\#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*, S. Hao\*. <a href="" style="color: #039699;">***Submitted***</a>. 
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*.  <a href="" style="color: #039699;">***Submitted***</a>. 
 1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*. <a href="" style="color: #039699;">***Submitted***</a>.
@@ -62,7 +62,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. Q. Ye\#, <u>Y. Li</u>\#,  H. Liu\#, J. Mao\*, **H.Jiang**\* (2023). Machine learning models for predicting steroid⁃resistant nephrotic syndrome. <a href="https://www.frontiersin.org/articles/10.3389/fimmu.2023.1090241/full" style="color: #039699;">***Frontiers in Immunology***</a>. <a href="https://datalinkx.shinyapps.io/srns/" style="color: #771DB3;"> (Webtool)</a> 
 1. H. Lei\#, **H. Jiang**\#, N. Zhang, T. Chen, L. Yang, D. Wang and Y. Shu\* (2021). Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. <a href="https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7" style="color: #039699;">***Infectious Diseases of Poverty***</a>. <a href="https://nihds.zju.edu.cn/2022/0426/c66553a2524226/page.htm" style="color: #771DB3;"> (News) </a>
    
-#### <span style="color:#000000"> Applications to other areas</span>
+#### Applications to other areas
 1. Jiwei Chen, Cheng Qian, Yuexuan Shu, Kourosh Salehi-Ashtiani, Jin Shang, **H. Jiang**\*, Weiqi Fu\* (2024). Bioinspired cell silicification of the model diatom Phaeodactylum tricornutum and its effects on cell metabolism.  <a href="https://www.sciencedirect.com/science/article/pii/S2772737824000385" style="color: #039699;">***Sustainable Horizons***</a>. 
 1. J. Chen, Y. Huang, Y. Shu, X. Hu, D. Wu, **H. Jiang**, K. Wang, W. Liu and W. Fu\* (2022). Recent progress on systems and synthetic biology of diatoms for improving algal productivity. <a href="https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2022.908804/full" style="color: #039699;">***Frontiers in Bioengineering and Biotechnology***</a>.
 1. **H.Jiang**, H.-b. Li\* and X.Fan\* (2020). Bayesian Revisit of the Relationship between the Total Field Strength and the Volume Density of Interstellar Clouds. <a href="https://doi.org/10.3847/1538-4357/ab672b" style="color: #039699;">***The Astrophysical Journal***</a>.
