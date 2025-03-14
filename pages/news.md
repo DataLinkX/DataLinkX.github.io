@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/bd0fcc89-7e08-4477-af4a-cff4f4c963b5)---
 layout: default
 title: News
 permalink: /news
