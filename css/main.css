@@ -67,12 +67,12 @@ hr.small {
 ::-moz-selection {
   color: black;
   text-shadow: none;
-  background: #ECDDDA;
+  background: #CE93D8;
 }
 ::selection {
   color: black;
   text-shadow: none;
-  background: #ECDDDA;
+  background: #CE93D8;
 }
 img::selection {
   color: white;
