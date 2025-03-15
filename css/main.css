@@ -65,14 +65,14 @@ hr.small {
 }
 /* --- 0085a1 */
 ::-moz-selection {
-  color: white;
+  color: black;
   text-shadow: none;
-  background: #c679ec;
+  background: #84d8ff;
 }
 ::selection {
-  color: white;
+  color: black;
   text-shadow: none;
-  background: #c679ec;
+  background: #84d8ff;
 }
 img::selection {
   color: white;
