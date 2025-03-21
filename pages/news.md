@@ -34,7 +34,7 @@ Here are Visitors of our group, and activities we attend.
     - Oct. 18, <a href="http://wanglab.amss.ac.cn/" style="color: #771DB3;"> 王勇教授 </a>  from Academy of Mathematics and Systems Science, CAS, visited our group.
     - Apr. 3, <a href="http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm" style="color: #771DB3;"> 陈洛南教授 </a> from Shanghai Institutes for Biological Sciences, CAS, visited our group.
     - Mar. 25, <a href="https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622" style="color: #771DB3;"> 林志翔教授 </a> from The Chinese University of Hong Kong visited our group.
-
+  
 #### Invited Talks in Unviersity
 - 高维双样本分布检验及其应用, 上海对外经贸大学统计与信息学院, 2025年3月.
 - 复杂表型的特征学习: 从生物大数据到生命科学, 上海对外经贸大学统计与信息学院, 2025年2月.
