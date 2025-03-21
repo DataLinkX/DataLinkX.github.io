@@ -36,8 +36,8 @@ Here are Visitors of our group, and activities we attend.
     - Mar. 25, <a href="https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622" style="color: #771DB3;"> 林志翔教授 </a> from The Chinese University of Hong Kong visited our group.
 
 #### Invited Talks in Unviersity
-- 高维双样本分布检验及其应用, 上海对外经贸大学统计与信息学院, 2024.
-- 复杂表型的特征学习: 从生物大数据到生命科学, 上海对外经贸大学统计与信息学院, 2024.
+- 高维双样本分布检验及其应用, 上海对外经贸大学统计与信息学院, 2025年3月.
+- 复杂表型的特征学习: 从生物大数据到生命科学, 上海对外经贸大学统计与信息学院, 2025年2月.
 - 生物医学数据分析中的特征选择方法: 从理论到实践, 中山大学数学学院, 2023.
 - 生物医学数据分析中的特征选择方法: 从理论到实践, 广州大学数学学院, 2023.
 - 生物医学数据分析中的特征选择方法: 从理论到实践, 华中科技大学生科院, 2023.
@@ -59,7 +59,8 @@ Here are Visitors of our group, and activities we attend.
 - Two-sample Distribution Test and Variable Screening, Hunan Normal University, Changsha, China, Dec. 2017
 
 #### Invited Talks on Conference
-- 复杂疾病预测模型的评估与优化，浙江省生物信息学学会精准医学专委会会议, 2025年1月
+- 可解释机器学习算法及应用, 第九届华中-华东地区生物信息学研讨会, 2025年3月
+- 复杂疾病预测模型的评估与优化, 浙江省生物信息学学会精准医学专委会会议, 2025年1月
 - 数据驱动的重症医学研究方法, ”多脏器衰竭预警与干预技术进展“国家级继教班, 2024年12月
 - 单细胞组学数据批次效应的过矫正及影响, 第十三届全国生物信息学与系统生物学学术大会, 2024年10月
 - 单细胞组学数据批次效应的过矫正及其影响, 联川第一届华东地区空间组学与生物信息学研讨会, 2024年8月
@@ -79,6 +80,11 @@ Here are Visitors of our group, and activities we attend.
 - Exploring the Free Energy Landscape of Proteins, The 1<sup>st</sup> Workshop on Quantitative Biology: Model Inference, XiaMen University, Xiamen, China, May. 2018.
 - New Method for Revealing Free Energy Landscape of Proteins, The 4th Institute of Mathematical Statistics Asia Pacific Rim Meeting, Hong Kong, 2016
 
+#### Invited Talks about Teaching
+- 生物信息学课程体系下的统计学教学思考, 教育部生物科学“101计划”生物信息学课程骨干教师研修班, 2025年4月
+- 生物统计, 教育部生物科学“101计划”生物信息学课程师资培训第二期, 2024年8月
+- 生物统计, 教育部生物科学“101计划”生物信息学课程师资培训第一期, 2024年6月
+  
 #### Conference Organization
 - <a href="http://cds.zju.edu.cn/ICSA2019.aspx?k1=4&k2=79&k3=80" style="color: #771DB3;">The 11th ICSA International Conference</a>
 - <a href="http://www.zjuyh.com/sjkx2019/rb/?sectionid=2f15c46e-f5f9-e811-941a-93c279b249f5" style="color: #771DB3;">Hangzhou Internatinal Conference on Frontiers of Data Science</a>
