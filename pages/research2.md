@@ -22,7 +22,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 <a href="/research" style="color: #0c8599;">**Present by Year**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### Methodology for Omics Data
-1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="" style="color: #0c8599;">***Submitted***</a>. 
+1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="https://doi.org/10.1038/s42003-025-07947-7" style="color: #0c8599;">***Submitted***</a>. 
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. <a href="http://arxiv.org/abs/2410.11320" style="color: #0c8599;">***Submitted***</a>. 
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. <a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color:#0c8599;">***Submitted***</a>. (<a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
 1. CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*. <a href="" style="color:#0c8599;">***Submitted***</a>. 
