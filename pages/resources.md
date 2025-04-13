@@ -11,6 +11,7 @@ permalink: /resources/
 - [Basics for Bioinformatics](/bioinfo)
 - [Research Notes](/Renotes)
 - [Useful Datasets](/datasets)
+- [Tips for Students](/resources/Tips.pdf)
 - eBooks: [Electronic library](http://libgen.rs/), [Springer Link](http://link.springer.com/?)
 
 ### Important Tips
