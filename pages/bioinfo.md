@@ -5,7 +5,7 @@ subtitle: Bioinfo in Jiang Lab
 permalink: /bioinfo/
 ---
 
-## Basics for Bioinformatics [（Notes on bioinformatics）](/resources/bioinformatics.pdf)
+### Basics for Bioinformatics [（Notes on bioinformatics）](/resources/bioinformatics.pdf)
 ### Main Directions
 - Statistical modeling for validating the biological conjecture (e.g. the meachnism from SNP to Phenotype)
 - Predict biological variables (e.g., enhancer, promoter) that are hard to observe directly 
