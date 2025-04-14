@@ -13,6 +13,7 @@ permalink: /bioinfo/
 - Find biomarkers for Diease, Cancer, or other Phenotypes
 
 ### Some Concepts ([More](https://zhuanlan.zhihu.com/p/262198184)):
+- [Notes on bioinformatics](/resources/bioinformatics.pdf)
 - **表观遗传学**: 是指基于非基因序列改变所致基因表达水平的变化，例如：DNA甲基化、组蛋白修饰、染色体重塑和非编码RNA调控等等，主要是通过对基因转录或翻译过程的调控，影响其功能和特性。
 - **染色质**：是由DNA缠绕着核小体构成。
 - **核小体**：核小体是由H3、H4、H2A和H2B四种组蛋白构成的八聚物，每个核小体上大约含有146bp的DNA。染色质分为常染色质和异染色质，在结构上常染色质折叠压缩程度低，处于伸展状态。
