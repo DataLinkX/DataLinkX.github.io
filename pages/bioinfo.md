@@ -5,15 +5,16 @@ subtitle: Bioinfo in Jiang Lab
 permalink: /bioinfo/
 ---
 
-### Basics for Bioinformatics 
+#### Basics for Bioinformatics 
 - [Notes on bioinformatics](/resources/bioinformatics.pdf)
-### Main Directions
+
+#### Main Directions
 - Statistical modeling for validating the biological conjecture (e.g. the meachnism from SNP to Phenotype)
 - Predict biological variables (e.g., enhancer, promoter) that are hard to observe directly 
 - Bological Inference on biological data, e.g., estimate the true methylation state, the true expression level etc.
 - Find biomarkers for Diease, Cancer, or other Phenotypes
 
-### Some Concepts ([More](https://zhuanlan.zhihu.com/p/262198184)):
+#### Some Concepts ([More](https://zhuanlan.zhihu.com/p/262198184)):
 - **表观遗传学**: 是指基于非基因序列改变所致基因表达水平的变化，例如：DNA甲基化、组蛋白修饰、染色体重塑和非编码RNA调控等等，主要是通过对基因转录或翻译过程的调控，影响其功能和特性。
 - **染色质**：是由DNA缠绕着核小体构成。
 - **核小体**：核小体是由H3、H4、H2A和H2B四种组蛋白构成的八聚物，每个核小体上大约含有146bp的DNA。染色质分为常染色质和异染色质，在结构上常染色质折叠压缩程度低，处于伸展状态。
@@ -21,7 +22,7 @@ permalink: /bioinfo/
 - **染色质可进入性**：染色质一旦被打开，就允许一些调控蛋白，比如转录因子和辅因子与之相结合，染色质的这种特性叫做染色质的可进入性也叫可及性。
 - **基因富集分析**(<font color=blue>GSEA</font>)：(1)GO分析: 主要从分子功能(Molecular Function, MF), 细胞组分(Cellular Component, CC)和生物过程(Biological Process, BP)三个角度对基因集合进行分析; (2) KEGG 通路分析: 主要从代谢物调控网络的角度分析；
 
-### [Application of NGS](https://zhuanlan.zhihu.com/p/289427789)
+#### [Application of NGS](https://zhuanlan.zhihu.com/p/289427789)
 - [全基因组测序与覆盖深度](https://zhuanlan.zhihu.com/p/128738355)
     - Coverage ratio (覆盖比率，亦简称覆盖率，亦称基因组覆盖率): 指被测序到的碱基占全基因组大小的比率。
     - Coverage depth (覆盖深度，亦称测序深度，或者碱基平均测序深度):指每个碱基被测序的平均次数。即测序的数据总量比基因组大小: 测序所得的碱基总数(raw data or clean data)/基因组大小
@@ -53,7 +54,7 @@ permalink: /bioinfo/
     - Understand GWAS ([Step1](https://zhuanlan.zhihu.com/p/105699734), [Step2](https://zhuanlan.zhihu.com/p/106103885) and [Step3](https://zhuanlan.zhihu.com/p/268713767))
 - **基因组变异分析** (<font color=blue>CNV and SNV</font>)
 
-### Regulatory Elements
+#### Regulatory Elements
 - **启动子 Promoter**: 与RNA聚合酶结合并能起始mRNA合成的序列。一般选择CDS区上游2k bp, 下游100bp.
     - Example: [Predicting TFBS for a Given TF on Promoter](https://zhuanlan.zhihu.com/p/73237158)
 - **如何寻找Enhancer** (Data Sets: EnhancerAtlas (人), VISTA Enhancer Browser (人和鼠), HACER(人))
@@ -69,7 +70,7 @@ permalink: /bioinfo/
     - Datasets: [JASPAR](http://jaspar.genereg.net/), [More](https://zhuanlan.zhihu.com/p/343884679)
     - Example: [Predicting TFs from Promoter Squence](https://zhuanlan.zhihu.com/p/65606384) 
     
-### Someting about Bioconductor
+#### Someting about Bioconductor
 - [Bioconductor Homepage](https://www.bioconductor.org/)
 - [Genomic annotation in Bioconductor](http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html): [Summay](http://genomicsclass.github.io/book/pages/bioc1_annoCheat.html)
 - Get data from GEO using R 
