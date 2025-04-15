@@ -14,7 +14,7 @@ Here are Visitors of our group, and activities we attend.
     - Nov. 25, Prof. Zhana Duren from Clemson University (USA) will give us a talk via Tencent meeting.
     - Oct. 18, Prof. Jiajun Zhang from Sun Yat-sen University will give us a talk via Tencent meeting.
     - Jun 8,  <a href="https://www.westlake.edu.cn/faculty/jian-yang.html" style="color: #771DB3;"> 杨剑教授 </a> from Westlake University will give us a talk.
-    - May 10, <a href="http://sysbio.sibcb.ac.cn/cb/chenlab/LuonanChen.htm" style="color: #771DB3;"> 陈洛南教授 </a> from Shanghai Institutes for Biological Sciences, CAS, will give us a talk via Tencent meeting.
+    - May 10, <a href="http://sysbio.sibcb.ac.cn/sysbio/cb/chenlab/LuonanChen.htm" style="color: #771DB3;"> 陈洛南教授 </a> from Shanghai Institutes for Biological Sciences, CAS, will give us a talk via Tencent meeting.
     - Apr. 22, <a href="http://sds.ustc.edu.cn/2021/0723/c15528a518337/page.htm" style="color: #771DB3;">王学钦教授 </a> from University of Science and Technology of China will give us a talk via Tencent meeting.
     - Apr. 28, <a href="https://people.ucas.ac.cn/~0066933" style="color: #771DB3;">胡政教授 </a> from Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, will give us a talk via Tencent meeting.
 
