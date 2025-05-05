@@ -22,7 +22,7 @@ We aim to have new scientific findings by developing statistical methods to summ
 ### Selected Publications 
 <a href="/research" style="color: #0c8599;">**Present by Year**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### Methodology for Omics Data
-1. Structured e-value filter for setwise inference with applications to brain imaging studies.
+1. Structured e-value filter for setwise inference with applications to brain imaging studies. J. He, W. Sun\*, **H. Jiang**\*.
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*. <a href="" style="color: #0c8599;">***Submitted***</a>. 
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="" style="color: #0c8599;">***Submitted***</a>. 
 1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. <a href="http://arxiv.org/abs/2410.11320" style="color: #0c8599;">***Submitted***</a>. 
@@ -57,8 +57,8 @@ We aim to have new scientific findings by developing statistical methods to summ
 1. <u>M. Rui</u>, Y. Jing, **H. Jiang**\*, Y. Wang\* (2022). Quantitative System Modelling Bridges the Gap between Macro- and Microscopic Stomatal Model. <a href="https://onlinelibrary.wiley.com/doi/10.1002/adbi.202200131" style="color: #0c8599;">***Advanced Biology***</a>.
 
 #### Applications to Medicine
-1. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis. <a href="" style="color: #0c8599;">***Submitted***</a>. 
-1. The Dynamics of Tissue-Resident Microbiota During the Development of Colorectal Cancer. <a href="" style="color: #0c8599;">***Submitted***</a>. 
+1. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. <a href="" style="color: #0c8599;">***Submitted***</a>. 
+1. The Dynamics of Tissue-Resident Microbiota During the Development of Colorectal Cancer. <u>H. Xiang\#</u>,<u> B. Shen\#</u>, W. Lao, B. Bai, M. Chen, H. Chen\*, Y. Wang\*,  **H. Jiang**\*, Z. Song\*. <a href="" style="color: #0c8599;">***Submitted***</a>. 
 1. Forty-hertz near-infrared light alleviates spatial memory impairment in Alzheimer’s disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>\#, <u>X. Zhang</u>\#, <u>X. Hu</u>\#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*, S. Hao\*. <a href="" style="color: #0c8599;">***Submitted***</a>. 
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*.  <a href="" style="color: #0c8599;">***Submitted***</a>. 
 1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*. <a href="" style="color: #0c8599;">***Submitted***</a>.
