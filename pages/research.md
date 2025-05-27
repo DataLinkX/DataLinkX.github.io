@@ -16,6 +16,7 @@ We aim to have new scientific findings by developing machine learning and statis
     - Bayesian Modeling (MCMC)
     - Multimodal data modeling
     - Feature Selection
+    - Time series modeling
 - Deep/Machine Learning
     - Explainable AI
     - Biologically informed AI
