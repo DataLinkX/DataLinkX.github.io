@@ -8,18 +8,18 @@ We aim to have new scientific findings by developing machine learning and statis
 
 ### Research Interests 
 - Computational Biology
+    - multiomics data anlaysis
     - personalized medicine (drug design and Target discovery)
-    - genetic breeding (crossTalk between Crop and Environment)
-    - Context-aware mechanisms of complex phenotypes
-    - Statistical Genetics (Methods for Biobank data analysis)
+    - crossTalk between the host (human, plant) and Environment (microbes, nutrition, light, temperature etc.)
 - Statistical Methodology
     - Bayesian Modeling (MCMC)
-    - Multimodal data modeling
     - Feature Selection
     - Time series modeling
+    - Statistical Genetics (Methods for Biobank data)
 - Deep/Machine Learning
     - Explainable AI
     - Biologically informed AI
+    - AI for multimodal data
 
 ### Selected Publications 
 
