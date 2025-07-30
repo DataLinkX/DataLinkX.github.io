@@ -25,7 +25,7 @@ We aim to have new scientific findings by developing machine learning and statis
 
 <a href="/research2" style="color: #0c8599;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2025
-1. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. Regularized estimation of Matrix-variate autoregressive models. <a href="https://doi.org/10.1038/s42003-025-07947-7" style="color: #0c8599;">***Statistica Sinica***</a> (<a href="http://arxiv.org/abs/2410.11320" style="color: #771DB3;">Preprint</a>), *In press*.
+1. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. Regularized estimation of Matrix-variate autoregressive models. <a href="https://doi.org/10.1038/s42003-025-07947-7" style="color: #0c8599;">***Statistica Sinica***</a>. (<a href="http://arxiv.org/abs/2410.11320" style="color: #771DB3;">Preprint</a>), *In press*.
 1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="https://doi.org/10.1038/s42003-025-07947-7" style="color: #0c8599;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #771DB3;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #771DB3;">Homepage for RBET</a>)
    
 #### 2024
