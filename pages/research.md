@@ -25,6 +25,7 @@ We aim to have new scientific findings by developing machine learning and statis
 
 <a href="/research2" style="color: #0c8599;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2025
+1. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. Regularized estimation of Matrix-variate autoregressive models. <a href="https://doi.org/10.1038/s42003-025-07947-7" style="color: #0c8599;">***Statistica Sinica***</a>. (<a href="http://arxiv.org/abs/2410.11320" style="color: #771DB3;">Preprint</a>)
 1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="https://doi.org/10.1038/s42003-025-07947-7" style="color: #0c8599;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #771DB3;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #771DB3;">Homepage for RBET</a>)
    
 #### 2024
@@ -75,7 +76,6 @@ We aim to have new scientific findings by developing machine learning and statis
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*.
 1. Forty-hertz near-infrared light alleviates spatial memory impairment in Alzheimer’s disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>\#, <u>X. Zhang</u>\#, <u>X. Hu</u>\#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*,S. Hao\*.
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*.
-1. Regularized estimation of Matrix-variate autoregressive models. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. (<a href="http://arxiv.org/abs/2410.11320" style="color: #771DB3;">Preprint</a>)
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*. 
 1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
