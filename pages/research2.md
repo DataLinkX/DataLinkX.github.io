@@ -25,7 +25,7 @@ We aim to have new scientific findings by developing machine learning and statis
 <a href="/research" style="color: #0c8599;">**Present by Year**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### Methodology for Omics Data
 1. Distributed Factor Modeling of High-Dimensional Matrix-Variate Time Series Data. **H. Jiang**, Y. Li, Z. Gao\*.
-1. Structured e-value filter for setwise inference with applications to brain imaging studies. 
+1. Structured e-value filter for setwise inference with applications to brain imaging studies. J. He, W. Sun, **H. Jiang**\*.  <a href="" style="color: #0c8599;">***Submitted***</a>. 
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*. <a href="" style="color: #0c8599;">***Submitted***</a>. 
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. <a href="" style="color: #0c8599;">***Submitted***</a>.  
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. <a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color:#0c8599;">***Submitted***</a>. (<a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
