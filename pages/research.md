@@ -25,6 +25,7 @@ We aim to have new scientific findings by developing machine learning and statis
 
 <a href="/research2" style="color: #0c8599;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2025
+1.  <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <a href="http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0341_na.pdf" style="color: #0c8599;">***Science Bulletin***</a> (Minor Revision). 
 1. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. Regularized estimation of Matrix-variate autoregressive models. <a href="http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0341_na.pdf" style="color: #0c8599;">***Statistica Sinica***</a>. 
 1. <u>X. Hu</u>\#, <u>H. Li</u>\#, M. Chen, J. Qian\*,  **H. Jiang**\*. Reference-informed evaluation of batch correction for single-cell omics data with overcorrection awareness. <a href="https://doi.org/10.1038/s42003-025-07947-7" style="color: #0c8599;">***Communications Biology***</a>. (<a href="/resources/RBET_0.1.0.zip" style="color: #771DB3;">R package of RBET</a>, <a href="https://github.com/zlyx26/RBET" style="color: #771DB3;">Homepage for RBET</a>)
    
@@ -77,7 +78,6 @@ We aim to have new scientific findings by developing machine learning and statis
 1. Forty-hertz near-infrared light alleviates spatial memory impairment in Alzheimer’s disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>\#, <u>X. Zhang</u>\#, <u>X. Hu</u>\#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*,S. Hao\*.
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*.
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*. 
-1. Liquid-liquid phase separation-mediated regulation for the A-factor responsive quorum-sensing pathway in Streptomyces. <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*.
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. (<a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color: #771DB3;">Preprint</a>, <a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
 1. CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
