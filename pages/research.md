@@ -22,8 +22,7 @@ We aim to have new scientific findings by developing machine learning and statis
     - AI for multimodal data
 
 ### Selected Publications 
-
-<a href="/research2" style="color: #0c8599;">**Present by Topics**</a> (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
+(\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2025
 1.  <u>B. Ma</u>\#, <u>X. Hu</u>\#, <u>C. Sun</u>\#, ...,  **H. Jiang**\*, Q. Zhao\*, X. Mao\*. A pleiotropic regulator AtrA undergoes liquid-liquid phase separation in reulating quorum sensing. <a href="https://www.sciencedirect.com/science/article/pii/S2095927325009260" style="color: #0c8599;">***Science Bulletin***</a>. 
 1. **H. Jiang**, B. Shen, Y. Li, Z. Gao\*. Regularized estimation of Matrix-variate autoregressive models. <a href="http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0341_na.pdf" style="color: #0c8599;">***Statistica Sinica***</a>. 
