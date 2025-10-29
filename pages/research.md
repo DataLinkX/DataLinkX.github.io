@@ -69,7 +69,7 @@ We aim to have new scientific findings by developing machine learning and statis
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0c8599">***Acta Mathematica Scientia***</span>.
 
 #### <a href="/resources" style="color: #000000;">Manuscripts</a>
-1. Discovery of Rice Peroxisomal Proteins with Deep Learning.
+1. Discovery of Rice Peroxisomal Proteins with Deep Learning. Q. Deng, Y. Feng,...., **H. Jiang**\*, R. Pan\*.
 1. Interpretable deep neural network for identifying biomarkers to phenotype. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*.
 1. Distributed Factor Modeling of High-Dimensional Matrix-Variate Time Series Data. **H. Jiang**, Y. Li, Z. Gao\*.
 1. Structured e-value filter for setwise inference with applications to brain imaging studies. J. He, **H. Jiang**\*, W. Sun (alphabetical order).
