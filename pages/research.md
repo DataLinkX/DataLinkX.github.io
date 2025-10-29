@@ -69,6 +69,7 @@ We aim to have new scientific findings by developing machine learning and statis
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0c8599">***Acta Mathematica Scientia***</span>.
 
 #### <a href="/resources" style="color: #000000;">Manuscripts</a>
+1. Interpretable deep neural network for identifying biomarkers to phenotype. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*.
 1. Distributed Factor Modeling of High-Dimensional Matrix-Variate Time Series Data. **H. Jiang**, Y. Li, Z. Gao\*.
 1. Structured e-value filter for setwise inference with applications to brain imaging studies. J. He, **H. Jiang**\*, W. Sun (alphabetical order).
 1. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*.
