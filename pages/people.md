@@ -16,13 +16,13 @@ Here are (current and past) members in DataLinkX group. We acknowledege their co
 ### Master Students
 - Qiuyue Jiang (Master in Data Science, 2023.9 - Present)
 - Yuyang Wang (Master in Data Science, 2023.9 - Present)
-- Yuhao Ma (Master in Statistics at ZJSU, 2024.3 - )
-- He Li (Master in Data Science, 2020.9 - 2023.9)
-   
+  
 ### Past Members
 - Research Assistant
     - Jiaxuan Qiao (Major in Statistics, 2022.9 - 2023.9)
 - Graduates
+    - Yuhao Ma (Master in Statistics at ZJSU, 2024.3 - 2025.10)
+    - He Li (Master in Data Science, 2020.9 - 2023.9)
     - Xiaoru Wu (Master in Statistics, 2022.6 - 2022.8)
     - Yibo Wang (PhD in bioinformatics, 2022 - 2023)
     - Ge Su (PhD in Computer Science, 2022 - 2024) joint with <a href="https://mypage.zju.edu.cn/0001038" style="color: #771DB3;">尹建伟教授</a>
