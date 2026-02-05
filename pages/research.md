@@ -83,9 +83,7 @@ We aim to have new scientific findings by developing machine learning and statis
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*. 
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. (<a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color: #771DB3;">Preprint</a>, <a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
-1. CS-GAN: Commonality-Specificity Attention GAN for Weakly Supervised Medical Lesion Segmentation. G. Su, X. Zhao, J. Yin\*, **H. Jiang**\*.
 1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. (<a href="https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1" style="color: #771DB3;">Preprint</a>) 
-1. Bayesian Spatial-temporal Model for Detecting Alterations in Resting-State Functional Brain Network of Heavy Smokers, J. Hu, S. Chen, Z. Ye, F. Lin\* and **H.Jiang**\*.
 1. Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
 1. A Goodness-of-Fit Test for Statistical Models, **H.Jiang**. (<a href="https://arxiv.org/pdf/2006.08864.pdf" style="color: #771DB3;">Preprint</a>)
