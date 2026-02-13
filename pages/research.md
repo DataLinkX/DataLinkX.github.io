@@ -25,7 +25,7 @@ We aim to have new scientific findings by developing machine learning and statis
 (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2026
 1. S. Yang, ...., **H. Jiang**, ...., S. Lin\*, X. Xu\*. Pre-operative risk assessment of HCC recurrence in liver transplant recipients by non invasive
-detection of pre-existing genetic lesions. <a href="" style="color: #0c8599;">***Clinical and Molecular Hepatology***</a>.
+detection of pre-existing genetic lesions. <a href="https://doi.org/10.3350/cmh.2025.1069" style="color: #0c8599;">***Clinical and Molecular Hepatology***</a>.
 1. X. Tao, ..., **H. Jiang**, ...., Z. Chen\*. The potential of wheat spatial omics. <a href="" style="color: #0c8599;">***Nature Genetics***</a>.
 1. <u>H. Xiang</u>\#, <u>B. Shen</u>\#, ..., H. Chen\*, Y. Wang\*, **H. Jiang**\*, Z. Song\*. The landscape of tissue-resident microbiota across normal, polyp, and colorectal cancer tissues. <a href="" style="color: #0c8599;">***Nature Communications***</a>.
    
