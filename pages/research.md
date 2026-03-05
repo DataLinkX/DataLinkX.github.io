@@ -24,6 +24,7 @@ We aim to have new scientific findings by developing machine learning and statis
 ### Selected Publications 
 (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2026
+1. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5-ERK1/2 signaling pathway. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. <a href="" style="color: #0c8599;">***Neuro-Oncology***</a>.
 1. S. Yang, ...., **H. Jiang**, ...., S. Lin\*, X. Xu\*. Pre-operative risk assessment of HCC recurrence in liver transplant recipients by non invasive
 detection of pre-existing genetic lesions. <a href="https://doi.org/10.3350/cmh.2025.1069" style="color: #0c8599;">***Clinical and Molecular Hepatology***</a>.
 1. X. Tao, ..., **H. Jiang**, ...., Z. Chen\*. The potential of wheat spatial omics. <a href="" style="color: #0c8599;">***Nature Genetics***</a>.
@@ -80,7 +81,6 @@ detection of pre-existing genetic lesions. <a href="https://doi.org/10.3350/cmh.
 1. Interpretable deep neural network for identifying biomarkers to phenotype. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*.
 1. Distributed Factor Modeling of High-Dimensional Matrix-Variate Time Series Data. **H. Jiang**, Y. Li, Z. Gao\*.
 1. Structured e-value filter for setwise inference with applications to brain imaging studies. J. He, **H. Jiang**\*, W. Sun (alphabetical order).
-1. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*.
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*.
 1. Forty-hertz near-infrared light alleviates spatial memory impairment in Alzheimer’s disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>\#, <u>X. Zhang</u>\#, <u>X. Hu</u>\#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*,S. Hao\*.
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*.
