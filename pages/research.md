@@ -24,6 +24,7 @@ We aim to have new scientific findings by developing machine learning and statis
 ### Selected Publications 
 (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2026
+1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. <a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color: #0c8599;">***Nature Communications***</a>. (<a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
 1. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5-ERK1/2 signaling pathway. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. <a href="" style="color: #0c8599;">***Neuro-Oncology***</a>.
 1. S. Yang, ...., **H. Jiang**, ...., S. Lin\*, X. Xu\*. Pre-operative risk assessment of HCC recurrence in liver transplant recipients by non invasive
 detection of pre-existing genetic lesions. <a href="https://doi.org/10.3350/cmh.2025.1069" style="color: #0c8599;">***Clinical and Molecular Hepatology***</a>.
@@ -86,7 +87,6 @@ detection of pre-existing genetic lesions. <a href="https://doi.org/10.3350/cmh.
 1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*.
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*. 
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
-1. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. (<a href="https://biorxiv.org/cgi/content/short/2024.04.12.589273v1" style="color: #771DB3;">Preprint</a>, <a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
 1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. (<a href="https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1" style="color: #771DB3;">Preprint</a>) 
 1. Recent Advances on Phytohormone Regulation of Floral Bud Differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric Gene-Enviroment interaction Detection, **H.Jiang** and X.Fan
