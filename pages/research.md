@@ -28,7 +28,7 @@ We aim to have new scientific findings by developing machine learning and statis
 1. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5-ERK1/2 signaling pathway. <a href="" style="color: #0c8599;">***Neuro-Oncology***</a>.
 1. S. Yang, ...., **H. Jiang**, ...., S. Lin\*, X. Xu\*. Pre-operative risk assessment of HCC recurrence in liver transplant recipients by non invasive
 detection of pre-existing genetic lesions. <a href="https://doi.org/10.3350/cmh.2025.1069" style="color: #0c8599;">***Clinical and Molecular Hepatology***</a>.
-1. X. Tao, ..., **H. Jiang**, ...., Z. Chen\*. The potential of wheat spatial omics. <a href="" style="color: #0c8599;">***Nature Genetics***</a>.
+1. X. Tao, ..., **H. Jiang**, ...., Z. Chen\*. The potential of wheat spatial omics. <a href="https://www.nature.com/articles/s41588-026-02542-w" style="color: #0c8599;">***Nature Genetics***</a>.
 1. <u>H. Xiang</u>\#, <u>B. Shen</u>\#, ..., H. Chen\*, Y. Wang\*, **H. Jiang**\*, Z. Song\*. The landscape of tissue-resident microbiota across normal, polyp, and colorectal cancer tissues. <a href="https://www.nature.com/articles/s41467-026-69705-5" style="color: #0c8599;">***Nature Communications***</a>.
    
 #### 2025
