@@ -24,7 +24,7 @@ We aim to have new scientific findings by developing machine learning and statis
 ### Selected Publications 
 (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2026
-1. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. Identifying low quality features and suboptimal models to enhance phenotype prediction. <a href="" style="color: #0c8599;">***Patterns ***</a>(a sister journal to Cell).
+1. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. Identifying low quality features and suboptimal models to enhance phenotype prediction. <a href="" style="color: #0c8599;">***Patterns***</a>(sister journal to Cell).
 1. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <a href="https://www.nature.com/articles/s41467-026-71788-z" style="color: #0c8599;">***Nature Communications***</a>. (<a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
 1. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5-ERK1/2 signaling pathway. <a href="" style="color: #0c8599;">***Neuro-Oncology***</a>.
 1. S. Yang, ...., **H. Jiang**, ...., S. Lin\*, X. Xu\*. Pre-operative risk assessment of HCC recurrence in liver transplant recipients by non invasive
