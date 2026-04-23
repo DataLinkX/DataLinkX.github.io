@@ -24,6 +24,7 @@ We aim to have new scientific findings by developing machine learning and statis
 ### Selected Publications 
 (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2026
+1. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. Identifying low quality features and suboptimal models to enhance phenotype prediction. <a href="" style="color: #0c8599;">***Patterns (a sister journal to Cell)***</a>.
 1. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <a href="https://www.nature.com/articles/s41467-026-71788-z" style="color: #0c8599;">***Nature Communications***</a>. (<a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
 1. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5-ERK1/2 signaling pathway. <a href="" style="color: #0c8599;">***Neuro-Oncology***</a>.
 1. S. Yang, ...., **H. Jiang**, ...., S. Lin\*, X. Xu\*. Pre-operative risk assessment of HCC recurrence in liver transplant recipients by non invasive
@@ -84,7 +85,6 @@ detection of pre-existing genetic lesions. <a href="https://doi.org/10.3350/cmh.
 1. Structured e-value filter for setwise inference with applications to brain imaging studies. J. He, **H. Jiang**\*, W. Sun (alphabetical order).
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*.
 1. Forty-hertz near-infrared light alleviates spatial memory impairment in Alzheimer’s disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>\#, <u>X. Zhang</u>\#, <u>X. Hu</u>\#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*,S. Hao\*.
-1. mBoost provides guidance on optimizing machine learning predictors for complex traits. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*.
 1. Long-term barely diet alleviates cognitive deficits in AD mice via regulating gut microbiome composition. <u>Y. Hao</u>\#, <u>Yu. Li</u>\#,...., **H. Jiang**\*, Y. Wang\*, S. Hao\*. 
 1. *Lactobacillus rhamnosus* improves lifestyle intervention response in Gestational Diabetes Mellitus impeded by Gut Bacterium *Bilophila wadsworthia*. G. Ye, ...., **H. Jiang**\*, Q. Luo\*.
 1. Non-parametric GWAS: Another View on Genome-wide Association Study. <u>X. Hu</u>\#, S. Yu\# and **H.Jiang**\*. (<a href="https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1" style="color: #771DB3;">Preprint</a>) 
