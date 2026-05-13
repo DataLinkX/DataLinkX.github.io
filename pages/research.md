@@ -24,6 +24,7 @@ We aim to have new scientific findings by developing machine learning and statis
 ### Selected Publications 
 (\* corresponding author(s), \# equal contribution, and authors with underline are (joint) students)
 #### 2026
+1. Bandhan Sarker, Tianjiao Zhou, Lei Zhang, **H. Jiang**\* and Chuan Xu\*. APAdeg enhances differentially expressed gene inference by leveraging site-specific signals in APA-seq data. <a href="" style="color: #0c8599;">***Briefings in Bioinformatics***</a>.
 1. <u>B.Shen</u>\#, <u>M. Li</u>\#,..., W. Chen\*, **H. Jiang**\*. Identifying low quality features and suboptimal models to enhance phenotype prediction. <a href="" style="color: #0c8599;">***Patterns***</a> (a sister journal to ***Cell***).
 1. <u>J. He</u>\#, <u>G. Q</u>\#, ...., **H. Jiang**\*, G. Chen\*. UK BioCoin: Swift Trait-Specific Summary Statistics Regression for UK Biobank. <a href="https://www.nature.com/articles/s41467-026-71788-z" style="color: #0c8599;">***Nature Communications***</a>. (<a href="https://github.com/Ttttt47/UKBioCoin" style="color: #771DB3;">Homepage for UKC</a>)
 1. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5-ERK1/2 signaling pathway. <a href="" style="color: #0c8599;">***Neuro-Oncology***</a>.
@@ -78,7 +79,6 @@ detection of pre-existing genetic lesions. <a href="https://doi.org/10.3350/cmh.
 1. **H.Jiang**, Y.Shan and Q.Wu (2017). Dependece Measure: A comparative study. <span style="color:#0c8599">***Acta Mathematica Scientia***</span>.
 
 #### <a href="/resources" style="color: #000000;">Manuscripts</a>
-1. APAdeg unveils a general decoupling between gene expression changes and polyadenylation alterations in cancers. Bandhan Sarker, Tianjiao Zhou, Lei Zhang, **H. Jiang**\* and Chuan Xu\*.
 1. Discovery of Rice Peroxisomal Proteins with Deep Learning. Q. Deng, Y. Feng,...., **H. Jiang**\*, R. Pan\*.
 1. Interpretable deep neural network for identifying biomarkers to phenotype. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*.
 1. Distributed Factor Modeling of High-Dimensional Matrix-Variate Time Series Data. **H. Jiang**, Y. Li, Z. Gao\*.
