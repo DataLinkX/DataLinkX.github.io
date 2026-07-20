@@ -1,6 +1,7 @@
 /* =========================================================
    Hangjin Jiang · Academic Homepage
    Classic academic style — warm paper, deep navy, oxblood
+   Content pages are rendered from Markdown in /content/*.md
    ========================================================= */
 
 :root {
@@ -30,7 +31,8 @@
 
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
 
-html, body { overflow-x: hidden; max-width: 100%; }
+/* clip (not hidden) prevents horizontal scroll WITHOUT breaking the sticky nav */
+body { overflow-x: clip; max-width: 100%; }
 
 body {
   margin: 0;
@@ -326,4 +328,93 @@ ol.pubs li::before {
   .container, .nav-inner { padding: 0 24px; }
   .brand { font-size: 1.12rem; }
   .hero h1 { font-size: 1.85rem; }
+}
+
+/* =========================================================
+   Markdown-rendered content (/content/*.md → .md-content)
+   Maps standard Markdown onto the academic style.
+     ##   → section title      ###  → year band / subsection
+     ####  → small label        **x** → author highlight
+     *x*  → journal / emphasis  [t](u) → link   <u>x</u> → student
+   ========================================================= */
+
+.page-title { font-size: 2.3rem; margin: 0 0 20px; color: var(--navy); }
+
+.md-content { color: var(--ink-soft); }
+.md-content > :first-child { margin-top: 0; }
+
+/* section + sub headings */
+.md-content h2 {
+  font-family: var(--display); color: var(--navy); font-weight: 600;
+  font-size: 1.72rem; margin: 46px 0 20px; padding-bottom: 12px;
+  border-bottom: 2px solid var(--navy);
+}
+.md-content h3 {                     /* year band / subsection */
+  font-family: var(--sans); font-weight: 700; letter-spacing: .04em;
+  color: var(--navy); font-size: 1.05rem;
+  margin: 30px 0 12px; padding-bottom: 6px;
+  border-bottom: 1px solid var(--line);
+}
+.md-content h4 {                     /* small oxblood label */
+  font-family: var(--sans); font-weight: 700; letter-spacing: .02em;
+  color: var(--oxblood); font-size: 1.02rem; text-transform: none;
+  margin: 24px 0 8px;
+}
+
+.md-content p { margin: 0 0 16px; }
+
+/* inline conventions */
+.md-content strong, .md-content b { color: var(--ink); font-weight: 700; }
+.md-content em { color: var(--oxblood-2); font-style: italic; }   /* journals, species, notes */
+.md-content u {                                                    /* student authors */
+  text-decoration: none; border-bottom: 1px dotted var(--oxblood); color: var(--ink-soft);
+}
+.md-content .tag {
+  font-family: var(--sans); font-size:.7rem; font-weight:700; letter-spacing:.04em;
+  color: var(--navy); background: var(--paper-2); border:1px solid var(--line);
+  padding: 1px 7px; border-radius: 20px; white-space:nowrap; vertical-align: middle;
+}
+
+/* unordered lists */
+.md-content ul { margin: 8px 0 16px; padding-left: 20px; }
+.md-content ul li { margin: 5px 0; }
+.md-content ul li::marker { color: var(--oxblood); }
+
+/* nested lists (e.g. news visitors by year) */
+.md-content li > ul { margin: 6px 0 6px; }
+
+/* ordered lists → publication style (JS tags every <ol> with .pubs) */
+.md-content ol.pubs { list-style: none; counter-reset: pub; margin: 0 0 8px; padding: 0; }
+.md-content ol.pubs li {
+  position: relative; padding: 12px 0 12px 44px;
+  border-bottom: 1px solid var(--line-soft);
+  font-size: .98rem; line-height: 1.62;
+}
+.md-content ol.pubs li:last-child { border-bottom: 0; }
+.md-content ol.pubs li::before {
+  counter-increment: pub; content: counter(pub);
+  position: absolute; left: 0; top: 13px;
+  font-family: var(--sans); font-size: .72rem; font-weight: 700;
+  color: var(--faint); background: var(--paper-2);
+  width: 28px; height: 22px; border-radius: 5px;
+  display:flex; align-items:center; justify-content:center;
+}
+
+/* blockquote → callout */
+.md-content blockquote {
+  background: var(--paper-2); border: 1px solid var(--line);
+  border-left: 4px solid var(--oxblood); border-radius: 6px;
+  padding: 4px 22px; margin: 18px 0; color: var(--ink-soft);
+}
+
+/* horizontal rule */
+.md-content hr { border:0; border-top: 1px solid var(--line); margin: 34px 0; }
+
+/* home body: separate from hero with a rule */
+.home-body { border-top: 1px solid var(--line); padding-top: 34px; margin-top: 8px; }
+
+@media (max-width: 820px) {
+  .page-title { font-size: 1.9rem; }
+  .md-content h2 { font-size: 1.5rem; margin-top: 34px; }
+  .md-content ol.pubs li { padding-left: 36px; overflow-wrap: anywhere; }
 }
