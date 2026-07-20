@@ -26,6 +26,39 @@ function toggleMenu() {
     container.querySelectorAll('ol').forEach(function (ol) {
       ol.classList.add('pubs');
     });
+    // Bold + darken the * (corresponding) and # (equal contribution) markers
+    markSymbols(container);
+  }
+
+  // Wrap every literal * and # with <strong class="mark"> so author markers
+  // stand out — ONLY inside publication list items (not the legend line),
+  // and skipping any text inside links.
+  function markSymbols(root) {
+    var targets = [];
+    root.querySelectorAll('ol.pubs li').forEach(function (li) {
+      var walker = document.createTreeWalker(li, NodeFilter.SHOW_TEXT, null);
+      var n;
+      while ((n = walker.nextNode())) {
+        if (/[*#]/.test(n.nodeValue) &&
+            !(n.parentNode.closest && n.parentNode.closest('a'))) {
+          targets.push(n);
+        }
+      }
+    });
+    targets.forEach(function (node) {
+      var frag = document.createDocumentFragment();
+      node.nodeValue.split(/([*#])/).forEach(function (part) {
+        if (part === '*' || part === '#') {
+          var s = document.createElement('strong');
+          s.className = 'mark';
+          s.textContent = part;
+          frag.appendChild(s);
+        } else if (part) {
+          frag.appendChild(document.createTextNode(part));
+        }
+      });
+      node.parentNode.replaceChild(frag, node);
+    });
   }
 
   function load(el) {

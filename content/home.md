@@ -25,8 +25,8 @@ My group — **DataLinkX** — aims to *link data to science*. We build statisti
 
 ## Recent Work
 
-1. <u>B. Shen</u>, <u>M. Li</u>, …, W. Chen, **H. Jiang**. Identifying low-quality features and suboptimal models to enhance phenotype prediction. *Patterns* <span class="tag">sister to Cell</span>
-1. <u>J. He</u>, <u>G. Q</u>, …, **H. Jiang**, G. Chen. UK BioCoin: swift trait-specific summary-statistics regression for UK Biobank. *Nature Communications* [code](https://github.com/Ttttt47/UKBioCoin)
+1. <u>B. Shen</u>, <u>M. Li</u>, …, W. Chen, **H. Jiang**. Identifying low-quality features and suboptimal models to enhance phenotype prediction. *Patterns* (a sister journal to *Cell*)
+1. <u>J. He</u>, <u>G. Q</u>, …, **H. Jiang**, G. Chen. UK BioCoin: swift trait-specific summary-statistics regression for UK Biobank. *Nature Communications* ([code](https://github.com/Ttttt47/UKBioCoin))
 1. <u>H. Xiang</u>, <u>B. Shen</u>, …, Y. Wang, **H. Jiang**, Z. Song. The landscape of tissue-resident microbiota across normal, polyp, and colorectal cancer tissues. *Nature Communications*
 1. **H. Jiang**, <u>J. Su</u>, …, Y. Wang, Y. Wang. Dual function of overexpressing plasma-membrane H⁺-ATPase in balancing carbon–water use. *Science Advances*
 

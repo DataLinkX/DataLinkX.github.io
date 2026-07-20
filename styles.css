@@ -346,8 +346,7 @@ ol.pubs li::before {
 /* section + sub headings */
 .md-content h2 {
   font-family: var(--display); color: var(--navy); font-weight: 600;
-  font-size: 1.72rem; margin: 46px 0 20px; padding-bottom: 12px;
-  border-bottom: 2px solid var(--navy);
+  font-size: 1.72rem; margin: 46px 0 16px;
 }
 .md-content h3 {                     /* year band / subsection */
   font-family: var(--sans); font-weight: 700; letter-spacing: .04em;
@@ -363,12 +362,19 @@ ol.pubs li::before {
 
 .md-content p { margin: 0 0 16px; }
 
+/* content links: clear blue so they read as clickable — no underline */
+.md-content a { color: #1f6fb2; text-decoration: none; }
+.md-content a:hover { color: var(--link-hover); text-decoration: underline; text-underline-offset: 2px; }
+.md-content a em { color: var(--oxblood-2); }   /* journal-name links stay oxblood italic */
+
 /* inline conventions */
 .md-content strong, .md-content b { color: var(--ink); font-weight: 700; }
 .md-content em { color: var(--oxblood-2); font-style: italic; }   /* journals, species, notes */
-.md-content u {                                                    /* student authors */
-  text-decoration: none; border-bottom: 1px dotted var(--oxblood); color: var(--ink-soft);
+.md-content u { text-decoration: underline; }                     /* plain underline (e.g. legend) */
+.md-content ol.pubs li u {                                         /* student authors — emphasized */
+  text-decoration: none; border-bottom: 1.5px solid var(--ink); color: var(--ink); font-weight: 700;
 }
+.md-content .mark { color: var(--ink); font-weight: 800; }        /* * and # author markers */
 .md-content .tag {
   font-family: var(--sans); font-size:.7rem; font-weight:700; letter-spacing:.04em;
   color: var(--navy); background: var(--paper-2); border:1px solid var(--line);
@@ -412,6 +418,8 @@ ol.pubs li::before {
 
 /* home body: separate from hero with a rule */
 .home-body { border-top: 1px solid var(--line); padding-top: 34px; margin-top: 8px; }
+/* no underline on the home section headings */
+.home-body h2 { border-bottom: 0; padding-bottom: 0; }
 
 @media (max-width: 820px) {
   .page-title { font-size: 1.9rem; }
