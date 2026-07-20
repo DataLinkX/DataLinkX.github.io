@@ -1,4 +1,4 @@
-## Background
+## Introduction
 
 Before joining Zhejiang University, I obtained my Ph.D. in Statistics in 2018 from the [Department of Statistics](http://www.sta.cuhk.edu.hk/), The Chinese University of Hong Kong, under the supervision of [Prof. Xiaodan Fan](https://www.sta.cuhk.edu.hk/peoples/xfan/), and my M.Sc. in Applied Mathematics in 2013 from the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 
