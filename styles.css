@@ -281,11 +281,14 @@ ol.pubs li::before {
 }
 .footer-inner {
   max-width: var(--maxw); margin: 0 auto; padding: 34px 28px;
-  display:flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;
+  display:flex; justify-content: center; text-align: center; gap: 20px; flex-wrap: wrap;
   font-size: .9rem; color: var(--muted); font-family: var(--sans);
 }
-.footer a { color: var(--navy); }
+.footer a { color: var(--muted); }
+.footer a:hover { color: var(--navy); }
 .footer .f-brand { font-family: var(--display); font-size: 1.05rem; color: var(--navy); font-weight:600; }
+.footer .f-line { line-height: 1.8; }
+.footer .f-org { color: var(--muted); font-weight: 400; }
 
 /* ---------- Responsive ---------- */
 @media (max-width: 820px) {
