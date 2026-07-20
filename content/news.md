@@ -60,6 +60,8 @@ Visitors to our group and academic activities we take part in.
 - Two-sample distribution test and variable screening — Hunan Normal University, Dec. 2017
 
 ## Invited Talks — Conferences
+- 可解释机器学习及其在生命健康中的应用 — 长三角生物信息学会议, 2026.4
+- 可解释机器学习及其在生命健康中的应用 — 中国心胸血管麻醉学会体外生命支持分会青年学术会议, 2026.4
 - 可解释机器学习算法及应用 — 第九届华中-华东地区生物信息学研讨会, 2025.3
 - 复杂疾病预测模型的评估与优化 — 浙江省生物信息学学会精准医学专委会会议, 2025.1
 - 数据驱动的重症医学研究方法 — “多脏器衰竭预警与干预技术进展”国家级继教班, 2024.12
