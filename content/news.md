@@ -32,6 +32,10 @@ Visitors to our group and academic activities we take part in.
 - Mar. 25 — Prof. [Zhixiang Lin](https://www.sta.cuhk.edu.hk/People/Faculty.aspx?udt_506_param_detail=622) (CUHK) visited our group.
 
 ## Invited Talks — University Seminars
+- 可解释机器学习及其在生命健康中的应用 — 江南大学, 2026.7
+- 高维双样本分布检验及其应用 — 香港浸会大学数学系, 2026.7
+- 可解释机器学习及其在生命健康中的应用 — 塔里木大学, 2026.6
+- 可解释机器学习及其在生命健康中的应用 — 东北大学, 2026.4
 - 高维双样本分布检验及其应用 — 上海对外经贸大学统计与信息学院, 2025.3
 - 复杂表型的特征学习：从生物大数据到生命科学 — 上海对外经贸大学统计与信息学院, 2025.2
 - 复杂表型的特征学习 — 中南大学生科院, 2024
