@@ -372,10 +372,11 @@ ol.pubs li::before {
 
 /* inline conventions */
 .md-content strong, .md-content b { color: var(--ink); font-weight: 700; }
-.md-content em { color: var(--oxblood-2); font-style: italic; }   /* journals, species, notes */
+.md-content em { color: inherit; font-style: italic; font-weight: 400; }  /* species, emphasis, notes */
+.md-content a em, .md-content em.j { color: var(--oxblood-2); }   /* journal names → oxblood */
 .md-content u { text-decoration: underline; }                     /* plain underline (e.g. legend) */
-.md-content ol.pubs li u {                                         /* student authors — emphasized */
-  text-decoration: none; border-bottom: 1.5px solid var(--ink); color: var(--ink); font-weight: 700;
+.md-content ol.pubs li u {                                         /* student authors — underline only */
+  text-decoration: none; border-bottom: 1px solid currentColor; color: inherit; font-weight: 400;
 }
 .md-content .mark { color: var(--ink); font-weight: 800; }        /* * and # author markers */
 .md-content .tag {
