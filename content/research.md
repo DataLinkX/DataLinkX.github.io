@@ -20,7 +20,7 @@ We aim to make new scientific findings by developing machine learning and statis
 
 ## Selected Publications
 
-*\* corresponding author(s) · # equal contribution · <u>underlined</u> authors are (joint) students.*
+*\* corresponding author(s), # equal contribution, <u>underlined</u> authors are (joint) students.*
 
 ### 2026
 1. B. Sarker, T. Zhou, X. Deng, L. Zhang, …, **H. Jiang**\*, C. Xu\*. APAdeg enhances differentially expressed gene inference by leveraging site-specific signals in APA-seq data. [*Briefings in Bioinformatics*](https://academic.oup.com/bib/article/27/3/bbag295/8702470).
