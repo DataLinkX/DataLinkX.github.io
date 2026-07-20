@@ -24,7 +24,7 @@ We aim to make new scientific findings by developing machine learning and statis
 
 ### 2026
 1. B. Sarker, T. Zhou, X. Deng, L. Zhang, …, **H. Jiang**\*, C. Xu\*. APAdeg enhances differentially expressed gene inference by leveraging site-specific signals in APA-seq data. [*Briefings in Bioinformatics*](https://academic.oup.com/bib/article/27/3/bbag295/8702470).
-1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. <em class="j">Patterns</em> (a sister journal to *Cell*).
+1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. <em class="j">Patterns</em> (a sister journal to <em class="j">Cell</em>).
 1. <u>J. He</u>#, <u>G. Q</u>#, …, **H. Jiang**\*, G. Chen\*. UK BioCoin: swift trait-specific summary-statistics regression for UK Biobank. [*Nature Communications*](https://www.nature.com/articles/s41467-026-71788-z). ([Homepage for UKC](https://github.com/Ttttt47/UKBioCoin))
 1. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5–ERK1/2 signaling pathway. <em class="j">Neuro-Oncology</em>.
 1. S. Yang, …, **H. Jiang**, …, S. Lin\*, X. Xu\*. Pre-operative risk assessment of HCC recurrence in liver-transplant recipients by non-invasive detection of pre-existing genetic lesions. [*Clinical and Molecular Hepatology*](https://doi.org/10.3350/cmh.2025.1069).
