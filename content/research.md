@@ -40,7 +40,7 @@ We aim to make new scientific findings by developing machine learning and statis
 1. J. Chen, C. Qian, Y. Shu, K. Salehi-Ashtiani, J. Shang, **H. Jiang**\*, W. Fu\*. Bioinspired cell silicification of the model diatom *Phaeodactylum tricornutum* and its effects on cell metabolism. [*Sustainable Horizons*](https://www.sciencedirect.com/science/article/pii/S2772737824000385).
 1. **H. Jiang**#, <u>J. Su</u>#, Z. Ren, D. Wang, A. Hills, R. Kinoshita, M. R. Blatt, Y. Wang\*, Y. Wang\*. Dual function of overexpressing plasma-membrane H⁺-ATPase in balancing carbon–water use. [*Science Advances*](https://www.science.org/doi/10.1126/sciadv.adp8017).
 1. <u>M. Shao</u>#, <u>M. Tian</u>#, <u>K. Chen</u>#, **H. Jiang**#, …, C. Cao\*, N. Gu\*. Leveraging random effects in cistrome-wide association studies for decoding the genetic determinants of prostate cancer. [*Advanced Science*](http://doi.org/10.1002/advs.202400815).
-1. <u>M. Rui</u>, …, Z. Chen, D. Tissue, **H. Jiang**\*, Y. Wang\*. Guard-cell and subsidiary-cell sizes are key determinants for stomatal kinetics and drought adaptation in cereal crops. [*New Phytologist*](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757). ([News](http://www.cab.zju.edu.cn/nxx/2024/0504/c6958a2910834/page.htm))
+1. <u>M. Rui</u>, …, Z. Chen, D. Tissue, **H. Jiang**\*, Y. Wang\*. Guard-cell and subsidiary-cell sizes are key determinants for stomatal kinetics and drought adaptation in cereal crops. [*New Phytologist*](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19757). 
 1. Q. Deng, **H. Jiang**, J. Hu, R. Pan. Identification of auxiliary organellar targeting signals for plant peroxisomes using bioinformatic analysis of large protein-sequence datasets followed by experimental validation. [*Photorespiration: Methods and Protocols*](https://doi.org/10.1007/978-1-0716-3802-6). (**Book Chapter**)
 
 ### 2023
@@ -52,7 +52,7 @@ We aim to make new scientific findings by developing machine learning and statis
 1. S. Qin, …, **H. Jiang**, …, B. Zheng, Y. He\*. Comparative microscopic, transcriptome and IAA-content analyses reveal the stem-growth variations in two cultivars of *Ilex verticillata*. [*Plants*](https://www.mdpi.com/2223-7747/12/10/1941).
 
 ### 2022
-1. <u>Q. Deng</u>#, <u>H. Li</u>#, Y. Feng#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H. Jiang**\*, R. Pan\*. Defining upstream enhancing and inhibiting sequence patterns for plant peroxisome targeting signal type 1 using large-scale in-silico and in-vivo analyses. [*The Plant Journal*](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840). ([News](http://www.cab.zju.edu.cn/chinese/2022/0705/c11148a2601415/page.htm))
+1. <u>Q. Deng</u>#, <u>H. Li</u>#, Y. Feng#, R. Xu, W. Li, R. Zhu, D. Akhter, X. Shen, J. Hu\*, **H. Jiang**\*, R. Pan\*. Defining upstream enhancing and inhibiting sequence patterns for plant peroxisome targeting signal type 1 using large-scale in-silico and in-vivo analyses. [*The Plant Journal*](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15840). 
 1. **H. Jiang**, H. Li, [Wing H. Wong](https://biox.stanford.edu/people/wing-wong)\* and X. Fan\*. Revealing free-energy landscape from MD data via conditional angle partition tree. [*IEEE/ACM Transactions on Computational Biology and Bioinformatics*](https://ieeexplore.ieee.org/abstract/document/9767706). ([code](/resources/capt.zip), [data](/resources/ala-traj.zip), [SI](/resources/capt-supp.pdf))
 1. <u>M. Xu</u>, Y. Chen, Z. Xu, L. Zhang\*, **H. Jiang**\*, C. Pian\*. MiRLoc: predicting miRNA subcellular localization by incorporating miRNA–mRNA interaction and mRNA subcellular localization. [*Briefings in Bioinformatics*](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac044/6532537).
 1. **H. Jiang**, X. Zhao, R. C. W. Ma and X. Fan\*. Consistent screening procedures in high-dimensional binary classification. [*Statistica Sinica*](http://www3.stat.sinica.edu.tw/preprint/SS-2020-0088_Preprint.pdf).
@@ -61,7 +61,7 @@ We aim to make new scientific findings by developing machine learning and statis
 
 ### 2021
 1. <u>H. Li</u>#, H. X. Zhang# and **H. Jiang**\*. Combining power of different methods to detect associations in large data sets. [*Briefings in Bioinformatics*](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab488/6447432). ([code](/resources/DM.zip))
-1. H. Lei#, **H. Jiang**#, N. Zhang, T. Chen, L. Yang, D. Wang, Y. Shu\*. Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. [*Infectious Diseases of Poverty*](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7). ([News](https://nihds.zju.edu.cn/2022/0426/c66553a2524226/page.htm))
+1. H. Lei#, **H. Jiang**#, N. Zhang, T. Chen, L. Yang, D. Wang, Y. Shu\*. Increased urbanization reduced the effectiveness of school closures on seasonal influenza epidemics in China. [*Infectious Diseases of Poverty*](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00911-7). 
 1. <u>Z. Li</u>#, **H. Jiang**#, L. Kong, Y. Chen, K. Lang, X. Fan, L. Zhang\*, C. Pian\*. Deep6mA: a deep-learning framework explores similar patterns in DNA N6-methyladenine sites across different species. [*PLoS Computational Biology*](https://doi.org/10.1371/journal.pcbi.1008767).
 1. **H. Jiang** and X. Fan\*. The two-step clustering approach for metastable-states learning. [*International Journal of Molecular Sciences*](https://www.mdpi.com/1422-0067/22/12/6576).
 
@@ -72,7 +72,7 @@ We aim to make new scientific findings by developing machine learning and statis
 
 ### Before 2019
 1. **H. Jiang** and Q. Wu\* (2018). Robust dependence measure for detecting associations in large data set. [*Acta Mathematica Scientia*](https://doi.org/10.1016/S0252-9602(17)30117-0).
-1. H.-B. Li\*, **H. Jiang** (in charge of statistical analysis), X. Fan, Q. Gu, Y. Zhang (2017). The link between magnetic-field orientations and star-formation rates. [*Nature Astronomy*](https://doi.org/10.1038/s41550-017-0158). (**Cover Paper**, [news](https://www.cpr.cuhk.edu.hk/en/press/cuhk-physicist-and-statistician-work-together-to-reveal-link-between-magnetic-fields-and-birth-rate-of-stars/))
+1. H.-B. Li\*, **H. Jiang** (in charge of statistical analysis), X. Fan, Q. Gu, Y. Zhang (2017). The link between magnetic-field orientations and star-formation rates. [*Nature Astronomy*](https://doi.org/10.1038/s41550-017-0158). (**Cover Paper**)
 1. Q. Tan, **H. Jiang**\* and Y. Ding (2014). Model selection based on maximal information coefficient of residuals. [*Acta Mathematica Scientia*](https://doi.org/10.1016/S0252-9602(14)60031-X).
 1. **H. Jiang**, Y. Shan and Q. Wu (2017). Dependence measure: a comparative study. <em class="j">Acta Mathematica Scientia</em>.
 
