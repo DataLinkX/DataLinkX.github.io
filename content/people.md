@@ -15,13 +15,13 @@ Current and past members of the DataLinkX group. We gratefully acknowledge every
 - **Jiaxuan Qiao** — Statistics · 2022.9 – 2023.9
 
 #### Graduates
-- **Yuyang Wang** — Data Science · 2023.9 – 2026.6
-- **Yuhao Ma** — M.S. Statistics, ZJSU · 2024.3 – 2025.10
-- **He Li** — M.S. Data Science · 2020.9 – 2023.9
-- **Xiaoru Wu** — M.S. Statistics · 2022.6 – 2022.8
-- **Yibo Wang** — Ph.D. Bioinformatics · 2022 – 2023
-- **Ge Su** — Ph.D. Computer Science · 2022 – 2024 · joint with [Prof. Jianwei Yin](https://mypage.zju.edu.cn/0001038)
-- **Shujie Feng** — M.S. Computer Science · 2023.9 – 2024.3
+- **Yuyang Wang** — M.S. in Data Science · 2023.9 – 2026.6
+- **Yuhao Ma** — M.S. in Statistics, ZJSU · 2024.3 – 2025.10
+- **He Li** — M.S. in Data Science · 2020.9 – 2023.9
+- **Xiaoru Wu** — M.S. in Statistics · 2022.6 – 2022.8
+- **Yibo Wang** — Ph.D. in Bioinformatics · 2022 – 2023
+- **Ge Su** — Ph.D. in Computer Science · 2022 – 2024 · joint with [Prof. Jianwei Yin](https://mypage.zju.edu.cn/0001038)
+- **Shujie Feng** — M.S. in Computer Science · 2023.9 – 2024.3
 
 #### Undergraduates
 - **Huizhou Qi** — Life Science · 2021 – 2022
