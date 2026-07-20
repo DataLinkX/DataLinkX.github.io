@@ -2,7 +2,7 @@ We are the DataLinkX group, aiming to <em class="j">link data to science</em>.
 
 ## Collaborators
 
-Collaborations are welcome. We are glad to work with researchers from different areas who are interested in exploring the mechanisms behind data. If you have a data-analysis problem, please do not hesitate to email me at [jianghj@zju.edu.cn](mailto:jianghj@zju.edu.cn).
+Collaborations are welcome. We are glad to work with researchers from different areas who are interested in exploring the mechanisms behind data. If you have any data analysis problem, please do not hesitate to email me at [jianghj@zju.edu.cn](mailto:jianghj@zju.edu.cn).
 
 ## Prospective Students
 
