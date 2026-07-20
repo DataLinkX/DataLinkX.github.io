@@ -25,9 +25,9 @@ My group — **DataLinkX** — aims to <em class="j">link data to science</em>. 
 
 ## Recent Work
 
-1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. <em class="j">Patterns</em> (a sister journal to <em class="j">Cell</em>)
-1. <u>J. He</u>#, <u>G. Q</u>#, …, **H. Jiang**\*, G. Chen\*. UK BioCoin: swift trait-specific summary-statistics regression for UK Biobank. <em class="j">Nature Communications</em> ([code](https://github.com/Ttttt47/UKBioCoin))
-1. <u>H. Xiang</u>#, <u>B. Shen</u>#, …, H. Chen\*, Y. Wang\*, **H. Jiang**\*, Z. Song\*. The landscape of tissue-resident microbiota across normal, polyp, and colorectal cancer tissues. <em class="j">Nature Communications</em>
-1. **H. Jiang**#, <u>J. Su</u>#, …, Y. Wang\*, Y. Wang\*. Dual function of overexpressing plasma-membrane H⁺-ATPase in balancing carbon–water use. <em class="j">Science Advances</em>
+1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. <em class="j">Patterns</em> (a sister journal to <em class="j">Cell</em>).
+1. <u>J. He</u>#, <u>G. Q</u>#, …, **H. Jiang**\*, G. Chen\*. UK BioCoin: swift trait-specific summary-statistics regression for UK Biobank. <em class="j">Nature Communications</em>.
+1. <u>H. Xiang</u>#, <u>B. Shen</u>#, …, H. Chen\*, Y. Wang\*, **H. Jiang**\*, Z. Song\*. The landscape of tissue-resident microbiota across normal, polyp, and colorectal cancer tissues. <em class="j">Nature Communications</em>.
+1. **H. Jiang**#, <u>J. Su</u>#, …, Y. Wang\*, Y. Wang\*. Dual function of overexpressing plasma-membrane H⁺-ATPase in balancing carbon–water use. <em class="j">Science Advances</em>.
 
 [Browse all publications →](/research)
