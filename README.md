@@ -1,19 +1,47 @@
-# Hangjin Jiang at Zhejiang University
+# Hangjin Jiang — Academic Homepage
 
-### Table of contents
+Static personal website for Hangjin Jiang (DataLinkX Group, Center for Data Science, Zhejiang University). Plain HTML/CSS — no build step — deployed on Vercel. **All page content lives in Markdown** under `content/` and is rendered in the browser, so editors only touch Markdown, never HTML.
 
-- [Files](#files)
-- [Home](#Home)
-- [Research](#research)
-- [Teaching](#teaching)
-- [Students](#students)
-- [News](#news)
-- [Join Us](#joinus)
+## How it works
 
-This webpage is built based on the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) framework. For files end with `.html`, you may need to make some change based on HTML and [Bootstrap](https://getbootstrap.com/). For files end with `.md`, both HTML and Markdown are acceptable.
+Each page is a thin HTML shell (nav + footer + styling) with a `<div data-md="/content/xxx.md">`. On load, `js/site.js` fetches that Markdown file and renders it with a locally-vendored `js/marked.umd.js`; `styles.css` styles the result into the academic look. No CDN, no build — works offline-friendly and China-friendly.
 
+## Editing content
 
-## Files
+See **`content/如何修改内容.md`** for a non-technical guide. In short: edit the `.md` file for the page you want, commit, and push.
 
-- All the pictures of webpages is located in `img` directory. To refer the picture in markdown, you can use `/img/name_of_img.png` as an example.
-- All the other files are in `resources` directory. You can put publication pdf files in `resources/publications/` and refer it using `/resources/publications/name_of_publication.pdf`. You can put packages of software in `/resources/software/`. You can put external html files in `/resources/html/`
+| Content file | Page |
+|------|------|
+| `content/home.md` | Home body |
+| `content/research.md` | Research + publications |
+| `content/teaching.md` | Teaching |
+| `content/people.md` | Group members |
+| `content/news.md` | Visitors, talks, service |
+| `content/joinus.md` | Join Us |
+| `content/contact.md` | Contact |
+
+The home hero (name, title, photo, buttons) is in `index.html` — edit only when identity changes.
+
+## Structure
+
+```
+*.html        page shells (do not usually need editing)
+styles.css    all styling
+js/           marked.umd.js (renderer) + site.js (loader + mobile nav)
+content/      Markdown content  ← edit here
+img/          images (portrait, favicon)
+resources/    downloadable files (paper PDFs, code zips)
+vercel.json   Vercel config (clean URLs, no build, caching)
+```
+
+## Local preview
+
+Use a local server (opening files via `file://` breaks paths and Markdown fetch):
+
+```bash
+npx serve          # http://localhost:3000 — mirrors Vercel clean URLs
+```
+
+## Deploy
+
+Connected to Vercel via Git. Every push to `master` auto-deploys — no build step runs.
