@@ -1,4 +1,4 @@
-We are the DataLinkX group, aiming to *link data to science*.
+We are the DataLinkX group, aiming to <em class="j">link data to science</em>.
 
 ## Collaborators
 
