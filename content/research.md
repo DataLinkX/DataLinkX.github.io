@@ -24,9 +24,9 @@ We aim to make new scientific findings by developing machine learning and statis
 
 ### 2026
 1. B. Sarker, T. Zhou, X. Deng, L. Zhang, …, **H. Jiang**\*, C. Xu\*. APAdeg enhances differentially expressed gene inference by leveraging site-specific signals in APA-seq data. [*Briefings in Bioinformatics*](https://academic.oup.com/bib/article/27/3/bbag295/8702470).
-1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. *Patterns* (a sister journal to *Cell*).
+1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. <em class="j">Patterns</em> (a sister journal to *Cell*).
 1. <u>J. He</u>#, <u>G. Q</u>#, …, **H. Jiang**\*, G. Chen\*. UK BioCoin: swift trait-specific summary-statistics regression for UK Biobank. [*Nature Communications*](https://www.nature.com/articles/s41467-026-71788-z). ([Homepage for UKC](https://github.com/Ttttt47/UKBioCoin))
-1. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5–ERK1/2 signaling pathway. *Neuro-Oncology*.
+1. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5–ERK1/2 signaling pathway. <em class="j">Neuro-Oncology</em>.
 1. S. Yang, …, **H. Jiang**, …, S. Lin\*, X. Xu\*. Pre-operative risk assessment of HCC recurrence in liver-transplant recipients by non-invasive detection of pre-existing genetic lesions. [*Clinical and Molecular Hepatology*](https://doi.org/10.3350/cmh.2025.1069).
 1. X. Tao, …, **H. Jiang**, …, Z. Chen\*. The potential of wheat spatial omics. [*Nature Genetics*](https://www.nature.com/articles/s41588-026-02542-w).
 1. <u>H. Xiang</u>#, <u>B. Shen</u>#, …, H. Chen\*, Y. Wang\*, **H. Jiang**\*, Z. Song\*. The landscape of tissue-resident microbiota across normal, polyp, and colorectal cancer tissues. [*Nature Communications*](https://www.nature.com/articles/s41467-026-69705-5).
@@ -74,7 +74,7 @@ We aim to make new scientific findings by developing machine learning and statis
 1. **H. Jiang** and Q. Wu\* (2018). Robust dependence measure for detecting associations in large data set. [*Acta Mathematica Scientia*](https://doi.org/10.1016/S0252-9602(17)30117-0).
 1. H.-B. Li\*, **H. Jiang** (in charge of statistical analysis), X. Fan, Q. Gu, Y. Zhang (2017). The link between magnetic-field orientations and star-formation rates. [*Nature Astronomy*](https://doi.org/10.1038/s41550-017-0158). (**Cover Paper**, [news](https://www.cpr.cuhk.edu.hk/en/press/cuhk-physicist-and-statistician-work-together-to-reveal-link-between-magnetic-fields-and-birth-rate-of-stars/))
 1. Q. Tan, **H. Jiang**\* and Y. Ding (2014). Model selection based on maximal information coefficient of residuals. [*Acta Mathematica Scientia*](https://doi.org/10.1016/S0252-9602(14)60031-X).
-1. **H. Jiang**, Y. Shan and Q. Wu (2017). Dependence measure: a comparative study. *Acta Mathematica Scientia*.
+1. **H. Jiang**, Y. Shan and Q. Wu (2017). Dependence measure: a comparative study. <em class="j">Acta Mathematica Scientia</em>.
 
 ## Manuscripts
 
