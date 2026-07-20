@@ -6,7 +6,7 @@ Current and past members of the DataLinkX group. We gratefully acknowledge every
 - **Yuzhou Li** — Statistics · 2022 – present
 - **Baining Shen** — Statistics · 2023 – present
 
-## Master's Students
+## Master Students
 - **Qiuyue Jiang** — Data Science · 2023.9 – present
 
 ## Past Members
