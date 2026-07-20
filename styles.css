@@ -288,8 +288,8 @@ ol.pubs li::before {
 /* ---------- Responsive ---------- */
 @media (max-width: 820px) {
   body { font-size: 17px; }
-  .container { padding: 0 22px; }
-  .nav-inner { padding: 0 22px; }
+  .container { padding: 0 28px; }
+  .nav-inner { padding: 0 28px; }
   .hero { padding: 40px 0 20px; }
   .hero-grid { grid-template-columns: 1fr; gap: 28px; }
   .portrait-frame { max-width: 220px; }
@@ -323,7 +323,7 @@ ol.pubs li::before {
 }
 
 @media (max-width: 420px) {
-  .container, .nav-inner { padding: 0 18px; }
+  .container, .nav-inner { padding: 0 24px; }
   .brand { font-size: 1.12rem; }
   .hero h1 { font-size: 1.85rem; }
 }
