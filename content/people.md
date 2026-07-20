@@ -8,7 +8,6 @@ Current and past members of the DataLinkX group. We gratefully acknowledge every
 
 ## Master's Students
 - **Qiuyue Jiang** — Data Science · 2023.9 – present
-- **Yuyang Wang** — Data Science · 2023.9 – present
 
 ## Past Members
 
@@ -16,6 +15,7 @@ Current and past members of the DataLinkX group. We gratefully acknowledge every
 - **Jiaxuan Qiao** — Statistics · 2022.9 – 2023.9
 
 #### Graduates
+- **Yuyang Wang** — Data Science · 2023.9 – 2026.6
 - **Yuhao Ma** — M.S. Statistics, ZJSU · 2024.3 – 2025.10
 - **He Li** — M.S. Data Science · 2020.9 – 2023.9
 - **Xiaoru Wu** — M.S. Statistics · 2022.6 – 2022.8
