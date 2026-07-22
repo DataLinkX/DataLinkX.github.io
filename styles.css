@@ -36,7 +36,7 @@ body { overflow-x: clip; max-width: 100%; }
 
 body {
   margin: 0;
-  background: #ffffff;
+  background: #fcfdff;
   color: var(--ink);
   font-family: var(--serif);
   font-size: 18px;
