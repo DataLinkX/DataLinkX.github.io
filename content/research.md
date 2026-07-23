@@ -1,6 +1,6 @@
 We aim to make new scientific findings by developing machine learning and statistical methods that summarize information from data and prior knowledge. We currently focus on new methods for **(1)** biological multi-omics data — (sc)RNA-seq, ChIP-seq, xWAS and more — to explore the mechanisms underlying complex phenotypes such as agronomic traits, diseases and tumors; and **(2)** multimodal data, including time-series, spatial and network data, integrating information across dimensions to identify key features related to response.
 
-## Research Interests
+### Research Interests
 
 #### Computational Biology
 - Multi-omics data analysis
@@ -18,7 +18,7 @@ We aim to make new scientific findings by developing machine learning and statis
 - Biologically informed AI
 - AI for multimodal data
 
-## Selected Publications
+### Selected Publications
 
 *\* corresponding author(s), # equal contribution, <u>underlined</u> authors are (joint) students.*
 
