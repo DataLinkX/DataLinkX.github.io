@@ -369,7 +369,7 @@ ol.pubs li::before {
 .md-content p { margin: 0 0 16px; }
 
 /* content links: clear blue so they read as clickable — no underline */
-.md-content a { color: #1f6fb2; text-decoration: none; }
+.md-content a { color: #1f6fb2; font-weight: 600; text-decoration: none; }
 .md-content a:hover { color: var(--link-hover); text-decoration: underline; text-underline-offset: 2px; }
 .md-content a em { color: var(--oxblood-2); }   /* journal-name links stay oxblood italic */
 
