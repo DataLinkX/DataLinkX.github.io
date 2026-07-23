@@ -1,15 +1,15 @@
 Current and past members of the DataLinkX group. We gratefully acknowledge everyone's contributions to the group.
 
-## Ph.D. Students
+### Ph.D. Students
 - **Jingcheng He** — Statistics · 2021 – present
 - **Xiaoyue Hu** — Statistics · 2021 – present
 - **Yuzhou Li** — Statistics · 2022 – present
 - **Baining Shen** — Statistics · 2023 – present
 
-## Master Students
+### Master Students
 - **Qiuyue Jiang** — Data Science · 2023.9 – present
 
-## Past Members
+### Past Members
 
 #### Research Assistant
 - **Jiaxuan Qiao** — Statistics · 2022.9 – 2023.9
