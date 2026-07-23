@@ -22,6 +22,7 @@ We are looking for students with a strong interest in interdisciplinary research
 - [Center for Data Science](http://cds.zju.edu.cn/)
 - [Ph.D. in Mathematics / Statistics](http://www.math.zju.edu.cn/38087/list.htm), School of Mathematical Sciences
 - [Master in Data Science](http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776), Haining International Campus
+- [Master in Data Science](https://pi.zju.edu.cn/8001/2024/0624/c68814a3065867/page.psp), Polytechnic Institute of Zhejiang University
 
 #### Additional Opportunities
 - Visiting overseas universities
