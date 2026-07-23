@@ -147,11 +147,11 @@ p { margin: 0 0 16px; }
 .chinese { font-family: var(--serif); }
 
 /* meta / quick links */
-.quicklinks { display:flex; flex-wrap:wrap; gap: 10px; margin-top: 22px; }
+.quicklinks { display:flex; flex-wrap:nowrap; gap: 10px; margin-top: 22px; }
 .btn {
-  font-family: var(--sans); font-size: .84rem; font-weight: 600; letter-spacing:.02em;
-  display:inline-flex; align-items:center; gap:7px;
-  padding: 9px 16px; border-radius: 7px;
+  font-family: var(--sans); font-size: .8rem; font-weight: 600; letter-spacing:.01em;
+  display:inline-flex; align-items:center; gap:6px; white-space: nowrap;
+  padding: 8px 13px; border-radius: 7px;
   border: 1px solid var(--navy); color: var(--navy); background: transparent;
 }
 .btn:hover { background: var(--navy); color: #fff; text-decoration:none; }
@@ -299,6 +299,7 @@ ol.pubs li::before {
   .nav-inner { padding: 0 28px; }
   .hero { padding: 40px 0 20px; }
   .hero-grid { grid-template-columns: 1fr; gap: 28px; }
+  .quicklinks { flex-wrap: wrap; }
   .portrait-frame { max-width: 220px; }
   .portrait-frame::after { inset: 8px -8px -8px 8px; }
   .grid-2, .grid-3, .interests { grid-template-columns: 1fr; }
@@ -309,7 +310,7 @@ ol.pubs li::before {
   .nav-links {
     display:none; position: absolute; top: 62px; left:0; right:0;
     flex-direction: column; align-items: stretch; gap: 0;
-    background: var(--paper); border-bottom: 1px solid var(--line);
+    background: #fff; border-bottom: 1px solid var(--line);
     padding: 8px 16px 14px;
   }
   .nav-links.open { display:flex; }
