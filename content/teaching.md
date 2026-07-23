@@ -1,4 +1,4 @@
-## Zhejiang University
+### Zhejiang University
 
 #### 2023 – present
 - Bioinformatics *(B.S.)*
@@ -7,7 +7,7 @@
 #### 2021 – present
 - Statistical Modeling and Examples *(M.S.)*
 
-## The Chinese University of Hong Kong
+### The Chinese University of Hong Kong
 
 #### 2017 – 2018
 - STAT6040 — Studies on Selected Topics II *(with Prof. Fan)*
