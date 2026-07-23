@@ -391,7 +391,7 @@ ol.pubs li::before {
 /* unordered lists */
 .md-content ul { margin: 8px 0 16px; padding-left: 20px; }
 .md-content ul li { margin: 5px 0; }
-.md-content ul li::marker { color: var(--oxblood); }
+.md-content ul li::marker { color: #000; }
 
 /* nested lists (e.g. news visitors by year) */
 .md-content li > ul { margin: 6px 0 6px; }
