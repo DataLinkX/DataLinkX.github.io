@@ -17,6 +17,7 @@ We are looking for students with a strong interest in interdisciplinary research
 #### Graduate Admissions — Annual Quota
 - **One** Ph.D. from the [School of Mathematical Sciences](http://www.math.zju.edu.cn/)
 - Master's students from the [Data Science program](http://cds.zju.edu.cn/news-deta.aspx?k1=6&k2=24&id=776) at the Haining International Campus, ZJU
+- Master's students from the [Data Science program](https://pi.zju.edu.cn/8001/2024/0624/c68814a3065867/page.psp) at Polytechnic Institute of Zhejiang University
 
 #### Learn More
 - [Center for Data Science](http://cds.zju.edu.cn/)
