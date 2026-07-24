@@ -428,7 +428,7 @@ ol.pubs li::before {
 .md-content hr { border:0; border-top: 1px solid var(--line); margin: 34px 0; }
 
 /* home body: separate from hero with a rule */
-.home-body { border-top: 1px solid var(--line); padding-top: 34px; margin-top: 8px; }
+.home-body { padding-top: 34px; margin-top: 8px; }
 /* no underline on the home section headings */
 .home-body h2 { border-bottom: 0; padding-bottom: 0; }
 
