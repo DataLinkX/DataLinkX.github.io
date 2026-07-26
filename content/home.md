@@ -2,7 +2,7 @@
 
 Before join in Zhejiang University, I obtained my Ph.D. in Statistics (Advisor: [Prof. Xiaodan Fan](https://www.sta.cuhk.edu.hk/peoples/xfan/)) in 2018 from [Department of Statistics](http://www.sta.cuhk.edu.hk/), The Chinese University of Hong Kong, and M.Sc. in Applied Mathematics in 2013 from [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/).
 
-My group — **DataLinkX** — aims to <em class="j">link data to science</em>. We develop statistical and deep-learning methods for biological multi-omics and for multimodal data such as time-series, spatial and network data, to integrate information across multiple dimensions to reveal the key features driving complex phenotypes. Our works were published on journals like *Nature Genetics*, *Nature Astronomy*, *Nature Plants*, *Nature Communications*, *Science Advances*, *Patterns* (sister journal to *Cell*) etc.
+My group — **DataLinkX** — aims to <em class="j">link data to science</em>. We develop statistical and deep-learning methods for biological multi-omics and for multimodal data such as time-series, spatial and network data, to integrate information from multiple dimensions to reveal the key features driving complex phenotypes. Our works were published on journals like *Nature Genetics*, *Nature Astronomy*, *Nature Plants*, *Nature Communications*, *Science Advances*, *Patterns* (sister journal to *Cell*) etc.
 
 ## Research at a Glance
 
