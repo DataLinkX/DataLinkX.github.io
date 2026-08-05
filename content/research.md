@@ -23,6 +23,7 @@ We aim to make new scientific findings by developing machine learning and statis
 *\* corresponding author(s), # equal contribution, <u>underlined</u> authors are (joint) students.*
 
 ### 2026
+1.  G. Ye#, Y. Wang#, H. Li#, …, Y. You\*, **H. Jiang**\*, Q. Luo\*. Bilophila wadsworthia inhibits lifestyle intervention response in Gestational Diabetes Mellitus via L- glutamine regulation. [*Genome Medicine*](https://). In press.
 1. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*. Interpretable deep neural network for identifying biomarkers to phenotype. [*Briefings in Bioinformatics*](https://). In press.
 1. B. Sarker, T. Zhou, X. Deng, L. Zhang, …, **H. Jiang**\*, C. Xu\*. APAdeg enhances differentially expressed gene inference by leveraging site-specific signals in APA-seq data. [*Briefings in Bioinformatics*](https://academic.oup.com/bib/article/27/3/bbag295/8702470).
 1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. <em class="j">Patterns</em> (a sister journal to <em class="j">Cell</em>). In press.
@@ -88,7 +89,6 @@ We aim to make new scientific findings by developing machine learning and statis
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*.
 1. Forty-hertz near-infrared light alleviates spatial-memory impairment in Alzheimer's disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>#, <u>X. Zhang</u>#, <u>X. Hu</u>#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*, S. Hao\*.
 1. Long-term barley diet alleviates cognitive deficits in AD mice via regulating gut-microbiome composition. <u>Y. Hao</u>#, <u>Yu. Li</u>#, …, **H. Jiang**\*, Y. Wang\*, S. Hao\*.
-1. *Lactobacillus rhamnosus* improves lifestyle-intervention response in gestational diabetes mellitus impeded by gut bacterium *Bilophila wadsworthia*. G. Ye, …, **H. Jiang**\*, Q. Luo\*.
 1. Non-parametric GWAS: another view on genome-wide association study. <u>X. Hu</u>#, S. Yu# and **H. Jiang**\*. ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1))
 1. Recent advances on phytohormone regulation of floral-bud differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric gene–environment interaction detection. **H. Jiang** and X. Fan.
