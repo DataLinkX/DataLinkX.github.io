@@ -84,7 +84,6 @@ We aim to make new scientific findings by developing machine learning and statis
 
 1. Split-and-Conquer: Distributed Factor Modeling for High-Dimensional Matrix-Variate Time Series. **H. Jiang**, Y. Li, Z. Gao\*.
 1. Discovery of rice peroxisomal proteins with deep learning. Q. Deng, Y. Feng, …, **H. Jiang**\*, R. Pan\*.
-1. Distributed factor modeling of high-dimensional matrix-variate time-series data. **H. Jiang**, Y. Li, Z. Gao\*.
 1. Structured e-value filter for setwise inference with applications to brain-imaging studies. J. He, **H. Jiang**\*, W. Sun (alphabetical order).
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*.
 1. Forty-hertz near-infrared light alleviates spatial-memory impairment in Alzheimer's disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>#, <u>X. Zhang</u>#, <u>X. Hu</u>#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*, S. Hao\*.
