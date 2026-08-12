@@ -25,7 +25,7 @@ We aim to make new scientific findings by developing machine learning and statis
 ### 2026
 1.  G. Ye#, Y. Wang#, H. Li#, …, Y. You\*, **H. Jiang**\*, Q. Luo\*. *Bilophila wadsworthia* inhibits lifestyle intervention response in Gestational Diabetes Mellitus via L-glutamine regulation. [*Genome Medicine*](https://). In press.
 1. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*. Interpretable deep neural network for identifying biomarkers to phenotype. [*Briefings in Bioinformatics*](https://). In press.
-1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. [*Patterns*](https://) (a sister journal to <em class="j">Cell</em>). In press.
+1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. [*Patterns*](https://) (a sister journal to <em class="j">Cell</em>). In press. ([Early Version](https://arxiv.org/pdf/2006.08864.pdf))
 1. B. Sarker, T. Zhou, X. Deng, L. Zhang, …, **H. Jiang**\*, C. Xu\*. APAdeg enhances differentially expressed gene inference by leveraging site-specific signals in APA-seq data. [*Briefings in Bioinformatics*](https://academic.oup.com/bib/article/27/3/bbag295/8702470).
 1. <u>J. He</u>#, <u>G. Q</u>#, …, **H. Jiang**\*, G. Chen\*. UK BioCoin: swift trait-specific summary-statistics regression for UK Biobank. [*Nature Communications*](https://www.nature.com/articles/s41467-026-71788-z). ([Homepage for UKC](https://github.com/Ttttt47/UKBioCoin))
 1. C. Li, M. Chen, S. Guo, Y. Ma, J. Wu, T. Liu, Y. Jin, X. Liu, H. Zhao, H. Liu, S. Wu\*, **H. Jiang**\*, W. Cheng\*, A. Wu\*, S. Hao\*. PTBP1 knockdown reprograms glioma stem cell into neuronal-like cell and suppresses tumorigenesis via the DUSP5–ERK1/2 signaling pathway. <em class="j">Neuro-Oncology</em>.
@@ -91,7 +91,6 @@ We aim to make new scientific findings by developing machine learning and statis
 1. Non-parametric GWAS: another view on genome-wide association study. <u>X. Hu</u>#, S. Yu# and **H. Jiang**\*. ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1))
 1. Recent advances on phytohormone regulation of floral-bud differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
 1. Non-parametric gene–environment interaction detection. **H. Jiang** and X. Fan.
-1. A goodness-of-fit test for statistical models. **H. Jiang**. ([Preprint](https://arxiv.org/pdf/2006.08864.pdf))
 1. Bayesian variable selection for single-index logistic model. <u>Y. Sun</u> and **H. Jiang**\*. ([Preprint](https://arxiv.org/pdf/2012.06199.pdf))
 1. Parameter estimation in noisy dynamical system. **H. Jiang** and D. H. He.
 1. Equitability of dependence measure. **H. Jiang**, K. Liu and Y. Ding (2013). ([Preprint](https://arxiv.org/pdf/1501.02102.pdf))
