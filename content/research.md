@@ -89,8 +89,5 @@ We aim to make new scientific findings by developing machine learning and statis
 1. Forty-hertz near-infrared light alleviates spatial-memory impairment in Alzheimer's disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>#, <u>X. Zhang</u>#, <u>X. Hu</u>#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*, S. Hao\*.
 1. Long-term barley diet alleviates cognitive deficits in AD mice via regulating gut-microbiome composition. <u>Y. Hao</u>#, <u>Yu. Li</u>#, …, **H. Jiang**\*, Y. Wang\*, S. Hao\*.
 1. Non-parametric GWAS: another view on genome-wide association study. <u>X. Hu</u>#, S. Yu# and **H. Jiang**\*. ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1))
-1. Recent advances on phytohormone regulation of floral-bud differentiation. X. Xie, S. Fu, L. Huang, S. Qin, J. Wang, Q. Sun, X. Wang, H. Yuan, D. Yan, Y. Wang, X. Mo, H. Wang, D. Xue, **H. Jiang**, J. Pozueta-Romero, B. Zheng, Y. He\*.
-1. Non-parametric gene–environment interaction detection. **H. Jiang** and X. Fan.
 1. Bayesian variable selection for single-index logistic model. <u>Y. Sun</u> and **H. Jiang**\*. ([Preprint](https://arxiv.org/pdf/2012.06199.pdf))
-1. Parameter estimation in noisy dynamical system. **H. Jiang** and D. H. He.
 1. Equitability of dependence measure. **H. Jiang**, K. Liu and Y. Ding (2013). ([Preprint](https://arxiv.org/pdf/1501.02102.pdf))
