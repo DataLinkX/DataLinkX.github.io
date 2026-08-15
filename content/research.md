@@ -75,8 +75,8 @@ We aim to make new scientific findings by developing machine learning and statis
 ### Before 2019
 1. **H. Jiang** and Q. Wu\* (2018). Robust dependence measure for detecting associations in large data set. [*Acta Mathematica Scientia*](https://doi.org/10.1016/S0252-9602(17)30117-0).
 1. H.-B. Li\*, **H. Jiang** (in charge of statistical analysis), X. Fan, Q. Gu, Y. Zhang (2017). The link between magnetic-field orientations and star-formation rates. [*Nature Astronomy*](https://doi.org/10.1038/s41550-017-0158). (**Cover Paper**)
-1. Q. Tan, **H. Jiang**\* and Y. Ding (2014). Model selection based on maximal information coefficient of residuals. [*Acta Mathematica Scientia*](https://doi.org/10.1016/S0252-9602(14)60031-X).
 1. **H. Jiang**, Y. Shan and Q. Wu (2017). Dependence measure: a comparative study. <em class="j">Acta Mathematica Scientia</em>.
+1. Q. Tan, **H. Jiang**\* and Y. Ding (2014). Model selection based on maximal information coefficient of residuals. [*Acta Mathematica Scientia*](https://doi.org/10.1016/S0252-9602(14)60031-X).
 
 ## Manuscripts
 
