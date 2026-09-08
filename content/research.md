@@ -24,7 +24,7 @@ We aim to make new scientific findings by developing machine learning and statis
 
 ### 2026
 1.  G. Ye#, Y. Wang#, H. Li#, …, Y. You\*, **H. Jiang**\*, Q. Luo\*. *Bilophila wadsworthia* inhibits lifestyle intervention response in Gestational Diabetes Mellitus via L-glutamine regulation. [*Genome Medicine*](https://). In press.
-1. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*. Interpretable deep neural network for identifying biomarkers to phenotype. [*Briefings in Bioinformatics*](https://). In press.
+1. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*. Interpretable deep neural network for identifying biomarkers to phenotype. [*Briefings in Bioinformatics*](https://doi.org/10.1093/bib/bbag476). In press.
 1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. [*Patterns*](https://www.cell.com/patterns/fulltext/S2666-3899(26)00152-2) (a sister journal to <em class="j">Cell</em>). ([Early Version](https://arxiv.org/pdf/2006.08864.pdf))
 1. B. Sarker, T. Zhou, X. Deng, L. Zhang, …, **H. Jiang**\*, C. Xu\*. APAdeg enhances differentially expressed gene inference by leveraging site-specific signals in APA-seq data. [*Briefings in Bioinformatics*](https://academic.oup.com/bib/article/27/3/bbag295/8702470).
 1. <u>J. He</u>#, <u>G. Q</u>#, …, **H. Jiang**\*, G. Chen\*. UK BioCoin: swift trait-specific summary-statistics regression for UK Biobank. [*Nature Communications*](https://www.nature.com/articles/s41467-026-71788-z). ([Homepage for UKC](https://github.com/Ttttt47/UKBioCoin))
