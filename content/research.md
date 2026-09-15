@@ -23,6 +23,7 @@ We aim to make new scientific findings by developing machine learning and statis
 *\* corresponding author(s), # equal contribution, <u>underlined</u> authors are (joint) students.*
 
 ### 2026
+1. J. He, **H. Jiang**\*, W. Sun (alphabetical order), Structured e-value filter for setwise inference with applications to brain-imaging studies. [*Journal of the American Statistical Association*](https://). In Press.
 1.  G. Ye#, Y. Wang#, H. Li#, …, Y. You\*, **H. Jiang**\*, Q. Luo\*. *Bilophila wadsworthia* inhibits lifestyle intervention response in Gestational Diabetes Mellitus via L-glutamine regulation. [*Genome Medicine*](https://link.springer.com/article/10.1186/s13073-026-01756-1). 
 1. <u>X. Hu</u>, <u>Y. Ma</u>, R. Ming, H. Zhang\*, **H. Jiang**\*. Interpretable deep neural network for identifying biomarkers to phenotype. [*Briefings in Bioinformatics*](https://doi.org/10.1093/bib/bbag476). 
 1. <u>B. Shen</u>#, <u>M. Li</u>#, …, W. Chen\*, **H. Jiang**\*. Identifying low-quality features and suboptimal models to enhance phenotype prediction. [*Patterns*](https://www.cell.com/patterns/fulltext/S2666-3899(26)00152-2) (a sister journal to <em class="j">Cell</em>). ([Early Version](https://arxiv.org/pdf/2006.08864.pdf))
@@ -84,7 +85,6 @@ We aim to make new scientific findings by developing machine learning and statis
 
 1. Split-and-Conquer: Distributed Factor Modeling for High-Dimensional Matrix-Variate Time Series. **H. Jiang**, Y. Li, Z. Gao\*.
 1. Discovery of rice peroxisomal proteins with deep learning. Q. Deng, Y. Feng, …, **H. Jiang**\*, R. Pan\*.
-1. Structured e-value filter for setwise inference with applications to brain-imaging studies. J. He, **H. Jiang**\*, W. Sun (alphabetical order).
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*.
 1. Forty-hertz near-infrared light alleviates spatial-memory impairment in Alzheimer's disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>#, <u>X. Zhang</u>#, <u>X. Hu</u>#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*, S. Hao\*.
 1. Long-term barley diet alleviates cognitive deficits in AD mice via regulating gut-microbiome composition. <u>Y. Hao</u>#, <u>Yu. Li</u>#, …, **H. Jiang**\*, Y. Wang\*, S. Hao\*.
