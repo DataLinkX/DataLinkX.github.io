@@ -86,7 +86,7 @@ We aim to make new scientific findings by developing machine learning and statis
 1. Split-and-Conquer: Distributed Factor Modeling for High-Dimensional Matrix-Variate Time Series. **H. Jiang**, Y. Li, Z. Gao\*.
 1. Discovery of rice peroxisomal proteins with deep learning. Q. Deng, Y. Feng, …, **H. Jiang**\*, R. Pan\*.
 1. RAMP identifies reliable biomarkers for complex phenotypes with ensemble learning. <u>X. Hu</u>, <u>Q. Jiang</u>, <u>Y. Ma</u>, M. Chen, **H. Jiang**\*.
-1. Forty-hertz near-infrared light alleviates spatial-memory impairment in Alzheimer's disease via regulating hypothalamic-hippocampal neuronal circuitry. <u>X. Sun</u>#, <u>X. Zhang</u>#, <u>X. Hu</u>#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, **H. Jiang**\*, S. Hao\*.
+1. Rhythmic forniceal photobiomodulation alleviates multiple memory deficits in Alzheimer’s mice. <u>X. Sun</u>#, <u>X. Zhang</u>#, <u>X. Hu</u>#, Z. Li, M. Xu, X. Zhou, T. Cheng, J. Fu, L. Qin, H. Zheng\*, **H. Jiang**\*, S. Hao\*.
 1. Long-term barley diet alleviates cognitive deficits in AD mice via regulating gut-microbiome composition. <u>Y. Hao</u>#, <u>Yu. Li</u>#, …, **H. Jiang**\*, Y. Wang\*, S. Hao\*.
 1. Non-parametric GWAS: another view on genome-wide association study. <u>X. Hu</u>#, S. Yu# and **H. Jiang**\*. ([Preprint](https://www.biorxiv.org/content/10.1101/2022.11.11.516099v1))
 1. Bayesian variable selection for single-index logistic model. <u>Y. Sun</u> and **H. Jiang**\*. ([Preprint](https://arxiv.org/pdf/2012.06199.pdf))
