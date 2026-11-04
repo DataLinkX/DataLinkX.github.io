@@ -85,14 +85,6 @@ function toggleMenu() {
   });
 })();
 
-function fallbackCopy(text) {
-  var t = document.createElement('textarea');
-  t.value = text; t.setAttribute('readonly', ''); t.style.position = 'fixed'; t.style.opacity = '0';
-  document.body.appendChild(t); t.select();
-  try { document.execCommand('copy'); } catch (e) {}
-  document.body.removeChild(t);
-}
-
 // --- Modals: [data-open="id"] opens <dialog id="id">; [data-close],
 //     Esc, or a click on the backdrop closes it ---
 (function () {
@@ -102,19 +94,6 @@ function fallbackCopy(text) {
       var d = document.getElementById(opener.getAttribute('data-open'));
       if (d && d.showModal) { d.showModal(); }
       else if (d) { d.setAttribute('open', ''); }
-      return;
-    }
-    var copier = e.target.closest && e.target.closest('[data-copy]');
-    if (copier) {
-      var text = copier.getAttribute('data-copy');
-      var done = function () {
-        var label = copier.textContent;
-        copier.textContent = 'Copied ✓'; copier.classList.add('done');
-        setTimeout(function () { copier.textContent = label; copier.classList.remove('done'); }, 1600);
-      };
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(text).then(done, function () { fallbackCopy(text); done(); });
-      } else { fallbackCopy(text); done(); }
       return;
     }
     var closer = e.target.closest && e.target.closest('[data-close]');
