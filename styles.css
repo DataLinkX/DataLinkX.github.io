@@ -203,7 +203,7 @@ button.btn { cursor: pointer; line-height: inherit; }
 }
 .modal-close:hover { background: var(--paper-2); color: var(--navy); }
 .modal-close:focus { outline: none; }
-.modal-close:focus-visible, .copy-btn:focus-visible { outline: 2px solid var(--navy-2); outline-offset: 2px; }
+.modal-close:focus-visible { outline: 2px solid var(--navy-2); outline-offset: 2px; }
 
 .modal-body { padding: 8px 28px 12px; }
 .contact-item { display: flex; gap: 16px; align-items: flex-start; padding: 16px 0; }
@@ -219,15 +219,6 @@ button.btn { cursor: pointer; line-height: inherit; }
 .contact-value.zh { font-size: .98rem; }
 .contact-value a { color: var(--link); font-weight: 600; }
 .contact-value a:hover { color: var(--link-hover); }
-.contact-value:has(.copy-btn) { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 10px; }
-.copy-btn {
-  font: 600 .72rem/1 var(--sans); letter-spacing: .02em; cursor: pointer;
-  padding: 5px 9px; border-radius: 6px;
-  border: 1px solid var(--line); background: var(--card); color: var(--muted);
-  transition: border-color .15s, color .15s, background .15s;
-}
-.copy-btn:hover { border-color: var(--navy); color: var(--navy); }
-.copy-btn.done { border-color: #2f7d4f; color: #2f7d4f; background: #f1f8f3; }
 
 @media (max-width: 480px) {
   .modal-head { padding: 16px 14px 14px 20px; }
