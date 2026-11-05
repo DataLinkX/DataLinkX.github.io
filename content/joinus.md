@@ -2,11 +2,11 @@ We are the DataLinkX group, aiming to <em class="j">link data to science</em>.
 
 ## Collaborators
 
-Collaborations are welcome. We are glad to work with researchers from different areas who are interested in exploring the mechanisms behind data. If you have any data analysis problem, please do not hesitate to email me at [jianghj@zju.edu.cn](mailto:jianghj@zju.edu.cn).
+Collaborations are welcome. We are glad to work with researchers from different areas who are interested in exploring the mechanisms behind data. If you have any data analysis problem, please do not hesitate to contact us.
 
 ## Prospective Students
 
-We are looking for students with a strong interest in interdisciplinary research who want to make an impact on the scientific community. If you have any questions, feel free to email me at [jianghj@zju.edu.cn](mailto:jianghj@zju.edu.cn).
+We are looking for students with a strong interest in interdisciplinary research who want to make an impact on the scientific community. If you have any questions, feel free to contact us.
 
 #### Undergraduates
 
